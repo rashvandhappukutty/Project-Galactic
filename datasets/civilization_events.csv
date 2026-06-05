@@ -1,0 +1,373 @@
+civilization_id,civilization_name,year,event_type,description,stability_impact,population_impact,event_id
+9594053f90,Scientific Galacticite Union,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00001
+70a115d461,Consolidated Aurelite Worlds,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00002
+b6e89e8b4d,Allied Chi-perseis Systems,100,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-108054963.89236155,EVT-00003
+5db2756626,Unified Zelian Council,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00004
+ea27a17ca6,The Meris Federation,100,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00005
+c56a0b9792,Allied Elysiis Systems,100,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Monarchy.,0.0,0.0,EVT-00006
+494354518b,Unified Zylarite Council,100,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,343980673.6131897,EVT-00007
+35b25d7eaf,Unified Aethelgardis Council,100,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Technocracy.,0.0,0.0,EVT-00008
+e4a60e62b6,Unified Zeloid Council,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00009
+6dfc531f16,Unified Xenis Council,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00010
+db90f4ff25,Unified Xenan Council,100,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-758312363.1689242,EVT-00011
+3c4760ddea,Zelis Commonwealth,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00012
+cb312b9d86,Aurelex Directorate,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1606129686.5347176,EVT-00013
+b53d4251d2,Meroid Directorate,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-986571961.530609,EVT-00014
+7994a1ada7,Unified Bulgan Council,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00015
+a222a74ae8,Zelex Directorate,100,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,155047066.42937893,EVT-00016
+609e70586f,Scientific Kaeluman Union,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00017
+7be35390be,Scientific Valan Union,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00018
+71d820677a,The Zylaran Federation,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00019
+7664b6b371,Orionian Directorate,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00020
+d5f12251b2,Unified Xenian Council,100,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00021
+b8c054770f,Beta-bulgis Directorate,100,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00022
+1bc76d1c73,Consolidated Orionis Worlds,100,Civil War,Societal division erupted into widespread civil war. Transitioned to Collective.,-50.0,-1781445494.9603794,EVT-00023
+88977397af,Zylarex Directorate,100,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to AI Governance.,0.0,0.0,EVT-00024
+d0016e25b4,The Meran Federation,100,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-482762704.35476565,EVT-00025
+5a9f1f61c7,Scientific Merex Union,100,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00026
+691ec52085,The Zelian Federation,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00027
+9a629191f0,Allied Orionan Systems,100,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Technocracy.,0.0,0.0,EVT-00028
+58a2b00e32,Consolidated Persean Worlds,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-678625530.9354798,EVT-00029
+b4e38b5ba0,Scientific Bulgian Union,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00030
+12f8de3472,Thranari Commonwealth,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00031
+8196db66b3,Scientific Thranan Union,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00032
+dffeed89fb,Chi-bulgis Directorate,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00033
+28d83c4b42,Scientific Bulgite Union,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-2747930699.130629,EVT-00034
+4164b650a3,Unified Zylarite Council,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00035
+785ce4730c,Unified Xenan Council,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-25320618.84055409,EVT-00036
+dbf06f7273,Orionite Directorate,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00037
+1a2a63b5eb,Allied Thranian Systems,100,Civil War,Societal division erupted into widespread civil war. Transitioned to Technocracy.,-50.0,-106963917.16619042,EVT-00038
+9eeb4737e9,Unified Merite Council,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00039
+8e17c1b492,Solex Commonwealth,100,Civil War,Societal division erupted into widespread civil war. Transitioned to Federation.,-50.0,-254080216.97525948,EVT-00040
+52be76d999,Zelian Directorate,100,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,366516674.60613686,EVT-00041
+7fdb421436,Consolidated Cygnian Worlds,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00042
+b323933feb,Allied Solian Systems,100,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-279192103.4949191,EVT-00043
+0187c7d64a,The Vesperan Federation,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00044
+de8a7cab3b,Unified Merian Council,100,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,200451996.66380855,EVT-00045
+5573af18db,Merian Directorate,100,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00046
+e13216033f,Meroid Directorate,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00047
+0ad458611c,Unified Orionian Council,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00048
+f343101fe6,Unified Aurelari Council,100,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Technocracy.,0.0,0.0,EVT-00049
+3a375c2f6d,Scientific Xenan Union,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00050
+ac70f57b73,Unified Solex Council,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-753057800.4806533,EVT-00051
+74136dc7b0,The Solari Federation,100,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,59150105.82598981,EVT-00052
+7388512271,Unified Orionari Council,100,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-73412509.56211413,EVT-00053
+4c2540c708,Unified Orionoid Council,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-3032120766.1947846,EVT-00054
+57733c8324,Scientific Merite Union,100,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00055
+83c39baf65,Zylarite Directorate,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00056
+f0f8b2423b,Xenex Directorate,100,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00057
+2ed96a351c,Unified Valite Council,100,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-655434345.2654501,EVT-00058
+11452e96e6,Scientific Zelex Union,100,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-21157879.560508788,EVT-00059
+75447b1ce9,Zylarian Commonwealth,100,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00060
+8a78a0e229,Unified Vesperoid Council,100,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00061
+822326926a,Unified Meroid Council,100,Civil War,Societal division erupted into widespread civil war. Transitioned to Technocracy.,-50.0,-978530066.9353391,EVT-00062
+f03d90fb8f,Thranite Directorate,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00063
+15474381ae,Scientific Kaelumari Union,100,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00064
+faf8d4b64a,Solex Directorate,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00065
+ec5efdeb2d,The Bulgite Federation,1000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00066
+511ff78315,Allied Zeta-cygnis Systems,1000,Civil War,Societal division erupted into widespread civil war. Transitioned to Scientific Council.,-50.0,-640259665.7495363,EVT-00067
+63fff6610a,Meris Directorate,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00068
+6d4e0abb77,Scientific Zelan Union,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00069
+95985a8620,Xenan Directorate,1000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,151796928.0788398,EVT-00070
+6fbfc2a11d,Unified Orionite Council,1000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00071
+1b37c066da,Valis Commonwealth,1000,Civil War,Societal division erupted into widespread civil war. Transitioned to Collective.,-50.0,-3180011684.2745085,EVT-00072
+53dc64803e,Scientific Orionian Union,1000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to AI Governance.,0.0,0.0,EVT-00073
+947f74a852,Allied Sagittariite Systems,1000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00074
+6957a14d13,Xenian Directorate,1000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Federation.,0.0,0.0,EVT-00075
+6957a14d13,Xenian Directorate,1000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00076
+cf1fb521d7,Allied Sagittarian Systems,1000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00077
+2640424e04,Unified Aurelan Council,1000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,243099491.99697095,EVT-00078
+984d4d4161,Consolidated Vesperan Worlds,1000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00079
+82f9ee8fb4,The Valoid Federation,1000,Civil War,Societal division erupted into widespread civil war. Transitioned to Collective.,-50.0,-1491063874.3707945,EVT-00080
+c235dc422c,Scientific Kaeluman Union,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00081
+a31575c86a,Unified Orionex Council,1000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1277714084.8505971,EVT-00082
+7f4ec7825c,Allied Soloid Systems,1000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-43773477.53655453,EVT-00083
+a1d0ea467a,Unified Meris Council,1000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1412980369.9183662,EVT-00084
+517cb43ce0,Scientific Solan Union,1000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Technocracy.,0.0,0.0,EVT-00085
+bda6417e80,Scientific Persean Union,1000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00086
+b4221d6e15,Unified Xenis Council,1000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Technocracy.,0.0,0.0,EVT-00087
+b4221d6e15,Unified Xenis Council,1000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,211625620.4213627,EVT-00088
+658cf93cc4,Unified Zylarian Council,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00089
+3b106fa102,Unified Perseian Council,1000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Technocracy.,0.0,0.0,EVT-00090
+4df0d9ee3b,Scientific Orionite Union,1000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00091
+b8c054770f,Beta-bulgis Directorate,1000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-905067390.9205159,EVT-00092
+58a2b00e32,Consolidated Persean Worlds,1000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Collective.,0.0,0.0,EVT-00093
+e1017ed35e,Cygnan Directorate,1000,Civil War,Societal division erupted into widespread civil war. Transitioned to Collective.,-50.0,-489025404.5158895,EVT-00094
+9696ce2491,Scientific Vesperari Union,1000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-183281687.4395531,EVT-00095
+15955262e1,Aurelian Directorate,1000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00096
+17fee1a6ac,The Thranite Federation,1000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Scientific Council.,0.0,0.0,EVT-00097
+66d46fcd47,Consolidated Orionite Worlds,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00098
+db6da7e17a,Orionis Directorate,1000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Collective.,0.0,0.0,EVT-00099
+7ba9deb67e,Consolidated Xenoid Worlds,1000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00100
+41a9345e47,The Aurelian Federation,1000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-102075814.70944999,EVT-00101
+1a2a63b5eb,Allied Thranian Systems,1000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-68246873.07032244,EVT-00102
+8c80ad65b6,Orionex Directorate,1000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-575005446.9475576,EVT-00103
+eacab5ee97,Thranan Directorate,1000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00104
+7ec564c9db,Scientific Valex Union,1000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,822465629.8294786,EVT-00105
+2e4e7545f5,Unified Xenian Council,1000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00106
+b1f20b8a8c,The Aurelan Federation,1000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00107
+d1ebd8161b,Unified Meran Council,1000,Civil War,Societal division erupted into widespread civil war. Transitioned to Monarchy.,-50.0,-179278851.17509598,EVT-00108
+81714ff4c3,Consolidated Xenari Worlds,1000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-789882392.2475785,EVT-00109
+e12feef736,Scientific Kaeluman Union,1000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Scientific Council.,0.0,0.0,EVT-00110
+350e107aae,Allied Aurelan Systems,1000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1167589424.80763,EVT-00111
+c3b1779520,Aurelis Commonwealth,1000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-14655639.908464774,EVT-00112
+8e65d7f5b1,Scientific Zeloid Union,1000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00113
+4bf29f7756,Scientific Zylaroid Union,1000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,606059582.7861475,EVT-00114
+18daa88e4f,Scientific Rho-perseis Union,1000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-116444320.00341485,EVT-00115
+f03d90fb8f,Thranite Directorate,1000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00116
+f8c1278b86,Consolidated Zelis Worlds,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,365723338.14230144,EVT-00117
+15286fa1f5,Consolidated Zelari Worlds,10000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-348350965.3138387,EVT-00118
+c7c9fca9a1,Unified Aethelgardis Council,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00119
+ea27a17ca6,The Meris Federation,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-843205212.7402482,EVT-00120
+7315025cfd,Unified Aurelari Council,10000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Scientific Council.,0.0,0.0,EVT-00121
+155f4eead5,The Aethelgardan Federation,10000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Democracy.,0.0,0.0,EVT-00122
+c7a93adf27,The Thranis Federation,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00123
+df2217070a,Allied Thranari Systems,10000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Technocracy.,0.0,0.0,EVT-00124
+c64460376e,Gamma-orionis Directorate,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00125
+6dfc531f16,Unified Xenis Council,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Scientific Council.,-50.0,-508243167.718801,EVT-00126
+65ea513ebb,Unified Sagittarian Council,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00127
+e3ba98a843,Unified Valoid Council,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00128
+947f74a852,Allied Sagittariite Systems,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00129
+e23dc5e375,Republic of Galactician,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00130
+6957a14d13,Xenian Directorate,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,1148129395.4787388,EVT-00131
+6657429a7c,Unified Ignis-ivis Council,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00132
+5578b4053f,Unified Zylaris Council,10000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-1404839191.755078,EVT-00133
+a987357567,Scientific Thranite Union,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00134
+208f64f5f9,Scientific Sagittarian Union,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-5912396800.047286,EVT-00135
+609e70586f,Scientific Kaeluman Union,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00136
+a866d8dcfc,Zelis Directorate,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00137
+a31575c86a,Unified Orionex Council,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00138
+7652ec5c8d,Unified Theta-perseis Council,10000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-1433541090.672681,EVT-00139
+517cb43ce0,Scientific Solan Union,10000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-39412445.06114026,EVT-00140
+bda6417e80,Scientific Persean Union,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00141
+56cd534bb7,The Persean Federation,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,218970334.27536988,EVT-00142
+d957806d32,Galactician Commonwealth,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00143
+6a9427ac16,Consolidated Prometheian Worlds,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Scientific Council.,-50.0,-2292169686.5951395,EVT-00144
+71f4e16f01,Primite Directorate,10000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Monarchy.,0.0,0.0,EVT-00145
+71f4e16f01,Primite Directorate,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1459929716.8037388,EVT-00146
+b8c054770f,Beta-bulgis Directorate,10000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Democracy.,0.0,0.0,EVT-00147
+1bc76d1c73,Consolidated Orionis Worlds,10000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Scientific Council.,0.0,0.0,EVT-00148
+0e67dd57aa,Unified Valis Council,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00149
+2b478a564d,Aurelian Commonwealth,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00150
+06f00def5a,Scientific Aureliite Union,10000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Federation.,0.0,0.0,EVT-00151
+80d9c3cc28,Vesperian Directorate,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00152
+ad47c2dda3,Bulgite Commonwealth,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00153
+3557fb1c6f,Allied Kaelumex Systems,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Monarchy.,-50.0,-506632734.9699813,EVT-00154
+c4d87c45ee,Unified Bulgite Council,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Technocracy.,-50.0,-5506824820.059332,EVT-00155
+634ad45f7e,Scientific Aurelan Union,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00156
+75912c8e4c,Kaelumari Directorate,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00157
+d07bc4ae63,Scientific Valian Union,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-5555441227.872984,EVT-00158
+9696ce2491,Scientific Vesperari Union,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1354752184.070749,EVT-00159
+7036dbff3e,Scientific Orionite Union,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Collective.,-50.0,-3699967528.345182,EVT-00160
+3779c3fe76,Unified Zelian Council,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00161
+53856bd8ca,Allied Sagittariian Systems,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Technocracy.,-50.0,-2259877088.312518,EVT-00162
+f2bbbfc167,Bulgan Commonwealth,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00163
+28d83c4b42,Scientific Bulgite Union,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Federation.,-50.0,-5219054347.177084,EVT-00164
+adc1c77061,Unified Thranis Council,10000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Collective.,0.0,0.0,EVT-00165
+7ba9deb67e,Consolidated Xenoid Worlds,10000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00166
+41e5776038,Unified Orionan Council,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00167
+1a2a63b5eb,Allied Thranian Systems,10000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00168
+8e17c1b492,Solex Commonwealth,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,58573834.96517494,EVT-00169
+2a8b6fc81d,Unified Zylarite Council,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Technocracy.,-50.0,-1834209143.3831496,EVT-00170
+91474e8269,Vesperian Directorate,10000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to AI Governance.,0.0,0.0,EVT-00171
+bbf8578e8c,Unified Orionite Council,10000,Civil War,Societal division erupted into widespread civil war. Transitioned to Democracy.,-50.0,-1836312877.4794092,EVT-00172
+8478dfd6f7,Merari Directorate,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00173
+b12b67a0db,Unified Zelian Council,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00174
+43cb04ad80,Xenoid Directorate,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,349225675.22767097,EVT-00175
+0fa7096d5a,Zelis Directorate,10000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Federation.,0.0,0.0,EVT-00176
+1a67be5b7f,Scientific Zelite Union,10000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00177
+0130446f7e,Scientific Kaelumis Union,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-979289745.7471093,EVT-00178
+4c2540c708,Unified Orionoid Council,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,1058186058.093969,EVT-00179
+e12feef736,Scientific Kaeluman Union,10000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00180
+0cb785b3d6,Kaelumite Commonwealth,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00181
+83c39baf65,Zylarite Directorate,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00182
+80ce70725d,Scientific Kaelumian Union,10000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-522617461.07644105,EVT-00183
+5fec320399,Unified Orionan Council,10000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,439831737.3570702,EVT-00184
+f7ed0ea8ba,Thranari Commonwealth,10000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00185
+85aec51e58,Consolidated Thranoid Worlds,10000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-1388509156.7717862,EVT-00186
+f8c1278b86,Consolidated Zelis Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Democracy.,0.0,0.0,EVT-00187
+4836a15586,Scientific Valan Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Federation.,0.0,0.0,EVT-00188
+ee951bbfab,Kaelumian Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00189
+faf8d4b64a,Solex Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-18973433300.763325,EVT-00190
+22b55b78e2,Unified Omicron-galacticis Council,100000,Civil War,Societal division erupted into widespread civil war. Transitioned to Scientific Council.,-50.0,-4617298256.184298,EVT-00191
+ec5efdeb2d,The Bulgite Federation,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-12988688487.357937,EVT-00192
+95cba99a70,Consolidated Aureloid Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Technocracy.,0.0,0.0,EVT-00193
+f8a4edc83b,Consolidated Xenoid Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to AI Governance.,0.0,0.0,EVT-00194
+d2748466c9,Scientific Xenis Union,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,2789856045.164875,EVT-00195
+23979e6a05,Unified Persean Council,100000,Civil War,Societal division erupted into widespread civil war. Transitioned to Scientific Council.,-50.0,-1835810290.4255745,EVT-00196
+b6e89e8b4d,Allied Chi-perseis Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Democracy.,0.0,0.0,EVT-00197
+243eff68e3,Sigma-bulgis Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Scientific Council.,0.0,0.0,EVT-00198
+9aa2eff7c3,Persean Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-23123092202.93112,EVT-00199
+63fff6610a,Meris Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-16022190428.242714,EVT-00200
+ea27a17ca6,The Meris Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Collective.,0.0,0.0,EVT-00201
+626215ebea,Scientific Xenoid Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-7731363843.792389,EVT-00202
+c56a0b9792,Allied Elysiis Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Scientific Council.,0.0,0.0,EVT-00203
+3a3695c8e9,Consolidated Galactican Worlds,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00204
+35b25d7eaf,Unified Aethelgardis Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00205
+95985a8620,Xenan Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00206
+80be4440e8,Kaelumis Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to AI Governance.,0.0,0.0,EVT-00207
+c7a93adf27,The Thranis Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Monarchy.,0.0,0.0,EVT-00208
+14c594f145,Unified Orionian Council,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00209
+abb26e55dc,Consolidated Orionian Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-8550703198.418074,EVT-00210
+d401178af2,Theta-orionis Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Collective.,0.0,0.0,EVT-00211
+65ea513ebb,Unified Sagittarian Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Democracy.,0.0,0.0,EVT-00212
+81601b2e5e,Unified Sigma-orionis Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to AI Governance.,0.0,0.0,EVT-00213
+81601b2e5e,Unified Sigma-orionis Council,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00214
+23094db297,Allied Solian Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Democracy.,0.0,0.0,EVT-00215
+3e1c9fe27e,Cygnian Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Monarchy.,0.0,0.0,EVT-00216
+cb16d2a5bc,Gamma-cygnis Directorate,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00217
+340e3912e2,Cygnite Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-23536437117.76226,EVT-00218
+6ebb371c3c,The Tau-galacticis Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Scientific Council.,0.0,0.0,EVT-00219
+1b37c066da,Valis Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Collective.,0.0,0.0,EVT-00220
+cb312b9d86,Aurelex Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Monarchy.,0.0,0.0,EVT-00221
+77811a2fa9,Gaeian Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-28055072960.71128,EVT-00222
+e99c95009e,Merex Directorate,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00223
+6957a14d13,Xenian Directorate,100000,Planetary Disaster,A massive meteor impact or climatic collapse ravaged cities across the hemisphere.,-30.0,-10545835898.258276,EVT-00224
+d2f4557294,Perseian Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-7978330145.2003765,EVT-00225
+5f5ebcf2f5,Solari Directorate,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00226
+095464621d,Cygnan Commonwealth,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00227
+cd650c58ff,Gamma-sagittariis Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Technocracy.,0.0,0.0,EVT-00228
+b53d4251d2,Meroid Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00229
+2b4452e77b,Soloid Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-7869027120.974448,EVT-00230
+7994a1ada7,Unified Bulgan Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Monarchy.,0.0,0.0,EVT-00231
+984d4d4161,Consolidated Vesperan Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-21126672798.80254,EVT-00232
+04b742dd38,The Perseian Federation,100000,Golden Age,Artistic growth and trust in institutions generated a glorious Era of Harmony.,20.0,0.0,EVT-00233
+08d81107e6,Zylarian Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-24169129817.86263,EVT-00234
+c6642b2284,Scientific Gaea-is Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Technocracy.,0.0,0.0,EVT-00235
+c6642b2284,Scientific Gaea-is Union,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00236
+f714a79195,Scientific Orionian Union,100000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-2039246381.656489,EVT-00237
+f6221e08e8,Orionian Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-15458652950.27478,EVT-00238
+a866d8dcfc,Zelis Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-14487535854.313423,EVT-00239
+26a6b7dcc3,Consolidated Valan Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Scientific Council.,0.0,0.0,EVT-00240
+7be35390be,Scientific Valan Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00241
+edb45b6eec,Unified Kaelumoid Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-27236197418.660103,EVT-00242
+fe5ce1f2b8,Consolidated Kaelumari Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-24977967694.612198,EVT-00243
+98fbfa35fa,Sigma-orionis Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Monarchy.,0.0,0.0,EVT-00244
+187eb0978f,Scientific Merite Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Collective.,0.0,0.0,EVT-00245
+8bd71d17f7,Unified Xenis Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to AI Governance.,0.0,0.0,EVT-00246
+7f4ec7825c,Allied Soloid Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Monarchy.,0.0,0.0,EVT-00247
+3339448f7c,Xenan Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-10914868728.625053,EVT-00248
+be3191b575,Scientific Eta-galacticis Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Technocracy.,0.0,0.0,EVT-00249
+b75dce1421,Allied Bulgite Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00250
+4c8e6a8540,Allied Bulgan Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Scientific Council.,0.0,0.0,EVT-00251
+76c64a14d6,Unified Orionoid Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Democracy.,0.0,0.0,EVT-00252
+76c64a14d6,Unified Orionoid Council,100000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-1390983760.4951887,EVT-00253
+bda6417e80,Scientific Persean Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00254
+56cd534bb7,The Persean Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Democracy.,0.0,0.0,EVT-00255
+778b8b68c3,Scientific Aurelex Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-24051472036.18867,EVT-00256
+37b8da7a55,Zylaris Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Scientific Council.,0.0,0.0,EVT-00257
+c1803ec34d,Aurelari Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-30828770355.56497,EVT-00258
+fcda05fc4e,Unified Sigma-galacticis Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-14844502056.544998,EVT-00259
+2320e9a617,Galactican Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Collective.,0.0,0.0,EVT-00260
+d5f12251b2,Unified Xenian Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Democracy.,0.0,0.0,EVT-00261
+b3ddaf54de,Unified Zylarex Council,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,933643087.1348685,EVT-00262
+02e103d2b6,Dominion of Thranari,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-12022492765.817476,EVT-00263
+529174abfd,Unified Meroid Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-15362531140.483948,EVT-00264
+658cf93cc4,Unified Zylarian Council,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00265
+094756ff65,Unified Vesperis Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00266
+d340e67e88,Scientific Aurelan Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-21358948484.639294,EVT-00267
+460d2edc1f,Sagittarian Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-7537409174.830998,EVT-00268
+4df0d9ee3b,Scientific Orionite Union,100000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-3503319292.0800066,EVT-00269
+b8c054770f,Beta-bulgis Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Federation.,0.0,0.0,EVT-00270
+1bc76d1c73,Consolidated Orionis Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Monarchy.,0.0,0.0,EVT-00271
+0e67dd57aa,Unified Valis Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Technocracy.,0.0,0.0,EVT-00272
+cadd62d564,Allied Aurelite Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Federation.,0.0,0.0,EVT-00273
+cadd62d564,Allied Aurelite Systems,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00274
+2b478a564d,Aurelian Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Monarchy.,0.0,0.0,EVT-00275
+999c5041c4,Scientific Aureliis Union,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00276
+47e406daef,Bulgian Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Technocracy.,0.0,0.0,EVT-00277
+0ed21e60e5,Orionan Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Monarchy.,0.0,0.0,EVT-00278
+5a9f1f61c7,Scientific Merex Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00279
+61550040fc,Unified Aurelian Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Federation.,0.0,0.0,EVT-00280
+691ec52085,The Zelian Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to AI Governance.,0.0,0.0,EVT-00281
+33e625a829,Aureloid Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Monarchy.,0.0,0.0,EVT-00282
+71073d1e77,Scientific Xenex Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-22039048089.17112,EVT-00283
+58a2b00e32,Consolidated Persean Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Monarchy.,0.0,0.0,EVT-00284
+dc652af4e1,Cygnan Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00285
+fc41667c54,Kaeluman Directorate,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00286
+b4e38b5ba0,Scientific Bulgian Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Democracy.,0.0,0.0,EVT-00287
+c4d87c45ee,Unified Bulgite Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00288
+62a7129a59,Unified Bulgian Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-8231061081.229279,EVT-00289
+b28f9ec7d4,Scientific Thranari Union,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,4181616533.667438,EVT-00290
+d07bc4ae63,Scientific Valian Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00291
+9d449a31b9,Consolidated Omega-cygnis Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-18142197819.0363,EVT-00292
+afc6771a1e,Unified Xenoid Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Collective.,0.0,0.0,EVT-00293
+da38a63176,Unified Orionis Council,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00294
+8196db66b3,Scientific Thranan Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-24073260525.67451,EVT-00295
+15955262e1,Aurelian Directorate,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00296
+7dc225fd37,Consolidated Orionian Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-22044028120.262184,EVT-00297
+17fee1a6ac,The Thranite Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Monarchy.,0.0,0.0,EVT-00298
+0ddd78edbb,The Delta-bulgis Federation,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00299
+d7ec4d3018,Thranan Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-22143164875.37871,EVT-00300
+adc1c77061,Unified Thranis Council,100000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-19395082.147928905,EVT-00301
+931aa9655e,Orionite Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00302
+a7f6005fd2,Republic of Meroid,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-19864769556.699768,EVT-00303
+4164b650a3,Unified Zylarite Council,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00304
+340ef3ab81,The Thranari Federation,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-8502444838.988829,EVT-00305
+dbf06f7273,Orionite Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-13274877715.005074,EVT-00306
+c87f4b2d09,Consolidated Zelite Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Collective.,0.0,0.0,EVT-00307
+41e5776038,Unified Orionan Council,100000,Civil War,Societal division erupted into widespread civil war. Transitioned to Collective.,-50.0,-2365590175.6170163,EVT-00308
+c8c30fa0a1,Orionan Directorate,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,1479424048.3975453,EVT-00309
+41a9345e47,The Aurelian Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Monarchy.,0.0,0.0,EVT-00310
+41a9345e47,The Aurelian Federation,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00311
+82b29167c3,Galactican Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Collective.,0.0,0.0,EVT-00312
+cbdac2fac3,Scientific Zylarex Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-30523694795.681583,EVT-00313
+9891e1dd90,Scientific Kaelumari Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00314
+5d94c085f5,Allied Valis Systems,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00315
+b7f420628f,Consolidated Iota-perseis Worlds,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00316
+8e17c1b492,Solex Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Federation to Monarchy.,0.0,0.0,EVT-00317
+15c488fdb9,Unified Vesperite Council,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,685510132.638949,EVT-00318
+7fdb421436,Consolidated Cygnian Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-6984672334.674093,EVT-00319
+c5f014b287,Bulgan Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-30492720879.008682,EVT-00320
+8d88177d24,Bulgian Directorate,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00321
+ecbe2dc98a,Zelari Commonwealth,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-10945028451.545671,EVT-00322
+354b63d6d6,Scientific Solex Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Federation.,0.0,0.0,EVT-00323
+e6f9f9e411,Unified Kaelumex Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Scientific Council.,0.0,0.0,EVT-00324
+24e153416d,Unified Aurelis Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Monarchy.,0.0,0.0,EVT-00325
+5573af18db,Merian Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00326
+e13216033f,Meroid Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00327
+e976b29c9d,Scientific Orionoid Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00328
+08caaac3af,Unified Orionian Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-28498771001.38085,EVT-00329
+0ad458611c,Unified Orionian Council,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,1812324960.9141273,EVT-00330
+32d2bbd884,Unified Zelan Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-8686129192.957443,EVT-00331
+f343101fe6,Unified Aurelari Council,100000,Economic Boom,Trade networks and industrial automation boosted the planetary economy.,10.0,196482787.2680935,EVT-00332
+7ec564c9db,Scientific Valex Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-30588129972.784645,EVT-00333
+2e4e7545f5,Unified Xenian Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-10721745924.374828,EVT-00334
+f9c2058d1a,Zylarian Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-4011011338.335594,EVT-00335
+28100766c8,Bulgite Directorate,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-22669417338.052948,EVT-00336
+6f1e390274,Kaelumis Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to AI Governance.,0.0,0.0,EVT-00337
+28728de334,Scientific Xenite Union,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-24665976723.657627,EVT-00338
+ed45fe3a8d,Vesperari Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Scientific Council.,0.0,0.0,EVT-00339
+3c196b299c,Scientific Vesperari Union,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00340
+1a67be5b7f,Scientific Zelite Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00341
+8dcb447d0f,Cygnian Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Technocracy.,0.0,0.0,EVT-00342
+d1ebd8161b,Unified Meran Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Monarchy to Technocracy.,0.0,0.0,EVT-00343
+996190e522,Orionan Directorate,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00344
+a38e0777cd,Zelex Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Scientific Council.,0.0,0.0,EVT-00345
+81714ff4c3,Consolidated Xenari Worlds,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Monarchy.,0.0,0.0,EVT-00346
+e12feef736,Scientific Kaeluman Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Technocracy.,0.0,0.0,EVT-00347
+22091a7056,Scientific Zylaris Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00348
+459f704847,Thranari Directorate,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00349
+575810e85b,Scientific Orionex Union,100000,Civil War,Societal division erupted into widespread civil war. Transitioned to Scientific Council.,-50.0,-23183899453.431904,EVT-00350
+182edcdd37,Aurelan Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Monarchy.,0.0,0.0,EVT-00351
+b9ec32251d,Allied Zylarian Systems,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-24174818162.826977,EVT-00352
+0cb785b3d6,Kaelumite Commonwealth,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Scientific Council.,0.0,0.0,EVT-00353
+57733c8324,Scientific Merite Union,100000,Dark Age,Scientific suppression and governance stagnation ushered in a dark epoch.,-20.0,0.0,EVT-00354
+b9c3618013,Unified Sagittariite Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-12883724934.903423,EVT-00355
+4b4e90bd89,The Meran Federation,100000,Civil War,Societal division erupted into widespread civil war. Transitioned to AI Governance.,-50.0,-9925575384.492058,EVT-00356
+2ed96a351c,Unified Valite Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Democracy to Technocracy.,0.0,0.0,EVT-00357
+c1cc584fd5,Unified Merite Council,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to Scientific Council.,0.0,0.0,EVT-00358
+75447b1ce9,Zylarian Commonwealth,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-5849298783.945932,EVT-00359
+f61290c372,Scientific Orionari Union,100000,Technological Leap,A paradigm-shifting breakthrough fast-forwarded research catalogs by 15%.,0.0,0.0,EVT-00360
+71efb681fc,The Aureloid Federation,100000,Government Reform,The political structures peacefully reformed. Transitioned from Collective to AI Governance.,0.0,0.0,EVT-00361
+5fec320399,Unified Orionan Council,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-9236466484.498474,EVT-00362
+0a6e8b3547,The Nu-cygnis Federation,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-29008228950.996548,EVT-00363
+18daa88e4f,Scientific Rho-perseis Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Scientific Council to Collective.,0.0,0.0,EVT-00364
+b6d872712f,Scientific Persean Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00365
+3c04f1e4d3,Scientific Xenite Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from AI Governance to Scientific Council.,0.0,0.0,EVT-00366
+15474381ae,Scientific Kaelumari Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Scientific Council.,0.0,0.0,EVT-00367
+15474381ae,Scientific Kaelumari Union,100000,Scientific Breakthrough,Scientists discovered major fundamental particles. Innovation and tech progress spiked.,0.0,0.0,EVT-00368
+f83f785370,Consolidated Valian Worlds,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-21917759946.043602,EVT-00369
+37270686ec,Scientific Bulgite Union,100000,Government Reform,The political structures peacefully reformed. Transitioned from Technocracy to Technocracy.,0.0,0.0,EVT-00370
+37270686ec,Scientific Bulgite Union,100000,Energy Crisis,Depletion of baseline power grids caused severe blackouts and standard of living drops.,-15.0,-7845986365.337284,EVT-00371
+b9be6a525a,The Bulgite Federation,100000,Extinction,"The population fell below critical thresholds, leading to complete planetary extinction.",-100.0,-7506654969.758529,EVT-00372

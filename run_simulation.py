@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 """
-Main pipeline runner for The Galactic Dream Engine.
-Combines Phase 1 (Galaxy Generation) and Phase 2 (Star System & Planet Generation)
-into a single, unified execution flow with consolidated console reports.
+Simulation pipeline runner for Phase 1 and Phase 2 of The Galactic Dream Engine.
+Generates the galaxy, enrich star systems, generates planets, and outputs visualizations.
 """
 
 import os
 import sys
 import pandas as pd
+import io
 
 # Set console encoding to UTF-8 to handle special symbols safely on Windows
 try:

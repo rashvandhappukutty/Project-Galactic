@@ -1,0 +1,175 @@
+event_id,tick,year,civilization_id,civilization_name,event_type,description
+COL-EVT-00001,1,100,927dbfac0b,Scientific Kaelumis Union,First Colony,Scientific Kaelumis Union established colony 'HD 14799-g Science Station' on planet HD 14799-g (score: 57.3).
+COL-EVT-00002,1,100,2705d84a32,Unified Vesperari Council,First Colony,Unified Vesperari Council established colony 'Webb-7499-e Science Station' on planet Webb-7499-e (score: 59.7).
+COL-EVT-00003,1,100,4c67325ea2,Unified Persean Council,First Colony,Unified Persean Council established colony 'Phi Persei-e Sector' on planet Phi Persei-e (score: 56.7).
+COL-EVT-00004,1,100,7c376afd56,The Kaelumis Federation,First Colony,The Kaelumis Federation established colony 'TESS-8623-d Sector' on planet TESS-8623-d (score: 68.2).
+COL-EVT-00005,1,100,84a3d643c9,Scientific Orionis Union,First Colony,Scientific Orionis Union established colony 'Scientific Outpost 97' on planet HR 120160-e (score: 47.4).
+COL-EVT-00006,1,100,cb312b9d86,Aurelex Directorate,First Colony,Aurelex Directorate established colony 'Aurelex Outpost 73' on planet Kepler-7797-d (score: 55.9).
+COL-EVT-00007,1,100,63803c4eb1,Unified Zelari Council,First Colony,Unified Zelari Council established colony 'PSR 133182-d Science Station' on planet PSR 133182-d (score: 63.0).
+COL-EVT-00008,1,100,d1ebd8161b,Unified Meran Council,First Colony,Unified Meran Council established colony 'Unified Outpost 51' on planet TESS-1750-d (score: 51.7).
+COL-EVT-00009,1,100,f8a4edc83b,Consolidated Xenoid Worlds,First Colony,Consolidated Xenoid Worlds established colony 'HD 212440-e Sector' on planet HD 212440-e (score: 60.6).
+COL-EVT-00010,1,100,096fc37df4,Scientific Vesperoid Union,First Colony,Scientific Vesperoid Union established colony 'HD 275033-d Prime' on planet HD 275033-d (score: 67.9).
+COL-EVT-00011,1,100,b2e833d309,Allied Orionoid Systems,First Colony,Allied Orionoid Systems established colony 'PSR 64400-d Science Station' on planet PSR 64400-d (score: 65.4).
+COL-EVT-00012,1,100,095464621d,Cygnan Commonwealth,First Colony,Cygnan Commonwealth established colony 'Cygnan Colony' on planet Rho Cygni-d (score: 62.3).
+COL-EVT-00013,1,100,b28f9ec7d4,Scientific Thranari Union,First Colony,Scientific Thranari Union established colony 'Scientific Colony' on planet HD 50077-e (score: 50.4).
+COL-EVT-00014,1,100,b8c054770f,Beta-bulgis Directorate,First Colony,Beta-bulgis Directorate established colony 'Beta Bulge-e Sector' on planet Beta Bulge-e (score: 69.3).
+COL-EVT-00015,1,100,8f64eb0a84,Vesperan Commonwealth,First Colony,Vesperan Commonwealth established colony 'Kepler-8079d-f Prime' on planet Kepler-8079d-f (score: 58.0).
+COL-EVT-00016,1,100,1b37c066da,Valis Commonwealth,First Colony,Valis Commonwealth established colony 'Valis Colony' on planet PSR 62227-d (score: 65.5).
+COL-EVT-00017,1,100,556d6c2378,Meroid Directorate,First Colony,Meroid Directorate established colony 'HIP 76600-d Science Station' on planet HIP 76600-d (score: 49.8).
+COL-EVT-00018,1,100,947f74a852,Allied Sagittariite Systems,First Colony,Allied Sagittariite Systems established colony 'Allied Colony' on planet Psi Sagittarii-c (score: 52.7).
+COL-EVT-00019,1,100,04b742dd38,The Perseian Federation,First Colony,The Perseian Federation established colony 'Perseian Outpost 23' on planet Psi Persei-c (score: 58.7).
+COL-EVT-00020,1,100,13b6f1c19c,Allied Orionite Systems,First Colony,Allied Orionite Systems established colony 'Allied Outpost 94' on planet PSR 104430-f (score: 67.1).
+COL-EVT-00021,1,100,5d262aaec3,Consolidated Xenite Worlds,First Colony,Consolidated Xenite Worlds established colony 'TESS-7890-e Prime' on planet TESS-7890-e (score: 52.6).
+COL-EVT-00022,1,100,7036dbff3e,Scientific Orionite Union,First Colony,Scientific Orionite Union established colony 'Zeta Orionis-e Science Station' on planet Zeta Orionis-e (score: 58.0).
+COL-EVT-00023,1,100,862f6cbc45,Unified Thranan Council,First Colony,Unified Thranan Council established colony 'TESS-945-d Prime' on planet TESS-945-d (score: 59.8).
+COL-EVT-00024,1,100,c235dc422c,Scientific Kaeluman Union,First Colony,Scientific Kaeluman Union established colony 'TESS-8033-c Sector' on planet TESS-8033-c (score: 47.1).
+COL-EVT-00025,1,100,8d88177d24,Bulgian Directorate,First Colony,Bulgian Directorate established colony 'Alpha Bulge-c Sector' on planet Alpha Bulge-c (score: 57.7).
+COL-EVT-00026,1,100,1c4722b997,Unified Orionite Council,First Colony,Unified Orionite Council established colony 'Unified Outpost 50' on planet Nu Orionis-c (score: 59.8).
+COL-EVT-00027,1,100,634ad45f7e,Scientific Aurelan Union,First Colony,Scientific Aurelan Union established colony 'Scientific Colony' on planet HD 50077-d (score: 44.0).
+COL-EVT-00028,1,100,d07bc4ae63,Scientific Valian Union,First Colony,Scientific Valian Union established colony 'HR 233687-c Excavation' on planet HR 233687-c (score: 71.7).
+COL-EVT-00029,1,100,999c5041c4,Scientific Aureliis Union,First Colony,Scientific Aureliis Union established colony 'Aurelia-f Sector' on planet Aurelia-f (score: 53.0).
+COL-EVT-00030,1,100,7ba9deb67e,Consolidated Xenoid Worlds,First Colony,Consolidated Xenoid Worlds established colony 'Webb-4746d-d Sector' on planet Webb-4746d-d (score: 63.4).
+COL-EVT-00031,1,100,4b4e90bd89,The Meran Federation,First Colony,The Meran Federation established colony 'HR 36296-c Sector' on planet HR 36296-c (score: 63.7).
+COL-EVT-00032,1,100,82b29167c3,Galactican Directorate,First Colony,Galactican Directorate established colony 'Chi Galacticis-c Sector' on planet Chi Galacticis-c (score: 53.3).
+COL-EVT-00033,1,100,92810d80b3,The Aurelis Federation,First Colony,The Aurelis Federation established colony 'Webb-7499-g Exchange' on planet Webb-7499-g (score: 60.1).
+COL-EVT-00034,1,100,71efb681fc,The Aureloid Federation,First Colony,The Aureloid Federation established colony 'Gliese 325.0-c Sector' on planet Gliese 325.0-c (score: 59.5).
+COL-EVT-00035,1,100,65154f1c30,Scientific Kaeluman Union,First Colony,Scientific Kaeluman Union established colony 'TESS-7571-d Sector' on planet TESS-7571-d (score: 55.3).
+COL-EVT-00036,1,100,15286fa1f5,Consolidated Zelari Worlds,First Colony,Consolidated Zelari Worlds established colony 'Consolidated Colony' on planet Webb-6726b-h (score: 49.5).
+COL-EVT-00037,1,100,b7f420628f,Consolidated Iota-perseis Worlds,First Colony,Consolidated Iota-perseis Worlds established colony 'Consolidated Outpost 15' on planet Iota Persei-c (score: 71.1).
+COL-EVT-00038,1,100,0fa7096d5a,Zelis Directorate,First Colony,Zelis Directorate established colony 'HR 121153-f Sector' on planet HR 121153-f (score: 58.3).
+COL-EVT-00039,1,100,17fee1a6ac,The Thranite Federation,First Colony,The Thranite Federation established colony 'TESS-915-c Prime' on planet TESS-915-c (score: 63.0).
+COL-EVT-00040,1,100,6a9427ac16,Consolidated Prometheian Worlds,First Colony,Consolidated Prometheian Worlds established colony 'Prometheus-f Prime' on planet Prometheus-f (score: 73.2).
+COL-EVT-00041,2,200,f0ada7121c,Consolidated Solex Worlds,First Colony,Consolidated Solex Worlds established colony 'Webb-6199-g Sector' on planet Webb-6199-g (score: 51.2).
+COL-EVT-00042,2,200,82f9ee8fb4,The Valoid Federation,First Colony,The Valoid Federation established colony 'Valoid Outpost 53' on planet Gliese 2.0-b (score: 63.4).
+COL-EVT-00043,2,200,e47a782635,The Xi-sagittariis Federation,First Colony,The Xi-sagittariis Federation established colony 'Xi Sagittarii-c Prime' on planet Xi Sagittarii-c (score: 67.9).
+COL-EVT-00044,2,200,41a9345e47,The Aurelian Federation,First Colony,The Aurelian Federation established colony 'Aurelian Outpost 67' on planet Webb-8019-f (score: 47.5).
+COL-EVT-00045,2,200,609e70586f,Scientific Kaeluman Union,First Colony,Scientific Kaeluman Union established colony 'Gaia-7887-e Sector' on planet Gaia-7887-e (score: 46.5).
+COL-EVT-00046,2,200,4c8e6a8540,Allied Bulgan Systems,First Colony,Allied Bulgan Systems established colony 'Chi Bulge-d Prime' on planet Chi Bulge-d (score: 56.0).
+COL-EVT-00047,2,200,8e17c1b492,Solex Commonwealth,First Colony,Solex Commonwealth established colony 'Solex Outpost 11' on planet TESS-7730a-c (score: 72.5).
+COL-EVT-00048,2,200,37a4cea3d7,Consolidated Solite Worlds,First Colony,Consolidated Solite Worlds established colony 'HIP 262134-e Sector' on planet HIP 262134-e (score: 58.3).
+COL-EVT-00049,2,200,f2bbbfc167,Bulgan Commonwealth,First Colony,Bulgan Commonwealth established colony 'Bulgan Outpost 41' on planet Delta Bulge-f (score: 49.1).
+COL-EVT-00050,2,200,9891e1dd90,Scientific Kaelumari Union,First Colony,Scientific Kaelumari Union established colony 'TESS-8500-c Sector' on planet TESS-8500-c (score: 67.8).
+COL-EVT-00051,2,200,3557fb1c6f,Allied Kaelumex Systems,First Colony,Allied Kaelumex Systems established colony 'Allied Colony' on planet GDE-845-d (score: 67.2).
+COL-EVT-00052,2,200,03fca7f787,Perseian Commonwealth,First Colony,Perseian Commonwealth established colony 'Perseian Outpost 82' on planet Chi Persei-e (score: 58.1).
+COL-EVT-00053,2,200,14c594f145,Unified Orionian Council,First Colony,Unified Orionian Council established colony 'Unified Outpost 12' on planet Gamma Orionis-e (score: 51.8).
+COL-EVT-00054,2,200,dc652af4e1,Cygnan Commonwealth,First Colony,Cygnan Commonwealth established colony 'Cygnan Colony' on planet Sigma Cygni-e (score: 58.3).
+COL-EVT-00055,2,200,3a3695c8e9,Consolidated Galactican Worlds,First Colony,Consolidated Galactican Worlds established colony 'Consolidated Outpost 29' on planet Zeta Galacticis-c (score: 69.7).
+COL-EVT-00056,2,200,2173a01d64,Allied Elysiian Systems,First Colony,Allied Elysiian Systems established colony 'Elysium-c Prime' on planet Elysium-c (score: 55.7).
+COL-EVT-00057,2,200,38a2dd884c,Allied Sagittariian Systems,First Colony,Allied Sagittariian Systems established colony 'Allied Colony' on planet Pi Sagittarii-c (score: 69.3).
+COL-EVT-00058,2,200,095464621d,Cygnan Commonwealth,Expansion Boom,Cygnan Commonwealth established colony 'Cygnan Colony' on planet Rho Cygni-f (score: 54.3).
+COL-EVT-00059,2,200,094756ff65,Unified Vesperis Council,First Colony,Unified Vesperis Council established colony 'HIP 246403-b Prime' on planet HIP 246403-b (score: 59.6).
+COL-EVT-00060,2,200,1c90d82c80,Cygnian Directorate,First Colony,Cygnian Directorate established colony 'Delta Cygni-f Sector' on planet Delta Cygni-f (score: 64.4).
+COL-EVT-00061,2,200,4a7ef72f37,The Bulgite Federation,First Colony,The Bulgite Federation established colony 'Mu Bulge-c Sector' on planet Mu Bulge-c (score: 60.3).
+COL-EVT-00062,2,200,187eb0978f,Scientific Merite Union,First Colony,Scientific Merite Union established colony 'Scientific Outpost 42' on planet GDE-2341-c (score: 62.2).
+COL-EVT-00063,2,200,bc259c8444,Scientific Kaelumian Union,First Colony,Scientific Kaelumian Union established colony 'Scientific Outpost 45' on planet HIP 121095-d (score: 56.7).
+COL-EVT-00064,2,200,cd3cb2af45,The Chi-bulgis Federation,First Colony,The Chi-bulgis Federation established colony 'Chi Bulge-c Sector' on planet Chi Bulge-c (score: 58.6).
+COL-EVT-00065,2,200,0ad458611c,Unified Orionian Council,First Colony,Unified Orionian Council established colony 'Unified Colony' on planet Tau Orionis-b (score: 55.2).
+COL-EVT-00066,2,200,7bf42c3a49,Sagittariite Directorate,First Colony,Sagittariite Directorate established colony 'Theta Sagittarii-c Prime' on planet Theta Sagittarii-c (score: 63.5).
+COL-EVT-00067,2,200,5b3c302325,Scientific Bulgian Union,First Colony,Scientific Bulgian Union established colony 'Theta Bulge-f Science Station' on planet Theta Bulge-f (score: 59.7).
+COL-EVT-00068,2,200,764f599826,Unified Solite Council,First Colony,Unified Solite Council established colony 'HD 173878-c Sector' on planet HD 173878-c (score: 58.3).
+COL-EVT-00069,2,200,176da50470,Unified Mu-perseis Council,First Colony,Unified Mu-perseis Council established colony 'Unified Outpost 57' on planet Mu Persei-c (score: 65.1).
+COL-EVT-00070,3,300,b619dd5fb5,Scientific Thranan Union,First Colony,Scientific Thranan Union established colony 'Kepler-7447c-b Science Station' on planet Kepler-7447c-b (score: 50.6).
+COL-EVT-00071,3,300,0895acc0af,Sagittarian Directorate,First Colony,Sagittarian Directorate established colony 'Gamma Sagittarii-f Sector' on planet Gamma Sagittarii-f (score: 47.6).
+COL-EVT-00072,3,300,adc1c77061,Unified Thranis Council,First Colony,Unified Thranis Council established colony 'HR 175320-c Prime' on planet HR 175320-c (score: 51.7).
+COL-EVT-00073,3,300,63803c4eb1,Unified Zelari Council,Expansion Boom,Unified Zelari Council established colony 'PSR 133182-c Sector' on planet PSR 133182-c (score: 59.8).
+COL-EVT-00074,3,300,b323933feb,Allied Solian Systems,First Colony,Allied Solian Systems established colony 'Allied Outpost 53' on planet TESS-6922-b (score: 66.8).
+COL-EVT-00075,3,300,11c4291fc3,Vesperite Commonwealth,First Colony,Vesperite Commonwealth established colony 'Webb-8019-c Sector' on planet Webb-8019-c (score: 43.7).
+COL-EVT-00076,3,300,5a236efd3f,Beta-bulgis Commonwealth,First Colony,Beta-bulgis Commonwealth established colony 'Beta Bulge-f Science Station' on planet Beta Bulge-f (score: 59.4).
+COL-EVT-00077,3,300,6c40e5c997,Orionite Directorate,First Colony,Orionite Directorate established colony 'Upsilon Orionis-d Prime' on planet Upsilon Orionis-d (score: 56.2).
+COL-EVT-00078,3,300,02b9381952,Aurelian Directorate,First Colony,Aurelian Directorate established colony 'Gaia-1650-b Prime' on planet Gaia-1650-b (score: 54.9).
+COL-EVT-00079,3,300,e47a782635,The Xi-sagittariis Federation,Expansion Boom,The Xi-sagittariis Federation established colony 'Xi-sagittariis Colony' on planet Xi Sagittarii-e (score: 59.9).
+COL-EVT-00080,3,300,373ea01e5c,Consolidated Zylaris Worlds,First Colony,Consolidated Zylaris Worlds established colony 'Consolidated Colony' on planet Gliese 787.0-d (score: 75.7).
+COL-EVT-00081,3,300,3557fb1c6f,Allied Kaelumex Systems,Expansion Boom,Allied Kaelumex Systems established colony 'Allied Colony' on planet GDE-845-f (score: 49.1).
+COL-EVT-00082,3,300,f0ada7121c,Consolidated Solex Worlds,Expansion Boom,Consolidated Solex Worlds established colony 'Consolidated Outpost 26' on planet Webb-6199-c (score: 51.1).
+COL-EVT-00083,3,300,70a115d461,Consolidated Aurelite Worlds,First Colony,Consolidated Aurelite Worlds established colony 'GDE-6664-d Science Station' on planet GDE-6664-d (score: 60.1).
+COL-EVT-00084,3,300,53856bd8ca,Allied Sagittariian Systems,First Colony,Allied Sagittariian Systems established colony 'Tau Sagittarii-e Prime' on planet Tau Sagittarii-e (score: 72.4).
+COL-EVT-00085,3,300,23979e6a05,Unified Persean Council,First Colony,Unified Persean Council established colony 'Chi Persei-e Prime' on planet Chi Persei-e (score: 70.1).
+COL-EVT-00086,3,300,0ed21e60e5,Orionan Directorate,First Colony,Orionan Directorate established colony 'Orionan Outpost 74' on planet Webb-5587a-e (score: 58.6).
+COL-EVT-00087,3,300,4c224c8349,Vesperari Directorate,First Colony,Vesperari Directorate established colony 'Vesperari Outpost 23' on planet TESS-5894-d (score: 65.5).
+COL-EVT-00088,3,300,5f5ebcf2f5,Solari Directorate,First Colony,Solari Directorate established colony 'Kepler-6215-d Sector' on planet Kepler-6215-d (score: 55.7).
+COL-EVT-00089,3,300,ee9099d9b7,Vesperan Directorate,First Colony,Vesperan Directorate established colony 'PSR 104430-d Science Station' on planet PSR 104430-d (score: 56.7).
+COL-EVT-00090,3,300,6a9427ac16,Consolidated Prometheian Worlds,Expansion Boom,Consolidated Prometheian Worlds established colony 'Consolidated Colony' on planet Prometheus-e (score: 63.1).
+COL-EVT-00091,3,300,75a58165a0,The Galactican Federation,First Colony,The Galactican Federation established colony 'Fort Galactican' on planet Sigma Galacticis-f (score: 45.4).
+COL-EVT-00092,3,300,5d94c085f5,Allied Valis Systems,First Colony,Allied Valis Systems established colony 'Allied Outpost 69' on planet HIP 233393-d (score: 69.6).
+COL-EVT-00093,4,400,1a2a63b5eb,Allied Thranian Systems,First Colony,Allied Thranian Systems established colony 'Gaia-2648c-d Science Station' on planet Gaia-2648c-d (score: 58.1).
+COL-EVT-00094,4,400,3557fb1c6f,Allied Kaelumex Systems,Colony Rebellion,The colony 'Allied Colony' rebelled against Allied Kaelumex Systems due to low stability and declared independence.
+COL-EVT-00095,4,400,6a9427ac16,Consolidated Prometheian Worlds,Colony Rebellion,The colony 'Consolidated Colony' rebelled against Consolidated Prometheian Worlds due to low stability and declared independence.
+COL-EVT-00096,4,400,1c90d82c80,Cygnian Directorate,Expansion Boom,Cygnian Directorate established colony 'Delta Cygni-d Sector' on planet Delta Cygni-d (score: 59.4).
+COL-EVT-00097,4,400,7036dbff3e,Scientific Orionite Union,Expansion Boom,Scientific Orionite Union established colony 'Zeta Orionis-b Science Station' on planet Zeta Orionis-b (score: 55.5).
+COL-EVT-00098,4,400,19190c022d,Allied Zylaris Systems,First Colony,Allied Zylaris Systems established colony 'Webb-1799-d Sector' on planet Webb-1799-d (score: 62.2).
+COL-EVT-00099,4,400,36b91772ac,Unified Orionis Council,First Colony,Unified Orionis Council established colony 'HIP 191429-b Prime' on planet HIP 191429-b (score: 62.4).
+COL-EVT-00100,4,400,92810d80b3,The Aurelis Federation,Expansion Boom,The Aurelis Federation established colony 'Aurelis Colony' on planet Webb-7499-d (score: 57.4).
+COL-EVT-00101,4,400,92810d80b3,The Aurelis Federation,Colony Rebellion,The colony 'Webb-7499-g Exchange' rebelled against The Aurelis Federation due to low stability and declared independence.
+COL-EVT-00102,4,400,13b6f1c19c,Allied Orionite Systems,Expansion Boom,Allied Orionite Systems established colony 'Allied Outpost 10' on planet PSR 104430-g (score: 55.8).
+COL-EVT-00103,4,400,13b6f1c19c,Allied Orionite Systems,Colony Rebellion,The colony 'Allied Outpost 94' rebelled against Allied Orionite Systems due to low stability and declared independence.
+COL-EVT-00104,4,400,c6642b2284,Scientific Gaea-is Union,First Colony,Scientific Gaea-is Union established colony 'Gaea I-d Science Station' on planet Gaea I-d (score: 62.3).
+COL-EVT-00105,4,400,303a3df484,Unified Zelex Council,First Colony,Unified Zelex Council established colony 'Unified Outpost 76' on planet Gaia-1650-f (score: 47.1).
+COL-EVT-00106,4,400,111ab1a74e,Unified Meris Council,First Colony,Unified Meris Council established colony 'PSR 272701-f Prime' on planet PSR 272701-f (score: 49.5).
+COL-EVT-00107,5,500,185a68bac9,Scientific Solari Union,First Colony,Scientific Solari Union established colony 'HR 220748-c Prime' on planet HR 220748-c (score: 57.0).
+COL-EVT-00108,5,500,ee951bbfab,Kaelumian Directorate,First Colony,Kaelumian Directorate established colony 'Kaelumian Outpost 78' on planet GDE-7293-d (score: 71.3).
+COL-EVT-00109,5,500,2b100070c5,Bulgite Directorate,First Colony,Bulgite Directorate established colony 'Xi Bulge-b Science Station' on planet Xi Bulge-b (score: 58.3).
+COL-EVT-00110,5,500,38a2dd884c,Allied Sagittariian Systems,Expansion Boom,Allied Sagittariian Systems established colony 'Allied Colony' on planet Pi Sagittarii-b (score: 67.1).
+COL-EVT-00111,5,500,6a9427ac16,Consolidated Prometheian Worlds,Expansion Boom,Consolidated Prometheian Worlds established colony 'Prometheus-e Sector' on planet Prometheus-e (score: 63.1).
+COL-EVT-00112,5,500,15955262e1,Aurelian Directorate,First Colony,Aurelian Directorate established colony 'Aurelian Outpost 67' on planet PSR 289778-e (score: 72.5).
+COL-EVT-00113,5,500,ee9099d9b7,Vesperan Directorate,Expansion Boom,Vesperan Directorate established colony 'Vesperan Outpost 13' on planet PSR 104430-f (score: 66.7).
+COL-EVT-00114,5,500,ca40b2e629,Scientific Solex Union,First Colony,Scientific Solex Union established colony 'TESS-973-c Prime' on planet TESS-973-c (score: 57.3).
+COL-EVT-00115,5,500,be3191b575,Scientific Eta-galacticis Union,First Colony,Scientific Eta-galacticis Union established colony 'Scientific Outpost 93' on planet Eta Galacticis-d (score: 62.3).
+COL-EVT-00116,5,500,65154f1c30,Scientific Kaeluman Union,Expansion Boom,Scientific Kaeluman Union established colony 'TESS-7571-g Prime' on planet TESS-7571-g (score: 51.5).
+COL-EVT-00117,5,500,66d46fcd47,Consolidated Orionite Worlds,First Colony,Consolidated Orionite Worlds established colony 'Nu Orionis-e Sector' on planet Nu Orionis-e (score: 71.5).
+COL-EVT-00118,6,600,2640424e04,Unified Aurelan Council,First Colony,Unified Aurelan Council established colony 'HR 51505-b Sector' on planet HR 51505-b (score: 74.3).
+COL-EVT-00119,6,600,12f8de3472,Thranari Commonwealth,First Colony,Thranari Commonwealth established colony 'Thranari Colony' on planet HD 36797-b (score: 65.3).
+COL-EVT-00120,6,600,822326926a,Unified Meroid Council,First Colony,Unified Meroid Council established colony 'TESS-2121-e Sector' on planet TESS-2121-e (score: 64.9).
+COL-EVT-00121,6,600,81714ff4c3,Consolidated Xenari Worlds,First Colony,Consolidated Xenari Worlds established colony 'Consolidated Colony' on planet GDE-4485-d (score: 56.0).
+COL-EVT-00122,6,600,a568c633c8,Aurelari Directorate,First Colony,Aurelari Directorate established colony 'Aurelari Outpost 16' on planet HIP 14841-c (score: 64.8).
+COL-EVT-00123,6,600,8853384409,Unified Kaelumex Council,First Colony,Unified Kaelumex Council established colony 'HD 59434-b Science Station' on planet HD 59434-b (score: 69.0).
+COL-EVT-00124,6,600,176da50470,Unified Mu-perseis Council,Expansion Boom,Unified Mu-perseis Council established colony 'Mu Persei-b Science Station' on planet Mu Persei-b (score: 57.7).
+COL-EVT-00125,6,600,20af608f42,Consolidated Orionite Worlds,First Colony,Consolidated Orionite Worlds established colony 'Chi Orionis-c Sector' on planet Chi Orionis-c (score: 58.1).
+COL-EVT-00126,6,600,3557fb1c6f,Allied Kaelumex Systems,Expansion Boom,Allied Kaelumex Systems established colony 'Allied Colony' on planet GDE-845-f (score: 49.1).
+COL-EVT-00127,6,600,d0016e25b4,The Meran Federation,First Colony,The Meran Federation established colony 'HIP 114085-e Science Station' on planet HIP 114085-e (score: 56.5).
+COL-EVT-00128,6,600,2705d84a32,Unified Vesperari Council,Expansion Boom,Unified Vesperari Council established colony 'Webb-7499-g Prime' on planet Webb-7499-g (score: 58.9).
+COL-EVT-00129,6,600,642e75a08d,Scientific Thranan Union,First Colony,Scientific Thranan Union established colony 'GDE-7399-c Prime' on planet GDE-7399-c (score: 58.3).
+COL-EVT-00130,6,600,6ebb371c3c,The Tau-galacticis Federation,First Colony,The Tau-galacticis Federation established colony 'Tau Galacticis-c Science Station' on planet Tau Galacticis-c (score: 62.3).
+COL-EVT-00131,6,600,71d820677a,The Zylaran Federation,First Colony,The Zylaran Federation established colony 'Gliese 837.0-b Science Station' on planet Gliese 837.0-b (score: 50.2).
+COL-EVT-00132,6,600,1c90d82c80,Cygnian Directorate,Expansion Boom,Cygnian Directorate established colony 'Cygnian Outpost 18' on planet Delta Cygni-g (score: 59.0).
+COL-EVT-00133,6,600,1c90d82c80,Cygnian Directorate,Empire Fragmentation,"Internal fragmentation caused Cygnian Directorate to lose control of outlying colonies: Cygnian Outpost 18, Delta Cygni-d Sector."
+COL-EVT-00134,6,600,622de7102b,Orionite Commonwealth,First Colony,Orionite Commonwealth established colony 'Kepler-2936-d Exchange' on planet Kepler-2936-d (score: 66.6).
+COL-EVT-00135,6,600,095464621d,Cygnan Commonwealth,Colony Rebellion,The colony 'Cygnan Colony' rebelled against Cygnan Commonwealth due to low stability and declared independence.
+COL-EVT-00136,6,600,c3662e3808,Unified Sagittariite Council,First Colony,Unified Sagittariite Council established colony 'Unified Outpost 34' on planet Eta Sagittarii-c (score: 78.3).
+COL-EVT-00137,7,700,63f01adf18,Consolidated Galacticite Worlds,First Colony,Consolidated Galacticite Worlds established colony 'Eta Galacticis-g Prime' on planet Eta Galacticis-g (score: 51.4).
+COL-EVT-00138,7,700,c3b1779520,Aurelis Commonwealth,First Colony,Aurelis Commonwealth established colony 'Aurelis Colony' on planet TESS-194-e (score: 56.4).
+COL-EVT-00139,7,700,5a236efd3f,Beta-bulgis Commonwealth,Expansion Boom,Beta-bulgis Commonwealth established colony 'Beta Bulge-c Sector' on planet Beta Bulge-c (score: 55.3).
+COL-EVT-00140,7,700,622de7102b,Orionite Commonwealth,Expansion Boom,Orionite Commonwealth established colony 'Kepler-2936-c Prime' on planet Kepler-2936-c (score: 64.2).
+COL-EVT-00141,7,700,1c90d82c80,Cygnian Directorate,Expansion Boom,Cygnian Directorate established colony 'Delta Cygni-d Science Station' on planet Delta Cygni-d (score: 59.4).
+COL-EVT-00142,8,800,37270686ec,Scientific Bulgite Union,First Colony,Scientific Bulgite Union established colony 'Scientific Colony' on planet Beta Bulge-c (score: 63.0).
+COL-EVT-00143,8,800,3557fb1c6f,Allied Kaelumex Systems,Colony Rebellion,The colony 'Allied Colony' rebelled against Allied Kaelumex Systems due to low stability and declared independence.
+COL-EVT-00144,8,800,243eff68e3,Sigma-bulgis Directorate,First Colony,Sigma-bulgis Directorate established colony 'Sigma Bulge-f Science Station' on planet Sigma Bulge-f (score: 65.8).
+COL-EVT-00145,8,800,7036dbff3e,Scientific Orionite Union,Colony Rebellion,The colony 'Zeta Orionis-e Science Station' rebelled against Scientific Orionite Union due to low stability and declared independence.
+COL-EVT-00146,8,800,691ec52085,The Zelian Federation,First Colony,The Zelian Federation established colony 'Zelian Outpost 92' on planet GDE-845-d (score: 62.9).
+COL-EVT-00147,8,800,5087e1422a,Unified Zeloid Council,First Colony,Unified Zeloid Council established colony 'Unified Outpost 95' on planet TESS-8500-e (score: 53.5).
+COL-EVT-00148,8,800,4c2540c708,Unified Orionoid Council,First Colony,Unified Orionoid Council established colony 'HIP 244648-c Science Station' on planet HIP 244648-c (score: 61.6).
+COL-EVT-00149,8,800,6a9427ac16,Consolidated Prometheian Worlds,Colony Rebellion,The colony 'Prometheus-e Sector' rebelled against Consolidated Prometheian Worlds due to low stability and declared independence.
+COL-EVT-00150,8,800,63d8758b53,The Aurelex Federation,First Colony,The Aurelex Federation established colony 'Webb-1026-c Sector' on planet Webb-1026-c (score: 68.7).
+COL-EVT-00151,8,800,1b37c066da,Valis Commonwealth,Expansion Boom,Valis Commonwealth established colony 'PSR 62227-f Sector' on planet PSR 62227-f (score: 62.5).
+COL-EVT-00152,8,800,075b3fb3b1,Unified Theta-orionis Council,First Colony,Unified Theta-orionis Council established colony 'Theta Orionis-c Sector' on planet Theta Orionis-c (score: 58.9).
+COL-EVT-00153,8,800,da38a63176,Unified Orionis Council,First Colony,Unified Orionis Council established colony 'Unified Outpost 67' on planet Webb-7458-d (score: 60.1).
+COL-EVT-00154,8,800,1c90d82c80,Cygnian Directorate,Expansion Boom,Cygnian Directorate established colony 'Delta Cygni-g Prime' on planet Delta Cygni-g (score: 59.0).
+COL-EVT-00155,9,900,63d8758b53,The Aurelex Federation,Expansion Boom,The Aurelex Federation established colony 'Webb-1026-e Prime' on planet Webb-1026-e (score: 67.7).
+COL-EVT-00156,9,900,6dfc531f16,Unified Xenis Council,First Colony,Unified Xenis Council established colony 'TESS-3146-d Prime' on planet TESS-3146-d (score: 69.5).
+COL-EVT-00157,9,900,f7bd18e491,Thranis Commonwealth,First Colony,Thranis Commonwealth established colony 'Thranis Outpost 67' on planet Gaia-776-e (score: 58.4).
+COL-EVT-00158,9,900,5d94c085f5,Allied Valis Systems,Expansion Boom,Allied Valis Systems established colony 'HIP 233393-b Science Station' on planet HIP 233393-b (score: 58.7).
+COL-EVT-00159,9,900,1c90d82c80,Cygnian Directorate,Colony Rebellion,The colony 'Delta Cygni-f Sector' rebelled against Cygnian Directorate due to low stability and declared independence.
+COL-EVT-00160,9,900,82f9ee8fb4,The Valoid Federation,Expansion Boom,The Valoid Federation established colony 'Gliese 2.0-d Sector' on planet Gliese 2.0-d (score: 61.1).
+COL-EVT-00161,9,900,66d46fcd47,Consolidated Orionite Worlds,Expansion Boom,Consolidated Orionite Worlds established colony 'Nu Orionis-b Prime' on planet Nu Orionis-b (score: 60.9).
+COL-EVT-00162,9,900,1b37c066da,Valis Commonwealth,Expansion Boom,Valis Commonwealth established colony 'PSR 62227-c Prime' on planet PSR 62227-c (score: 57.7).
+COL-EVT-00163,9,900,70a115d461,Consolidated Aurelite Worlds,Expansion Boom,Consolidated Aurelite Worlds established colony 'Consolidated Outpost 25' on planet GDE-6664-f (score: 59.3).
+COL-EVT-00164,9,900,5d6505f12a,Unified Aurelis Council,First Colony,Unified Aurelis Council established colony 'Unified Colony' on planet Webb-7340-d (score: 60.9).
+COL-EVT-00165,9,900,096fc37df4,Scientific Vesperoid Union,Expansion Boom,Scientific Vesperoid Union established colony 'Scientific Colony' on planet HD 275033-f (score: 62.3).
+COL-EVT-00166,10,1000,ee951bbfab,Kaelumian Directorate,Expansion Boom,Kaelumian Directorate established colony 'Kaelumian Outpost 50' on planet GDE-7293-e (score: 64.0).
+COL-EVT-00167,10,1000,996190e522,Orionan Directorate,First Colony,Orionan Directorate established colony 'Gaia-776-c Prime' on planet Gaia-776-c (score: 56.1).
+COL-EVT-00168,10,1000,1bc76d1c73,Consolidated Orionis Worlds,First Colony,Consolidated Orionis Worlds established colony 'TESS-3963d-c Exchange' on planet TESS-3963d-c (score: 72.0).
+COL-EVT-00169,10,1000,f1337406a3,Thranan Directorate,First Colony,Thranan Directorate established colony 'GDE-5391-c Sector' on planet GDE-5391-c (score: 64.9).
+COL-EVT-00170,10,1000,82f9ee8fb4,The Valoid Federation,Expansion Boom,The Valoid Federation established colony 'Gliese 2.0-e Prime' on planet Gliese 2.0-e (score: 56.9).
+COL-EVT-00171,10,1000,82f9ee8fb4,The Valoid Federation,Empire Fragmentation,"Internal fragmentation caused The Valoid Federation to lose control of outlying colonies: Gliese 2.0-e Prime, Gliese 2.0-d Sector."
+COL-EVT-00172,10,1000,70a115d461,Consolidated Aurelite Worlds,Expansion Boom,Consolidated Aurelite Worlds established colony 'Consolidated Colony' on planet GDE-6664-g (score: 58.1).
+COL-EVT-00173,10,1000,35390a1939,Valari Directorate,First Colony,Valari Directorate established colony 'Valari Colony' on planet Kepler-4496-d (score: 71.8).
+COL-EVT-00174,10,1000,724362e429,Zeloid Commonwealth,First Colony,Zeloid Commonwealth established colony 'HIP 114085-b Prime' on planet HIP 114085-b (score: 56.6).

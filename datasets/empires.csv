@@ -1,0 +1,483 @@
+empire_id,empire_name,founding_civilization,founding_civilization_id,capital_world,territory_size_ly3,population,power_index,colonies_count
+EMP-001,The Consolidated Consolidated Systems,Consolidated Zelis Worlds,f8c1278b86,Gaia-1954-c,20634564.83,57475565614.02309,206.33,0
+EMP-002,The Consolidated Scientific Systems,Scientific Valan Union,4836a15586,Gaia-1954-d,23282648.66,59297022208.56151,224.85,0
+EMP-003,The Great Kaelumian Imperium,Kaelumian Directorate,ee951bbfab,GDE-7293-c,27547391.28,54043672389.91972,256.19,2
+EMP-004,The Great Allied Imperium,Allied Orionoid Systems,b2e833d309,PSR 64400-e,26639353.86,92904970959.93724,283.36,1
+EMP-005,The Great Solex Imperium,Solex Directorate,faf8d4b64a,HD 82516-d,3420184.86,0.0,51.33,0
+EMP-006,The Zelari AI Hegemony,The Zelari Federation,a500abb373,Webb-6470-b,17133355.84,20105577104.420326,147.48,0
+EMP-007,The Great Scientific Imperium,Scientific Galacticite Union,9594053f90,Omicron Galacticis-b,20014367.55,43981349226.6613,189.16,0
+EMP-008,The Great Unified Imperium,Unified Omicron-galacticis Council,22b55b78e2,Omicron Galacticis-c,22751028.58,13851894768.552893,177.64,0
+EMP-009,The Scientific Technocracy,Scientific Solari Union,185a68bac9,HR 220748-b,21264691.25,4987097163.752966,165.44,1
+EMP-010,The Orionian Technocracy,Orionian Directorate,c4f121b6c1,Zeta Orionis-c,12539114.39,7847323577.935789,105.37,0
+EMP-011,The Consolidated Technocracy,Consolidated Aurelite Worlds,70a115d461,GDE-6664-e,23764737.21,51192239388.083626,236.99,3
+EMP-012,The Scientific Technocracy,Scientific Thranan Union,26b5626b6c,Webb-6726b-f,21892928.95,18106687032.776985,176.2,0
+EMP-013,The Valis AI Hegemony,Valis Directorate,8a41c4ac34,Webb-6726b-g,20075582.95,20786298303.25004,167.17,0
+EMP-014,The Great Consolidated Imperium,Consolidated Zelari Worlds,15286fa1f5,Webb-6726b-i,26765805.32,8326911244.636591,202.17,1
+EMP-015,The Bulgite Technocracy,The Bulgite Federation,ec5efdeb2d,Zeta Bulge-b,3739543.92,0.0,54.34,0
+EMP-016,The Scientific AI Hegemony,Scientific Aethelgardian Union,2f0954acad,Aethelgard-b,21283365.77,55166325115.05239,208.19,0
+EMP-017,The Consolidated Unified Systems,Unified Aethelgardis Council,c7c9fca9a1,Aethelgard-c,23191619.11,22950975452.75416,188.96,0
+EMP-018,The Great Allied Imperium,Allied Zeta-cygnis Systems,511ff78315,Zeta Cygni-b,21895906.41,10139402977.36924,168.88,0
+EMP-019,The Consolidated Technocracy,Consolidated Aureloid Worlds,95cba99a70,Webb-9180d-b,19731335.13,16170556399.673672,160.62,0
+EMP-020,The Great Unified Imperium,Unified Vesperari Council,73cb158d41,Webb-9180d-c,22896303.81,16450515040.420273,180.97,0
+EMP-021,The Unified Technocracy,Unified Merari Council,7419a59432,Webb-9180d-d,23065415.61,19765365416.18741,185.15,0
+EMP-022,The Zylarian Star Empire,Zylarian Directorate,bb1351012f,Webb-9180d-e,22027597.69,53537767619.65355,211.3,0
+EMP-023,The Consolidated Unified Systems,Unified Kaelumoid Council,3be9d94e07,Webb-9180d-f,22757569.54,14030656904.238884,177.85,0
+EMP-024,The Great Solis Imperium,The Solis Federation,033668785c,HD 212440-b,22211819.75,15832428131.354408,176.08,0
+EMP-025,The Consolidated AI Hegemony,Consolidated Xenoid Worlds,f8a4edc83b,HD 212440-c,28351670.96,38209443397.169,240.02,1
+EMP-026,The Great Scientific Imperium,Scientific Xenis Union,d2748466c9,HD 212440-d,24053941.63,58586976948.46237,228.97,0
+EMP-027,The Great Bulgite Imperium,The Bulgite Federation,4a7ef72f37,Mu Bulge-b,20124219.51,42386569176.68135,193.33,1
+EMP-028,The Great Unified Imperium,Unified Persean Council,23979e6a05,Chi Persei-f,20582467.3,5554618257.276724,161.61,1
+EMP-029,The Consolidated Allied Systems,Allied Chi-perseis Systems,b6e89e8b4d,Chi Persei-g,16595239.91,32560482437.314125,155.87,0
+EMP-030,The Great Sigma-bulgis Imperium,Sigma-bulgis Directorate,243eff68e3,Sigma Bulge-e,26755104.78,8259102459.573843,202.05,1
+EMP-031,The Great Persean Imperium,Persean Directorate,9aa2eff7c3,Upsilon Persei-b,8182998.14,0.0,90.92,0
+EMP-032,The Great Unified Imperium,Unified Zelian Council,5db2756626,Gaia-2971-b,23375318.72,28169178755.5455,195.11,0
+EMP-033,The Great Unified Imperium,Unified Xenoid Council,37df7ce9be,Gaia-2971-c,22586649.53,11514241634.51113,174.47,0
+EMP-034,The Great Meris Imperium,Meris Directorate,63fff6610a,Gaia-2971-d,7382311.04,0.0,84.81,0
+EMP-035,The Unified Star Empire,Unified Xenoid Council,52d6d92e6b,Gaia-2971-e,20236067.03,6998286935.284809,155.59,0
+EMP-036,The Great Meris Imperium,The Meris Federation,ea27a17ca6,Gaia-2971-f,17911825.64,11360147201.293766,144.44,0
+EMP-037,The Zylarex Star Empire,Zylarex Directorate,962632e3ac,GDE-378-b,23058448.61,19968644224.76642,185.29,0
+EMP-038,The Great Scientific Imperium,Scientific Xenite Union,0bfb7074dd,GDE-378-c,20691332.66,49987524393.86873,199.35,0
+EMP-039,The Scientific Technocracy,Scientific Xenoid Union,626215ebea,GDE-378-d,6776825.63,0.0,80.08,0
+EMP-040,The Great Aurelite Imperium,Aurelite Commonwealth,d8145cd1f0,GDE-378-e,23129470.19,21765450540.564293,187.44,0
+EMP-041,The Great Unified Imperium,Unified Aurelari Council,7315025cfd,TESS-2949-c,23009789.63,18676300848.14737,183.77,0
+EMP-042,The Consolidated Allied Systems,Allied Zelite Systems,d853839dba,TESS-2949-d,22288183.14,81746549772.76732,240.7,0
+EMP-043,The Great Allied Imperium,Allied Elysiis Systems,c56a0b9792,Elysium-d,13293972.9,23751718395.54722,125.26,0
+EMP-044,The Great Allied Imperium,Allied Elysiian Systems,2173a01d64,Elysium-e,17656819.46,45631350174.6393,180.77,1
+EMP-045,The Consolidated Valari Systems,Valari Directorate,35390a1939,Kepler-4496-c,23473684.99,15884206942.570118,188.83,1
+EMP-046,The Consolidated Scientific Systems,Scientific Zelan Union,6d4e0abb77,Kepler-4496-f,16135754.58,18822504996.29221,139.69,0
+EMP-047,The Consolidated Star Empire,Consolidated Galactican Worlds,3a3695c8e9,Zeta Galacticis-b,22825998.64,61629619667.31387,229.08,1
+EMP-048,The Unified Technocracy,Unified Zylarite Council,494354518b,Gaia-2093-b,23972403.04,54260859802.69292,224.22,0
+EMP-049,The Great Allied Imperium,Allied Thranari Systems,a425d5c923,Gaia-2093-c,16168332.04,20566606694.861435,141.56,0
+EMP-050,The Great Allied Imperium,Allied Aethelgardian Systems,9cad00795f,Aethelgard-b,13414001.2,6164330907.089082,109.96,0
+EMP-051,The Consolidated Aethelgardan Systems,The Aethelgardan Federation,155f4eead5,Aethelgard-c,18472545.45,19171164786.9905,155.32,0
+EMP-052,The Great Unified Imperium,Unified Aethelgardis Council,35b25d7eaf,Aethelgard-d,19834657.09,26689635757.90677,171.26,0
+EMP-053,The Aethelgardan AI Hegemony,Aethelgardan Directorate,4e674c46b8,Aethelgard-e,18635106.69,5646453775.954166,144.18,0
+EMP-054,The Consolidated Unified Systems,Unified Zeloid Council,e4a60e62b6,GDE-295-b,23012498.5,18944171787.118584,184.04,0
+EMP-055,The Great Scientific Imperium,Scientific Zylaroid Union,24423298c0,GDE-295-c,22965516.32,17883112985.44689,182.75,0
+EMP-056,The Xenan Technocracy,Xenan Directorate,95985a8620,GDE-295-d,24669132.38,101662604093.57664,275.28,0
+EMP-057,The Kaelumis AI Hegemony,Kaelumis Directorate,80be4440e8,GDE-295-e,21864182.69,42387828173.971695,199.37,0
+EMP-058,The Thranis Star Empire,The Thranis Federation,c7a93adf27,GDE-295-f,19465644.5,23429469926.73979,165.77,0
+EMP-059,The Allied Technocracy,Allied Thranari Systems,df2217070a,GDE-295-g,16025703.1,16460303773.960732,136.75,0
+EMP-060,The Great Gamma-orionis Imperium,Gamma-orionis Directorate,c64460376e,Gamma Orionis-b,22647898.49,31225399082.33645,193.49,0
+EMP-061,The Great Unified Imperium,Unified Orionian Council,53e4b98264,Gamma Orionis-c,24327967.12,78467552004.35712,250.25,0
+EMP-062,The Unified Star Empire,Unified Orionian Council,14c594f145,Gamma Orionis-d,23002410.49,184803012.33589935,175.2,1
+EMP-063,The Consolidated Consolidated Systems,Consolidated Orionian Worlds,abb26e55dc,Theta Orionis-b,8181623.57,0.0,90.91,0
+EMP-064,The Great Unified Imperium,Unified Theta-orionis Council,075b3fb3b1,Theta Orionis-d,27436677.89,15871202765.848846,213.09,1
+EMP-065,The Great Theta-orionis Imperium,Theta-orionis Commonwealth,d401178af2,Theta Orionis-e,24445507.37,90301484480.82834,262.66,0
+EMP-066,The Great Unified Imperium,Unified Xenis Council,6dfc531f16,TESS-3146-c,26578274.76,6910183963.805342,199.82,1
+EMP-067,The Great Unified Imperium,Unified Orionis Council,36b91772ac,HIP 191429-c,28436005.25,39752224646.07764,242.03,1
+EMP-068,The Great Unified Imperium,Unified Vesperari Council,3c983bfdab,Gliese 598.0-b,22822936.74,15104592468.16188,179.25,0
+EMP-069,The Consolidated Unified Systems,Unified Xenan Council,db90f4ff25,Gliese 598.0-c,23962032.04,52399483347.64336,222.33,0
+EMP-070,The Consolidated Consolidated Systems,Consolidated Zylarex Worlds,cfec2df928,Gliese 598.0-d,8903434.06,1276400422.4937172,74.82,0
+EMP-071,The Consolidated Thranian Systems,The Thranian Federation,a189e2924d,Gliese 598.0-e,11203048.84,9796884628.952988,97.74,0
+EMP-072,The Scientific AI Hegemony,Scientific Sagittariite Union,30e300e760,Theta Sagittarii-b,22348951.66,8709102744.890442,170.47,0
+EMP-073,The Consolidated Unified Systems,Unified Sagittarian Council,65ea513ebb,Theta Sagittarii-c,23293571.21,25809053963.542763,192.33,0
+EMP-074,The Great Unified Imperium,Unified Orionite Council,6fbfc2a11d,Sigma Orionis-b,22795744.27,14761363316.737677,178.77,0
+EMP-075,The Unified Technocracy,Unified Orionan Council,bceea7e00e,Sigma Orionis-c,20859576.56,13694050074.259418,165.53,0
+EMP-076,The Great Orionian Imperium,Orionian Directorate,9875fc03a4,Sigma Orionis-d,24310947.08,102684393886.69765,274.07,0
+EMP-077,The Unified AI Hegemony,Unified Sigma-orionis Council,81601b2e5e,Sigma Orionis-e,24045563.4,57576119165.56639,227.93,0
+EMP-078,The Sigma-orionis Star Empire,Sigma-orionis Commonwealth,72196fa906,Sigma Orionis-f,17403317.05,19517883434.16301,148.69,0
+EMP-079,The Consolidated Zelis Systems,Zelis Commonwealth,3c4760ddea,HR 208303-d,15079965.22,58263214555.61415,170.88,0
+EMP-080,The Scientific Technocracy,Scientific Zelian Union,9d578c755a,TESS-5798-c,20550490.22,960289222.4986688,153.72,0
+EMP-081,The Consolidated Allied Systems,Allied Solian Systems,23094db297,HD 190494-b,11060174.85,11688708757.804544,98.43,0
+EMP-082,The Great Scientific Imperium,Scientific Thranan Union,642e75a08d,GDE-7399-b,27360300.39,14696064807.334356,211.54,1
+EMP-083,The Scientific Technocracy,Scientific Thranan Union,b619dd5fb5,Kepler-7447c-c,24892364.96,8836799967.800451,191.16,1
+EMP-084,The Great Unified Imperium,Unified Valoid Council,e3ba98a843,Kepler-7447c-d,24028423.37,56876332035.639175,227.14,0
+EMP-085,The Great Scientific Imperium,Scientific Vesperex Union,50f9748c73,Kepler-7447c-e,21782139.55,4417661932.40452,163.34,0
+EMP-086,The Cygnian Star Empire,Cygnian Directorate,3e1c9fe27e,Gamma Cygni-c,22562688.33,21351534777.021397,183.49,0
+EMP-087,The Gamma-cygnis Technocracy,Gamma-cygnis Directorate,cb16d2a5bc,Gamma Cygni-d,23788927.95,44831732208.49959,213.85,0
+EMP-088,The Great Cygnite Imperium,Cygnite Directorate,340e3912e2,Gamma Cygni-e,7448698.11,0.0,85.32,0
+EMP-089,The Great Tau-galacticis Imperium,The Tau-galacticis Federation,6ebb371c3c,Tau Galacticis-d,29359622.87,95563467992.77943,302.46,1
+EMP-090,The Great Valis Imperium,Valis Commonwealth,1b37c066da,PSR 62227-e,26682666.57,41255690941.86165,244.88,3
+EMP-091,The Gamma-galacticis Technocracy,Gamma-galacticis Directorate,f4a721a47f,Gamma Galacticis-c,16896265.65,12545696927.433352,138.87,0
+EMP-092,The Consolidated Aurelex Systems,The Aurelex Federation,63d8758b53,Webb-1026-d,15628174.26,6890819515.595808,137.27,2
+EMP-093,The Solian Star Empire,Solian Directorate,415811daec,Kepler-7797-b,19378825.77,35454360077.0734,176.79,0
+EMP-094,The Aurelex Star Empire,Aurelex Directorate,cb312b9d86,Kepler-7797-c,29113070.61,71451310461.16968,277.18,1
+EMP-095,The Scientific AI Hegemony,Scientific Orionian Union,53dc64803e,Kepler-7797-e,22816840.35,14968392801.938131,179.09,0
+EMP-096,The Great Scientific Imperium,Scientific Bulgian Union,5b3c302325,Theta Bulge-e,27067030.21,11047823688.866156,206.42,1
+EMP-097,The Allied Technocracy,Allied Sagittariite Systems,947f74a852,Psi Sagittarii-d,26173270.21,5489164436.369352,196.17,1
+EMP-098,The Great Unified Imperium,Unified Sagittarian Council,7df05aba52,Psi Sagittarii-e,24096992.53,61059753202.25043,231.67,0
+EMP-099,The Galactician Star Empire,Republic of Galactician,e23dc5e375,Chi Galacticis-d,14762267.22,23067813512.16989,134.56,0
+EMP-100,The Consolidated Gaeian Systems,Gaeian Directorate,77811a2fa9,Gaea-b,5542803.67,0.0,70.11,0
+EMP-101,The Scientific Technocracy,Scientific Kaelumite Union,4a9574c523,Kepler-3722-b,22616888.66,11958578181.910946,175.07,0
+EMP-102,The Merex AI Hegemony,Merex Directorate,e99c95009e,Kepler-3722-c,23375664.51,14459361325.6585,182.12,0
+EMP-103,The Consolidated Xenian Systems,Xenian Directorate,6957a14d13,Kepler-3722-d,24204846.6,42183343593.0331,213.87,0
+EMP-104,The Great Consolidated Imperium,Consolidated Persean Worlds,2a34070c99,Phi Persei-b,21657957.96,11852772210.121752,168.92,0
+EMP-105,The Unified Technocracy,Unified Persean Council,4c67325ea2,Phi Persei-c,26133636.28,5060529383.736709,195.6,1
+EMP-106,The Scientific AI Hegemony,Scientific Phi-perseis Union,8eadd942b0,Phi Persei-d,21800996.71,91072773156.1172,246.83,0
+EMP-107,The Perseian Technocracy,Perseian Directorate,d2f4557294,Phi Persei-f,5951561.72,0.0,73.47,0
+EMP-108,The Consolidated Unified Systems,Unified Ignis-ivis Council,6657429a7c,Ignis IV-b,22403097.56,9319098062.324574,171.35,0
+EMP-109,The Solari Star Empire,Solari Directorate,5f5ebcf2f5,Kepler-6215-b,22886358.07,30007945875.78276,198.62,1
+EMP-110,The Unified Star Empire,Unified Zylaris Council,5578b4053f,Kepler-6215-c,23219478.39,23942144117.37822,190.08,0
+EMP-111,The Great Cygnan Imperium,Cygnan Commonwealth,095464621d,Rho Cygni-c,27852822.39,23849425082.688477,223.15,1
+EMP-112,The Unified Technocracy,Unified Cygnite Council,22e010a52d,Rho Cygni-e,20078714.56,47789271494.00678,193.29,0
+EMP-113,The Great Scientific Imperium,Scientific Thranite Union,a987357567,HR 248540-b,21600642.7,1783551432.8062468,160.54,0
+EMP-114,The Great Allied Imperium,Allied Sagittarian Systems,cf1fb521d7,Gamma Sagittarii-b,23177921.51,23069277884.397327,188.99,0
+EMP-115,The Sagittarian Technocracy,Sagittarian Directorate,0895acc0af,Gamma Sagittarii-c,24516410.13,7179716294.772997,187.42,1
+EMP-116,The Gamma-sagittariis Technocracy,Gamma-sagittariis Directorate,cd650c58ff,Gamma Sagittarii-d,23282236.65,25669884045.63245,192.13,0
+EMP-117,The Scientific AI Hegemony,Scientific Sagittarian Union,208f64f5f9,Gamma Sagittarii-e,19919107.85,55968048832.59651,200.27,0
+EMP-118,The Great Orionex Imperium,Orionex Directorate,a03b53100a,Gliese 327.0-b,23683158.91,39357121774.86429,207.86,0
+EMP-119,The Unified AI Hegemony,Unified Aurelan Council,2640424e04,HR 51505-c,27919908.88,24974064150.627075,224.63,1
+EMP-120,The Great Meran Imperium,The Meran Federation,ad899b1ed9,HIP 288720-b,16465766.28,29038549524.975548,151.62,0
+EMP-121,The Meroid Technocracy,Meroid Directorate,b53d4251d2,HIP 288720-c,23321797.65,27751001925.41899,194.37,0
+EMP-122,The Consolidated Soloid Systems,Soloid Directorate,2b4452e77b,HIP 288720-d,8182016.29,0.0,90.91,0
+EMP-123,The Unified Star Empire,Unified Bulgan Council,7994a1ada7,Xi Bulge-c,17909437.14,56746747267.0999,188.06,0
+EMP-124,The Bulgite Technocracy,Bulgite Directorate,2b100070c5,Xi Bulge-d,26279084.85,5130947595.356813,196.54,1
+EMP-125,The Consolidated Technocracy,Consolidated Vesperan Worlds,984d4d4161,Webb-3705-e,4882096.59,0.0,64.53,0
+EMP-126,The Consolidated Perseian Systems,The Perseian Federation,04b742dd38,Psi Persei-b,16456444.53,25690014357.72544,153.69,1
+EMP-127,The Great Valoid Imperium,The Valoid Federation,82f9ee8fb4,Gliese 2.0-c,23531146.25,26306233508.81237,199.06,1
+EMP-128,The Zylarian AI Hegemony,Zylarian Directorate,08d81107e6,PSR 86396-b,8087734.23,0.0,90.2,0
+EMP-129,The Consolidated Allied Systems,Allied Sagittariian Systems,38a2dd884c,Pi Sagittarii-d,18690501.91,6225140186.525219,156.29,2
+EMP-130,The Great Cygnian Imperium,Cygnian Directorate,1c90d82c80,Delta Cygni-e,24060734.13,76023272019.87338,256.67,2
+EMP-131,The Great Consolidated Imperium,Consolidated Ian Worlds,a067552faf,Gaea I-b,16015372.7,13455973456.78807,133.89,0
+EMP-132,The Scientific Technocracy,Scientific Gaea-is Union,c6642b2284,Gaea I-c,29431402.49,50838453244.1762,258.85,1
+EMP-133,The Great Zelex Imperium,Zelex Directorate,a222a74ae8,TESS-8033-d,24216903.06,68280844702.17761,239.52,0
+EMP-134,The Great Scientific Imperium,Scientific Kaeluman Union,c235dc422c,TESS-8033-e,28516893.61,95204559550.26295,297.02,1
+EMP-135,The Great Unified Imperium,Unified Vesperari Council,9dbca7c528,TESS-8033-f,23586581.8,35869551878.211815,203.87,0
+EMP-136,The Great Scientific Imperium,Scientific Orionian Union,f714a79195,Epsilon Orionis-c,20963991.08,38745681251.47329,190.12,0
+EMP-137,The Great Orionian Imperium,Orionian Directorate,f6221e08e8,Epsilon Orionis-d,8182409.02,0.0,90.92,0
+EMP-138,The Great Xenoid Imperium,Xenoid Directorate,f0cb6b0a91,Gaia-7887-b,19046275.78,26022060271.35263,165.55,0
+EMP-139,The Scientific Technocracy,Scientific Kaeluman Union,609e70586f,Gaia-7887-c,24213006.13,2905615398.3698235,182.27,1
+EMP-140,The Zelis AI Hegemony,Zelis Directorate,a866d8dcfc,Gaia-7887-d,7354477.02,0.0,84.59,0
+EMP-141,The Great Consolidated Imperium,Consolidated Valan Worlds,26a6b7dcc3,Gaia-7887-f,22040486.84,20065154597.04399,178.98,0
+EMP-142,The Great Scientific Imperium,Scientific Valan Union,7be35390be,Webb-9059-b,17151318.66,7012784624.754707,135.65,0
+EMP-143,The Unified AI Hegemony,Unified Thranari Council,87f864fe83,Webb-9059-c,21850093.81,5901843179.368828,164.94,0
+EMP-144,The Great Scientific Imperium,Scientific Thranite Union,3ba7df6ae1,Webb-9059-d,22999716.26,18362865201.095093,183.41,0
+EMP-145,The Great Unified Imperium,Unified Kaelumoid Council,edb45b6eec,Webb-9059-e,8182998.14,0.0,90.92,0
+EMP-146,The Consolidated Consolidated Systems,Consolidated Kaelumari Worlds,fe5ce1f2b8,HIP 201480-b,5685938.29,0.0,71.29,0
+EMP-147,The Great Unified Imperium,Unified Orionex Council,a31575c86a,HIP 201480-c,16578517.77,26745929539.478874,150.16,0
+EMP-148,The Unified Technocracy,Unified Theta-perseis Council,7652ec5c8d,Theta Persei-b,24192074.28,72448134659.85521,243.47,0
+EMP-149,The Sigma-orionis Star Empire,Sigma-orionis Commonwealth,98fbfa35fa,Sigma Orionis-e,15594816.69,40901492460.85117,157.34,0
+EMP-150,The Consolidated Consolidated Systems,Consolidated Solex Worlds,f0ada7121c,Webb-6199-d,27816441.32,1522353024.3455162,209.19,2
+EMP-151,The Scientific Star Empire,Scientific Xenite Union,6eb9b1daf2,Webb-6199-e,23865332.45,49220531435.39689,218.62,0
+EMP-152,The Great Vesperis Imperium,The Vesperis Federation,07a0027478,Webb-6199-f,11886774.77,9668108128.274277,102.43,0
+EMP-153,The Great Scientific Imperium,Scientific Merite Union,187eb0978f,GDE-2341-d,28659755.66,49141379015.021065,252.54,1
+EMP-154,The Unified AI Hegemony,Unified Xenis Council,8bd71d17f7,TESS-2835-c,21016301.91,13609883912.230837,166.45,0
+EMP-155,The Allied Star Empire,Allied Soloid Systems,7f4ec7825c,TESS-2835-d,15970656.04,15702957433.770063,135.68,0
+EMP-156,The Great Unified Imperium,Unified Meris Council,a1d0ea467a,TESS-2835-e,24011030.72,55321150278.14035,225.5,0
+EMP-157,The Zylaran AI Hegemony,The Zylaran Federation,71d820677a,Gliese 837.0-c,13489681.18,10103866643.208254,119.53,1
+EMP-158,The Consolidated Aurelari Systems,Aurelari Directorate,6d2f3e5ed1,Gliese 837.0-d,22794965.11,14707053063.393682,178.71,0
+EMP-159,The Xenan Technocracy,Xenan Directorate,3339448f7c,Gliese 837.0-e,8182212.66,0.0,90.91,0
+EMP-160,The Scientific Technocracy,Scientific Eta-galacticis Union,be3191b575,Eta Galacticis-e,27112303.82,99212143163.5024,292.47,1
+EMP-161,The Consolidated Consolidated Systems,Consolidated Galacticite Worlds,63f01adf18,Eta Galacticis-f,16957323.42,41506165200.614105,172.24,1
+EMP-162,The Great Allied Imperium,Allied Bulgite Systems,b75dce1421,Chi Bulge-e,12607115.97,17600846667.07053,114.71,0
+EMP-163,The Great Allied Imperium,Allied Bulgan Systems,4c8e6a8540,Chi Bulge-g,19555528.72,20951865594.66453,169.07,1
+EMP-164,The Consolidated Unified Systems,Unified Orionoid Council,76c64a14d6,PSR 156692-b,19440657.4,26428691449.40858,168.48,0
+EMP-165,The Scientific Technocracy,Scientific Solan Union,517cb43ce0,TESS-9709-b,21920647.54,5227341944.221749,164.84,0
+EMP-166,The Great Kaelumian Imperium,Kaelumian Commonwealth,d378f96d17,TESS-9709-c,18770922.09,44411300799.7412,181.58,0
+EMP-167,The Orionian Technocracy,Orionian Directorate,7664b6b371,TESS-9709-d,18104361.16,147327286.0787468,139.19,0
+EMP-168,The Great Unified Imperium,Unified Aurelex Council,739bb87006,TESS-9709-e,17428866.08,14687868.481739044,137.16,0
+EMP-169,The Unified Technocracy,Unified Kaelumex Council,8853384409,HD 59434-c,25209531.56,4240912407.23685,189.31,1
+EMP-170,The Great Scientific Imperium,Scientific Persean Union,bda6417e80,Gamma Persei-b,15209274.38,1663257499.7021725,119.01,0
+EMP-171,The Consolidated Persean Systems,The Persean Federation,56cd534bb7,Gamma Persei-c,17009077.69,47423464153.54525,173.05,0
+EMP-172,The Persean AI Hegemony,Persean Directorate,c6e77e6789,Gamma Persei-d,23899218.53,49277069548.07534,218.89,0
+EMP-173,The Perseite AI Hegemony,Perseite Directorate,ac4afd4a27,Gamma Persei-e,19546785.73,33532985216.39992,176.01,0
+EMP-174,The Scientific Star Empire,Scientific Aurelex Union,778b8b68c3,HR 27482-b,8182998.14,0.0,90.92,0
+EMP-175,The Great Scientific Imperium,Scientific Meran Union,c5213edcba,HR 27482-c,17209449.64,26840962816.52725,154.4,0
+EMP-176,The Great Zylaris Imperium,Zylaris Directorate,37b8da7a55,GDE-7733-b,23898946.52,49694609942.65818,219.29,0
+EMP-177,The Great Aurelari Imperium,Aurelari Directorate,c1803ec34d,GDE-4866a-b,6927382.71,0.0,81.27,0
+EMP-178,The Galactician Technocracy,Galactician Commonwealth,d957806d32,Sigma Galacticis-b,19119210.71,8507097603.737268,149.72,0
+EMP-179,The Great Unified Imperium,Unified Sigma-galacticis Council,fcda05fc4e,Sigma Galacticis-d,8182605.39,0.0,90.92,0
+EMP-180,The Great Galactican Imperium,Galactican Directorate,2320e9a617,Sigma Galacticis-e,21864080.04,46879921172.57859,203.76,0
+EMP-181,The Great Galactican Imperium,The Galactican Federation,75a58165a0,Sigma Galacticis-g,12206924.94,7936735414.2031,108.93,1
+EMP-182,The Consolidated Unified Systems,Unified Xenian Council,d5f12251b2,Gliese 663.0-c,22302248.8,9616407287.705397,170.98,0
+EMP-183,The Unified Technocracy,Unified Xenis Council,b4221d6e15,Gliese 663.0-d,23208725.26,23490819782.058533,189.58,0
+EMP-184,The Unified Technocracy,Unified Zylarex Council,b3ddaf54de,Gliese 663.0-e,23045623.47,19606504829.83224,184.87,0
+EMP-185,The Unified Star Empire,Unified Xenian Council,fa8159dac5,Gliese 663.0-f,22732524.18,76484822729.85742,238.3,0
+EMP-186,The Great Dominion Imperium,Dominion of Thranari,02e103d2b6,Gliese 663.0-g,7566436.77,0.0,86.23,0
+EMP-187,The Consolidated Thranis Systems,The Thranis Federation,b0eb206a08,TESS-5743b-c,8541454.25,574200126.1385746,72.29,0
+EMP-188,The Great Unified Imperium,Unified Meroid Council,529174abfd,TESS-5743b-d,8182801.77,0.0,90.92,0
+EMP-189,The Unified Technocracy,Unified Zylarian Council,658cf93cc4,TESS-5743b-e,25477475.83,117712362380.72272,296.19,0
+EMP-190,The Unified Technocracy,Unified Perseian Council,3b106fa102,Phi Persei-b,15835174.68,20940145396.50273,139.7,0
+EMP-191,The Allied Star Empire,Allied Phi-perseis Systems,cb6235e194,Phi Persei-c,20673306.84,1122968472.4174404,154.49,0
+EMP-192,The Great Consolidated Imperium,Consolidated Prometheian Worlds,6a9427ac16,Prometheus-g,17377817.24,19885585996.29671,154.14,1
+EMP-193,The Great Unified Imperium,Unified Vesperis Council,094756ff65,HIP 246403-c,28862365.54,58969419367.96308,263.39,1
+EMP-194,The Aurelari Technocracy,Aurelari Directorate,e07661a882,HIP 246403-d,22822320.84,15163254724.407995,179.3,0
+EMP-195,The Consolidated Scientific Systems,Scientific Aurelan Union,d340e67e88,HR 58037-b,5356511.83,0.0,68.55,0
+EMP-196,The Great Scientific Imperium,Scientific Priman Union,78635879d1,Selene Prime-b,23920153.71,50081463317.61275,219.8,0
+EMP-197,The Primite Star Empire,Primite Directorate,71f4e16f01,Selene Prime-c,22241226.13,16111339942.975998,176.53,0
+EMP-198,The Great Scientific Imperium,Scientific Sagittarian Union,62149b123f,Eta Sagittarii-b,21980614.27,16870005220.432024,175.59,0
+EMP-199,The Iota-sagittariis Technocracy,Iota-sagittariis Directorate,4c3eb31272,Iota Sagittarii-b,23534090.03,99245543574.14822,265.81,0
+EMP-200,The Great Sagittarian Imperium,Sagittarian Directorate,460d2edc1f,Iota Sagittarii-c,6124578.34,0.0,74.87,0
+EMP-201,The Orionite Technocracy,Orionite Directorate,6c40e5c997,Upsilon Orionis-b,26702532.33,13243384906.880615,206.2,1
+EMP-202,The Great Scientific Imperium,Scientific Orionian Union,ce97697488,Upsilon Orionis-c,23494161.78,32703331135.15694,200.22,0
+EMP-203,The Scientific AI Hegemony,Scientific Orionite Union,4df0d9ee3b,Upsilon Orionis-e,22539536.02,66563066549.52012,227.32,0
+EMP-204,The Great Beta-bulgis Imperium,Beta-bulgis Commonwealth,5a236efd3f,Beta Bulge-d,32539568.3,24565512758.50669,257.31,2
+EMP-205,The Consolidated Beta-bulgis Systems,Beta-bulgis Directorate,b8c054770f,Beta Bulge-g,27818324.03,22944468367.33532,222.08,1
+EMP-206,The Consolidated Star Empire,Consolidated Orionis Worlds,1bc76d1c73,TESS-3963d-b,20641971.32,75130628642.97383,228.72,1
+EMP-207,The Great Unified Imperium,Unified Orionite Council,1c4722b997,Nu Orionis-b,29106677.02,70532272432.8743,276.23,1
+EMP-208,The Unified Technocracy,Unified Valis Council,0e67dd57aa,HR 120160-b,17050615.62,14802874145.036686,141.96,0
+EMP-209,The Zylarex AI Hegemony,Zylarex Directorate,88977397af,HR 120160-c,22568349.31,11317772005.803211,174.18,0
+EMP-210,The Scientific Technocracy,Scientific Orionis Union,84a3d643c9,HR 120160-d,24293566.82,29066674698.961006,206.41,1
+EMP-211,The Great Allied Imperium,Allied Zylaris Systems,19190c022d,Webb-1799-b,19133912.74,9569469293.07378,155.86,1
+EMP-212,The Consolidated Allied Systems,Allied Aurelite Systems,cadd62d564,Webb-1799-c,24560878.38,54431833008.97691,228.06,0
+EMP-213,The Great Meran Imperium,The Meran Federation,d0016e25b4,HIP 114085-c,22588818.29,94769815180.369,260.28,1
+EMP-214,The Consolidated Zeloid Systems,Zeloid Commonwealth,724362e429,HIP 114085-d,13206155.48,13266652402.243422,120.49,1
+EMP-215,The Aurelian Star Empire,Aurelian Commonwealth,2b478a564d,Aurelia-c,11185637.64,11622474600.15524,99.26,0
+EMP-216,The Scientific Technocracy,Scientific Aureliis Union,999c5041c4,Aurelia-d,25006126.71,11037014417.718697,193.82,1
+EMP-217,The Consolidated Scientific Systems,Scientific Aureliite Union,06f00def5a,Aurelia-e,17650459.31,31297848118.170757,161.57,0
+EMP-218,The Orionite AI Hegemony,Orionite Directorate,23582772c8,Delta Orionis-b,24349787.47,79074257415.6775,250.98,0
+EMP-219,The Solari Technocracy,Solari Directorate,61397f1d85,TESS-973-b,21655896.47,3788982752.10424,162.08,0
+EMP-220,The Great Scientific Imperium,Scientific Solex Union,ca40b2e629,TESS-973-d,18188028.88,3178403627.1573105,144.64,1
+EMP-221,The Vesperian Star Empire,Vesperian Directorate,80d9c3cc28,TESS-973-e,23195000.06,11893794079.281702,178.64,0
+EMP-222,The Scientific Technocracy,Scientific Thranex Union,bcfcfb49cf,HR 104924-b,20972368.03,13254989315.53163,165.85,0
+EMP-223,The Consolidated Chi-bulgis Systems,Chi-bulgis Directorate,9568bafb15,Chi Bulge-b,21286085.32,14525746698.86426,169.01,0
+EMP-224,The Bulgian Technocracy,Bulgian Directorate,47e406daef,Chi Bulge-c,23452762.45,31081905209.29097,198.4,0
+EMP-225,The Consolidated Bulgite Systems,Bulgite Commonwealth,ad47c2dda3,Chi Bulge-d,11202872.22,9739621960.644934,97.69,0
+EMP-226,The Great Scientific Imperium,Scientific Vesperoid Union,096fc37df4,HD 275033-e,22929913.92,32321864681.53637,206.97,2
+EMP-227,The Scientific AI Hegemony,Scientific Vesperis Union,0b6029ea29,Webb-5587a-b,21520032.44,14349922338.166237,170.33,0
+EMP-228,The Orionan Star Empire,Orionan Directorate,0ed21e60e5,Webb-5587a-c,28702674.78,50497642405.880615,254.12,1
+EMP-229,The Scientific Technocracy,Scientific Merex Union,5a9f1f61c7,Webb-5587a-d,25524718.17,130910164497.4213,309.57,0
+EMP-230,The Great Allied Imperium,Allied Meris Systems,02fd90e690,Webb-5587a-f,18976743.77,7578307004.222319,148.0,0
+EMP-231,The Allied Star Empire,Allied Kaelumex Systems,3557fb1c6f,GDE-845-b,24343047.84,4631042875.899139,184.28,1
+EMP-232,The Consolidated Unified Systems,Unified Aurelian Council,61550040fc,GDE-845-c,23147148.59,22027826193.09944,187.8,0
+EMP-233,The Great Valari Imperium,The Valari Federation,f0fcb8f048,GDE-845-e,24137805.17,65189149932.38303,235.98,0
+EMP-234,The Zelian AI Hegemony,The Zelian Federation,691ec52085,GDE-845-g,27292224.3,13959439321.901373,210.44,1
+EMP-235,The Allied Technocracy,Allied Orionan Systems,9a629191f0,HD 162586-b,20931515.17,21495558393.05272,173.3,0
+EMP-236,The Aureloid Star Empire,Aureloid Directorate,33e625a829,TESS-6387-b,25015210.53,146511863642.1394,321.89,0
+EMP-237,The Consolidated Technocracy,Consolidated Merari Worlds,b91403ddc4,TESS-6387-c,15326389.05,11734355800.348454,127.74,0
+EMP-238,The Consolidated Scientific Systems,Scientific Xenex Union,71073d1e77,HR 211002-b,5402389.33,0.0,68.94,0
+EMP-239,The Consolidated Star Empire,Consolidated Persean Worlds,58a2b00e32,Chi Persei-b,18819926.57,25619023654.263496,163.7,0
+EMP-240,The Consolidated Perseian Systems,Perseian Commonwealth,03fca7f787,Chi Persei-c,27280764.66,13857453541.743608,210.28,1
+EMP-241,The Scientific AI Hegemony,Scientific Perseian Union,939c53fc68,Chi Persei-d,20963328.02,1610877916.176216,156.44,0
+EMP-242,The Cygnan Technocracy,Cygnan Commonwealth,dc652af4e1,Sigma Cygni-b,27585227.86,18472965550.984863,216.43,1
+EMP-243,The Cygnan Technocracy,Cygnan Directorate,98e5a44c50,Sigma Cygni-c,24039650.3,56742271964.46222,227.08,0
+EMP-244,The Great Cygnan Imperium,Cygnan Directorate,e1017ed35e,Sigma Cygni-d,22537401.21,10907540040.921532,173.61,0
+EMP-245,The Cygnian Technocracy,Cygnian Commonwealth,ee6f8a466e,Sigma Cygni-f,19007386.86,12769542986.051373,152.82,0
+EMP-246,The Scientific AI Hegemony,Scientific Kaelumian Union,bc259c8444,HIP 121095-b,25043571.16,34724798470.11086,216.49,1
+EMP-247,The Kaeluman AI Hegemony,Kaeluman Directorate,fc41667c54,HIP 121095-c,24432752.63,82876470513.94864,255.25,0
+EMP-248,The Consolidated Scientific Systems,Scientific Bulgian Union,b4e38b5ba0,Epsilon Bulge-b,23261162.49,25057137307.73852,191.41,0
+EMP-249,The Omega-bulgis AI Hegemony,Omega-bulgis Directorate,ed8eb43829,Omega Bulge-c,23764089.38,43247611222.68178,212.15,0
+EMP-250,The Unified AI Hegemony,Unified Omega-bulgis Council,2d7a6c7193,Omega Bulge-d,24674991.8,109653009461.93332,283.23,0
+EMP-251,The Great Unified Imperium,Unified Bulgite Council,c4d87c45ee,Omega Bulge-e,23398813.5,28513830141.95969,195.59,0
+EMP-252,The Unified AI Hegemony,Unified Bulgian Council,62a7129a59,Omega Bulge-f,8181819.93,0.0,90.91,0
+EMP-253,The Consolidated Star Empire,Consolidated Thranian Worlds,1e3994853e,HD 50077-c,22743352.08,14000859254.165173,177.73,0
+EMP-254,The Scientific Technocracy,Scientific Thranari Union,b28f9ec7d4,HD 50077-f,29360690.66,87853062554.01619,294.84,1
+EMP-255,The Great Scientific Imperium,Scientific Aurelan Union,634ad45f7e,HD 50077-g,23610436.19,50303220858.17815,222.84,1
+EMP-256,The Great Kaelumari Imperium,Kaelumari Directorate,75912c8e4c,HD 50077-h,20002682.22,476333881.440155,150.49,0
+EMP-257,The Great Scientific Imperium,Scientific Valian Union,d07bc4ae63,HR 233687-b,21231980.81,50537698108.39502,208.26,1
+EMP-258,The Scientific Technocracy,Scientific Vesperari Union,9696ce2491,HIP 217328-b,23144053.42,21847187438.24597,187.61,0
+EMP-259,The Great Scientific Imperium,Scientific Orionite Union,7036dbff3e,Zeta Orionis-c,15371738.47,19184096017.95903,140.41,1
+EMP-260,The Consolidated Orionan Systems,Orionan Directorate,c98968025a,Zeta Orionis-d,15992205.75,20475204132.93005,140.3,0
+EMP-261,The Great Consolidated Imperium,Consolidated Omega-cygnis Worlds,9d449a31b9,Omega Cygni-e,2857171.52,0.0,45.8,0
+EMP-262,The Thranari Technocracy,Thranari Commonwealth,12f8de3472,HD 36797-c,14682902.38,21681600737.1877,138.23,1
+EMP-263,The Great Unified Imperium,Unified Xenoid Council,afc6771a1e,Webb-3991-b,19035574.34,14863974530.643929,154.93,0
+EMP-264,The Thranari Technocracy,Thranari Commonwealth,55c2a4dc5e,Webb-3991-c,22895091.52,16563713156.973349,181.07,0
+EMP-265,The Unified AI Hegemony,Unified Zelian Council,3779c3fe76,Webb-3991-d,20201056.04,59797367147.21041,205.84,0
+EMP-266,The Scientific Technocracy,Scientific Merari Union,cd01ef6fd0,Webb-3991-e,23211547.73,23223771451.42505,189.35,0
+EMP-267,The Unified Technocracy,Unified Zelari Council,63803c4eb1,PSR 133182-b,25888213.0,10313464125.809128,204.25,2
+EMP-268,The Unified Technocracy,Unified Valoid Council,20dcee6871,PSR 133182-e,23941522.97,51822597720.31558,221.64,0
+EMP-269,The Allied Technocracy,Allied Sagittariian Systems,53856bd8ca,Tau Sagittarii-f,17433402.56,20524652979.549328,155.1,1
+EMP-270,The Great Unified Imperium,Unified Orionis Council,da38a63176,Webb-7458-e,25712205.8,13833706091.097982,200.7,1
+EMP-271,The Scientific AI Hegemony,Scientific Thranan Union,8196db66b3,Webb-7458-f,8183194.52,0.0,90.92,0
+EMP-272,The Scientific Technocracy,Scientific Perseian Union,f004cb791e,Beta Persei-b,23295178.37,25703187546.23729,192.24,0
+EMP-273,The Aurelian AI Hegemony,Aurelian Directorate,15955262e1,PSR 289778-d,18453488.58,42023193864.480606,182.37,1
+EMP-274,The Unified Technocracy,Unified Sagittariite Council,c3662e3808,Eta Sagittarii-b,18828375.29,10007564911.649117,154.31,1
+EMP-275,The Consolidated Technocracy,Consolidated Orionian Worlds,7dc225fd37,PSR 165223-d,5907360.86,0.0,73.11,0
+EMP-276,The Consolidated Technocracy,Consolidated Zylaris Worlds,373ea01e5c,Gliese 787.0-c,17058483.7,33922595350.887157,165.53,1
+EMP-277,The Thranite Star Empire,The Thranite Federation,17fee1a6ac,TESS-915-b,17868418.39,49184314256.16348,185.61,1
+EMP-278,The Consolidated Consolidated Systems,Consolidated Orionite Worlds,66d46fcd47,Nu Orionis-d,18787864.49,25671131578.379143,174.8,2
+EMP-279,The Consolidated Chi-bulgis Systems,Chi-bulgis Directorate,dffeed89fb,Chi Bulge-b,18349917.85,54715831150.06844,188.93,0
+EMP-280,The Consolidated Chi-bulgis Systems,The Chi-bulgis Federation,cd3cb2af45,Chi Bulge-d,27713367.13,20869252805.630783,219.47,1
+EMP-281,The Consolidated AI Hegemony,Consolidated Xenite Worlds,5d262aaec3,TESS-7890-b,24708961.84,27810401934.159748,207.76,1
+EMP-282,The Great Orionis Imperium,Orionis Directorate,db6da7e17a,TESS-7890-c,22182225.33,36395802669.647385,195.56,0
+EMP-283,The Orionite Technocracy,Orionite Directorate,73573955bb,TESS-7890-d,23483500.2,93716483517.02434,260.03,0
+EMP-284,The Great Bulgan Imperium,Bulgan Commonwealth,f2bbbfc167,Delta Bulge-b,18923481.76,10947453497.661757,155.75,1
+EMP-285,The Bulgian Star Empire,Bulgian Commonwealth,f929aa33ac,Delta Bulge-c,13136525.29,14487773679.398508,115.45,0
+EMP-286,The Consolidated Scientific Systems,Scientific Bulgite Union,28d83c4b42,Delta Bulge-d,23511620.75,33311332788.75812,200.92,0
+EMP-287,The Consolidated Delta-bulgis Systems,The Delta-bulgis Federation,0ddd78edbb,Delta Bulge-e,15935746.45,14777448094.868076,134.59,0
+EMP-288,The Thranan Technocracy,Thranan Directorate,d7ec4d3018,HR 175320-d,6972292.39,0.0,81.62,0
+EMP-289,The Great Unified Imperium,Unified Thranis Council,adc1c77061,HR 175320-e,23766105.64,390263852.8106492,179.22,1
+EMP-290,The Orionite Technocracy,Orionite Directorate,931aa9655e,Gliese 257.0-d,21050659.97,18327468712.291157,171.07,0
+EMP-291,The Consolidated Unified Systems,Unified Valari Council,df2f64c1a1,Gliese 257.0-e,24392144.41,79813193943.62375,251.97,0
+EMP-292,The Great Scientific Imperium,Scientific Aurelite Union,f27ca4fefa,Gliese 257.0-f,23728086.46,41394183760.53345,210.12,0
+EMP-293,The Consolidated Meroid Systems,Republic of Meroid,a7f6005fd2,Kepler-6776-c,3784110.11,0.0,54.76,0
+EMP-294,The Consolidated Unified Systems,Unified Zylarite Council,4164b650a3,HD 14791-b,24876058.15,70285448041.7116,245.59,0
+EMP-295,The Consolidated Thranari Systems,The Thranari Federation,340ef3ab81,HD 14791-c,2595662.28,0.0,43.11,0
+EMP-296,The Great Consolidated Imperium,Consolidated Xenoid Worlds,7ba9deb67e,Webb-4746d-e,29252496.09,44485557825.715904,251.56,1
+EMP-297,The Consolidated Unified Systems,Unified Xenan Council,785ce4730c,Kepler-8079d-b,19668416.69,2295362325.833812,148.46,0
+EMP-298,The Consolidated Consolidated Systems,Consolidated Valoid Worlds,7135e43d15,Kepler-8079d-c,21902522.23,13807272284.396694,172.25,0
+EMP-299,The Orionite AI Hegemony,Orionite Directorate,dbf06f7273,Kepler-8079d-d,6315279.82,0.0,76.41,0
+EMP-300,The Great Vesperan Imperium,Vesperan Commonwealth,8f64eb0a84,Kepler-8079d-e,23100733.43,212322577.40683365,175.72,1
+EMP-301,The Great Consolidated Imperium,Consolidated Zelite Worlds,c87f4b2d09,HR 123535-b,16638671.73,16652312999.338797,140.98,0
+EMP-302,The Meran Technocracy,Meran Commonwealth,c59e7444f5,PSR 272701-c,22968097.93,18003814509.653393,182.87,0
+EMP-303,The Consolidated Unified Systems,Unified Meris Council,111ab1a74e,PSR 272701-d,23126767.67,50223302115.11253,219.77,1
+EMP-304,The Consolidated Unified Systems,Unified Merian Council,762d1b3438,PSR 272701-e,23749230.89,138779806451.35492,306.33,0
+EMP-305,The Great Unified Imperium,Unified Orionan Council,41e5776038,Webb-8019-b,22177662.26,7096770526.851049,168.0,0
+EMP-306,The Vesperite AI Hegemony,Vesperite Commonwealth,11c4291fc3,Webb-8019-d,25680986.35,3992626690.8851194,192.02,1
+EMP-307,The Great Orionan Imperium,Orionan Directorate,c8c30fa0a1,Webb-8019-e,23468623.8,31067905016.34845,198.49,0
+EMP-308,The Aurelian Star Empire,The Aurelian Federation,41a9345e47,Webb-8019-g,27420002.72,15765815903.549623,212.89,1
+EMP-309,The Great Scientific Imperium,Scientific Galacticite Union,6edc6616b2,Chi Galacticis-b,17243704.11,39722531715.75212,167.08,0
+EMP-310,The Great Galactican Imperium,Galactican Directorate,82b29167c3,Chi Galacticis-d,19553849.3,22688295262.88944,170.71,1
+EMP-311,The Scientific Technocracy,Scientific Zylarex Union,cbdac2fac3,Kepler-604-b,6048005.21,0.0,74.25,0
+EMP-312,The Great Scientific Imperium,Scientific Kaelumari Union,9891e1dd90,TESS-8500-b,25650699.37,20810749489.513283,206.85,1
+EMP-313,The Unified Technocracy,Unified Zeloid Council,5087e1422a,TESS-8500-d,20618026.7,6510522499.1016655,162.61,1
+EMP-314,The Allied Technocracy,Allied Valis Systems,5d94c085f5,HIP 233393-c,27243571.88,42994889305.04215,243.56,2
+EMP-315,The Great Unified Imperium,Unified Solex Council,cc71651dca,Gaia-4401-b,21001315.0,14897514324.569696,167.55,0
+EMP-316,The Great Consolidated Imperium,Consolidated Iota-perseis Worlds,b7f420628f,Iota Persei-b,17275343.45,49416881928.54794,182.02,1
+EMP-317,The Great Allied Imperium,Allied Thranian Systems,1a2a63b5eb,Gaia-2648c-e,23852842.9,2927076708.491569,180.06,1
+EMP-318,The Unified Technocracy,Unified Merite Council,9eeb4737e9,Gaia-2648c-f,24057312.53,57553803356.44575,227.98,0
+EMP-319,The Solex Star Empire,Solex Commonwealth,8e17c1b492,TESS-7730a-b,12527792.8,6919127989.378657,110.26,1
+EMP-320,The Great Scientific Imperium,Scientific Valan Union,35e0e185b7,TESS-7730a-d,16274822.38,20667587041.966423,142.36,0
+EMP-321,The Great Unified Imperium,Unified Vesperite Council,15c488fdb9,Gaia-4413-b,22777294.55,14395712785.417929,178.31,0
+EMP-322,The Great Zelian Imperium,Zelian Directorate,52be76d999,Gaia-4413-c,21330624.73,12047701121.242844,167.02,0
+EMP-323,The Allied Technocracy,Allied Cygnian Systems,2d148d0e47,Omega Cygni-b,24522358.67,95408981427.85033,268.19,0
+EMP-324,The Scientific Technocracy,Scientific Omega-cygnis Union,a4eac32597,Omega Cygni-c,23540501.2,34051743586.373978,201.82,0
+EMP-325,The Great Allied Imperium,Allied Cygnite Systems,f94aaeed85,Omega Cygni-d,19341801.39,5368249621.400748,148.51,0
+EMP-326,The Consolidated Epsilon-perseis Systems,The Epsilon-perseis Federation,a9283be55d,Epsilon Persei-c,12441948.24,6150002446.302413,103.26,0
+EMP-327,The Perseian AI Hegemony,The Perseian Federation,27d9c8dc46,Epsilon Persei-d,15706884.13,10970173241.355316,129.58,0
+EMP-328,The Great Scientific Imperium,Scientific Persean Union,2c89a9e0dc,Epsilon Persei-e,24136079.19,62621095085.55118,233.45,0
+EMP-329,The Scientific Technocracy,Scientific Epsilon-perseis Union,c45231c414,Epsilon Persei-f,24443579.71,101285759509.08568,273.51,0
+EMP-330,The Great Consolidated Imperium,Consolidated Cygnian Worlds,7fdb421436,Tau Cygni-b,4359962.3,0.0,59.97,0
+EMP-331,The Allied Star Empire,Allied Solian Systems,b323933feb,TESS-6922-c,12805965.79,5428204471.627351,110.92,1
+EMP-332,The Bulgan Technocracy,Bulgan Directorate,c5f014b287,Alpha Bulge-b,8183980.07,0.0,90.93,0
+EMP-333,The Bulgian Star Empire,Bulgian Directorate,8d88177d24,Alpha Bulge-e,21081204.75,16439337225.72999,174.44,1
+EMP-334,The Scientific Technocracy,Scientific Vesperan Union,e1c4b2ed14,HIP 286034-b,24459779.53,86836264226.48854,259.33,0
+EMP-335,The Aurelari Technocracy,Aurelari Directorate,a568c633c8,HIP 14841-b,15595256.11,12117376661.195335,135.31,1
+EMP-336,The Vesperan Technocracy,The Vesperan Federation,0187c7d64a,Webb-694-b,16018708.39,16884422507.994522,137.1,0
+EMP-337,The Valite Technocracy,Valite Directorate,189d8d8d1b,Webb-694-c,23414195.25,29446239898.48851,196.58,0
+EMP-338,The Unified AI Hegemony,Unified Vesperite Council,57f00e3f50,Webb-694-d,21378258.52,2682242473.1145515,159.59,0
+EMP-339,The Great Unified Imperium,Unified Kaelumex Council,d427d38a9f,Webb-694-e,23702816.65,39708048954.08598,208.32,0
+EMP-340,The Great Thranan Imperium,Thranan Directorate,f1337406a3,GDE-5391-d,24904481.1,1279963948.9093077,185.81,1
+EMP-341,The Consolidated Zelari Systems,Zelari Commonwealth,ecbe2dc98a,GDE-5391-e,4530436.89,0.0,61.48,0
+EMP-342,The Consolidated Scientific Systems,Scientific Solex Union,354b63d6d6,Gliese 196.0-b,23980399.83,54508486956.37289,224.51,0
+EMP-343,The Unified Technocracy,Unified Thranian Council,fce0550f04,Gliese 196.0-c,22401219.87,43052333602.884384,203.41,0
+EMP-344,The Scientific Technocracy,Scientific Aurelari Union,f7a8fcf1b2,Gliese 196.0-d,22350706.72,94381789469.40398,253.57,0
+EMP-345,The Orionex AI Hegemony,Orionex Directorate,8c80ad65b6,TESS-7571-e,16381233.15,26464685809.528942,148.59,0
+EMP-346,The Great Scientific Imperium,Scientific Kaeluman Union,65154f1c30,TESS-7571-f,33058815.2,36993343818.49049,272.36,2
+EMP-347,The Great Unified Imperium,Unified Kaelumex Council,e6f9f9e411,Gliese 374.0-b,20555077.26,93525570428.76369,241.34,0
+EMP-348,The Unified Star Empire,Unified Aurelis Council,24e153416d,Gliese 159.0-b,24584125.5,99730475347.95,272.84,0
+EMP-349,The Great Scientific Imperium,Scientific Thranex Union,38ade68c1e,Gliese 159.0-c,17514348.15,64219013504.64513,192.82,0
+EMP-350,The Great Thranan Imperium,Thranan Directorate,eacab5ee97,HD 119869-d,15736808.44,4730785111.85565,124.46,0
+EMP-351,The Great Valian Imperium,Valian Directorate,fadaa4a404,HD 119869-e,24452093.91,88782747477.86504,261.2,0
+EMP-352,The Solite Technocracy,Solite Directorate,ebda9e7b67,HD 119869-f,24560947.66,95386489413.15884,268.4,0
+EMP-353,The Unified Star Empire,Unified Merian Council,de8a7cab3b,HD 119869-g,22156022.53,6955357944.530914,167.75,0
+EMP-354,The Great Merian Imperium,Merian Directorate,5573af18db,HIP 53021-b,23625876.83,37314220682.726906,205.52,0
+EMP-355,The Great Meroid Imperium,Meroid Directorate,e13216033f,HIP 53021-c,23457984.52,59695736729.81229,226.34,0
+EMP-356,The Zylarian Technocracy,Zylarian Commonwealth,bee1d78260,HIP 53021-d,15047737.57,11899886254.786724,126.03,0
+EMP-357,The Unified Technocracy,Unified Zylarite Council,2a8b6fc81d,GDE-122-b,22369834.57,8930075203.59475,170.8,0
+EMP-358,The Unified Technocracy,Unified Valian Council,2320636026,GDE-122-c,15228946.23,5316268607.985487,121.53,0
+EMP-359,The Scientific Technocracy,Scientific Orionoid Union,e976b29c9d,GDE-122-d,22916772.58,91764536508.55057,254.54,0
+EMP-360,The Great Unified Imperium,Unified Valite Council,dc0074adc3,Gaia-1650-c,23768102.21,43208559616.70325,212.14,0
+EMP-361,The Unified AI Hegemony,Unified Zelex Council,303a3df484,Gaia-1650-d,25072704.41,97133608410.6732,277.96,1
+EMP-362,The Aurelian Technocracy,Aurelian Directorate,02b9381952,Gaia-1650-e,28628624.3,48120000210.78453,251.35,1
+EMP-363,The Unified AI Hegemony,Unified Orionian Council,08caaac3af,Tau Orionis-c,8183587.29,0.0,90.92,0
+EMP-364,The Great Unified Imperium,Unified Orionian Council,0ad458611c,Tau Orionis-d,26867766.82,38089943226.19667,230.9,1
+EMP-365,The Unified AI Hegemony,Unified Orionan Council,c2fe0ab024,Tau Orionis-e,12918358.22,8563159891.797838,108.6,0
+EMP-366,The Vesperian AI Hegemony,Vesperian Directorate,91474e8269,HR 66132-b,23278830.96,25009003578.22749,191.47,0
+EMP-367,The Great Unified Imperium,Unified Zelan Council,32d2bbd884,HR 66132-c,8181819.93,0.0,90.91,0
+EMP-368,The Unified Technocracy,Unified Aurelari Council,f343101fe6,Kepler-5383-b,15331289.88,4126138532.6299634,121.3,0
+EMP-369,The Consolidated Unified Systems,Unified Merex Council,1cf19da3a9,Kepler-5383-c,22888837.65,16298575983.891544,180.78,0
+EMP-370,The Kaelumis Technocracy,Kaelumis Directorate,fc241018ec,Kepler-5383-d,24061877.22,59640212973.0572,230.06,0
+EMP-371,The Merian AI Hegemony,Merian Commonwealth,2c6958242d,Kepler-5383-e,21893148.37,5064714259.316546,164.54,0
+EMP-372,The Great Zylarite Imperium,Zylarite Commonwealth,950050e41a,GDE-4070-b,18198127.09,90246301809.73892,222.93,0
+EMP-373,The Scientific Technocracy,Scientific Valex Union,7ec564c9db,GDE-4070-c,7076231.21,0.0,82.43,0
+EMP-374,The Great Unified Imperium,Unified Xenian Council,2e4e7545f5,GDE-4070-d,8182212.66,0.0,90.91,0
+EMP-375,The Zylarian AI Hegemony,Zylarian Directorate,f9c2058d1a,GDE-4070-e,4131001.38,0.0,57.92,0
+EMP-376,The Consolidated Bulgite Systems,Bulgite Directorate,28100766c8,Omega Bulge-b,7376628.67,0.0,84.76,0
+EMP-377,The Consolidated Unified Systems,Unified Orionite Council,bbf8578e8c,HD 242398-d,22894556.13,16469601129.922075,180.98,0
+EMP-378,The Consolidated Merari Systems,Merari Directorate,8478dfd6f7,HD 242398-e,20555653.92,25284140245.74183,174.52,0
+EMP-379,The Kaelumis AI Hegemony,Kaelumis Directorate,6f1e390274,HD 242398-f,20551199.05,52528230631.42083,200.94,0
+EMP-380,The Unified Technocracy,Unified Zelian Council,b12b67a0db,HD 242398-g,15900164.83,3078538547.866187,124.35,0
+EMP-381,The Scientific Technocracy,Scientific Xenite Union,28728de334,Webb-7340-b,8183587.29,0.0,90.92,0
+EMP-382,The Great Unified Imperium,Unified Aurelis Council,5d6505f12a,Webb-7340-c,23469192.68,14030790620.399273,187.08,1
+EMP-383,The Unified AI Hegemony,Unified Vesperex Council,2c64149009,Kepler-3223-b,23096519.22,20728734611.376755,186.25,0
+EMP-384,The Great Vesperari Imperium,Vesperari Directorate,ed45fe3a8d,Kepler-3223-c,25070071.5,148176562636.75238,323.88,0
+EMP-385,The Aurelan Technocracy,The Aurelan Federation,b1f20b8a8c,Kepler-3223-d,24153002.38,34649647541.68722,206.23,0
+EMP-386,The Xenoid Technocracy,Xenoid Directorate,43cb04ad80,PSR 161837-b,22306106.59,8260881481.541665,169.81,0
+EMP-387,The Scientific AI Hegemony,Scientific Xenan Union,3a375c2f6d,HR 121153-c,19992135.32,14268917273.359735,160.53,0
+EMP-388,The Consolidated Zelis Systems,Zelis Directorate,0fa7096d5a,HR 121153-d,27199368.81,12720203335.835262,208.74,1
+EMP-389,The Great Scientific Imperium,Scientific Vesperari Union,3c196b299c,HR 121153-e,19174506.12,14498858440.764576,155.49,0
+EMP-390,The Scientific Technocracy,Scientific Zelite Union,1a67be5b7f,TESS-945-b,17163494.51,48602675570.937164,175.21,0
+EMP-391,The Consolidated Unified Systems,Unified Thranan Council,862f6cbc45,TESS-945-c,28607813.23,46643754517.76405,249.78,1
+EMP-392,The Great Consolidated Imperium,Consolidated Aureloid Worlds,9883f23173,HD 179598-e,23451777.15,31218374407.74204,198.52,0
+EMP-393,The Consolidated Unified Systems,Unified Vesperoid Council,22c13af7a1,HD 179598-f,21139551.18,44756365757.80444,197.09,0
+EMP-394,The Unified Technocracy,Unified Solex Council,ac70f57b73,HD 179598-g,23828730.32,46033635867.89352,215.28,0
+EMP-395,The Great Cygnan Imperium,Cygnan Directorate,60a971a839,Pi Cygni-b,22362146.13,26329923577.078297,186.98,0
+EMP-396,The Great Cygnite Imperium,Cygnite Commonwealth,e941b86692,Pi Cygni-c,23349521.1,27689752851.72144,194.49,0
+EMP-397,The Cygnian Technocracy,Cygnian Directorate,8dcb447d0f,Pi Cygni-d,22653827.96,83940427646.57991,245.16,0
+EMP-398,The Scientific AI Hegemony,Scientific Kaelumis Union,0130446f7e,TESS-1750-b,21550422.15,13294945549.538708,169.55,0
+EMP-399,The Unified Technocracy,Unified Meran Council,d1ebd8161b,TESS-1750-c,25865621.06,3402806601.491131,192.74,1
+EMP-400,The Scientific Technocracy,Scientific Thranex Union,d056d7ce4a,TESS-1750-e,21379046.49,50178895502.05596,203.91,0
+EMP-401,The Solari Technocracy,The Solari Federation,74136dc7b0,TESS-1750-f,10631282.79,7036061703.466862,91.28,0
+EMP-402,The Great Consolidated Imperium,Consolidated Zelis Worlds,61dc46303f,Gaia-9760c-b,14521201.76,9137465631.986542,120.01,0
+EMP-403,The Vesperis Star Empire,Vesperis Commonwealth,8fbf42f886,Gaia-9760c-c,15879034.88,14174847895.015614,133.65,0
+EMP-404,The Unified Technocracy,Unified Orionari Council,7388512271,Gaia-9760c-d,17322593.92,29190684297.388607,157.4,0
+EMP-405,The Great Unified Imperium,Unified Vesperite Council,b6ae409cbf,Gaia-9760c-e,17541199.75,50294578312.59087,179.34,0
+EMP-406,The Consolidated Orionite Systems,Orionite Commonwealth,622de7102b,Kepler-2936-b,19380816.06,32076135344.699142,184.69,2
+EMP-407,The Orionan Technocracy,Orionan Directorate,996190e522,Gaia-776-d,27597315.26,18426033095.273186,216.46,1
+EMP-408,The Thranis Technocracy,Thranis Commonwealth,f7bd18e491,Gaia-776-f,20246522.28,7074675753.02306,160.74,1
+EMP-409,The Meroid AI Hegemony,Meroid Directorate,556d6c2378,HIP 76600-e,27511439.69,17060575468.457697,214.65,1
+EMP-410,The Consolidated Star Empire,Consolidated Merian Worlds,ff559623e3,HIP 76600-f,22535588.04,10929164484.768885,173.62,0
+EMP-411,The Great Zelex Imperium,Zelex Directorate,a38e0777cd,HIP 76600-g,17898097.71,77747887504.5265,208.65,0
+EMP-412,The Great Unified Imperium,Unified Orionoid Council,4c2540c708,HIP 244648-b,29206991.47,78881860533.23328,285.06,1
+EMP-413,The Great Unified Imperium,Unified Orionex Council,b7069c3852,GDE-4485-b,24052155.34,92963937434.16272,262.84,0
+EMP-414,The Consolidated Star Empire,Consolidated Xenari Worlds,81714ff4c3,GDE-4485-c,20094157.55,27138007625.738647,178.38,1
+EMP-415,The Great Scientific Imperium,Scientific Zelis Union,f3f5dfde4c,Kepler-2106-b,23347409.34,27330651326.008347,194.13,0
+EMP-416,The Scientific Technocracy,Scientific Kaeluman Union,e12feef736,Kepler-2106-c,21560476.13,26233423760.5918,181.82,0
+EMP-417,The Great Unified Imperium,Unified Vesperoid Council,fba15f0324,Kepler-2106-d,22924592.88,24597053734.744877,188.86,0
+EMP-418,The Great Allied Imperium,Allied Aurelan Systems,350e107aae,Kepler-2106-e,22847924.21,15817867590.62938,180.07,0
+EMP-419,The Scientific Technocracy,Scientific Zylaris Union,22091a7056,GDE-7889-b,24614993.42,99614059355.78976,272.92,0
+EMP-420,The Unified AI Hegemony,Unified Orionex Council,03d3903c7c,GDE-7889-c,22771213.71,14285753748.427649,178.17,0
+EMP-421,The Consolidated Kaelumex Systems,Kaelumex Directorate,2211d3100d,TESS-5589-c,17935876.29,6945552719.234601,140.71,0
+EMP-422,The Thranari Technocracy,Thranari Directorate,459f704847,TESS-5589-d,23296558.65,25815873064.893253,192.36,0
+EMP-423,The Great Scientific Imperium,Scientific Orionex Union,575810e85b,TESS-5589-e,24279312.19,69551698360.29572,241.16,0
+EMP-424,The Aurelan Star Empire,Aurelan Commonwealth,182edcdd37,GDE-8146-b,16070517.57,17634711899.576447,138.15,0
+EMP-425,The Consolidated Xi-sagittariis Systems,The Xi-sagittariis Federation,e47a782635,Xi Sagittarii-d,19390627.9,9922498907.120258,163.88,2
+EMP-426,The Unified AI Hegemony,Unified Vesperari Council,2705d84a32,Webb-7499-f,26726946.02,32305038259.974503,230.07,2
+EMP-427,The Aurelis Technocracy,The Aurelis Federation,92810d80b3,Webb-7499-h,17580066.65,32287296680.74663,167.31,1
+EMP-428,The Scientific Technocracy,Scientific Kaelumis Union,7e5521abbb,Gliese 192.0-b,20765780.65,56164783818.19972,205.88,0
+EMP-429,The Allied Technocracy,Allied Zylarian Systems,b9ec32251d,Gliese 192.0-c,6833439.75,0.0,80.53,0
+EMP-430,The Kaelumis Technocracy,The Kaelumis Federation,7c376afd56,TESS-8623-c,21031158.35,12707456819.591898,170.68,1
+EMP-431,The Great Kaelumite Imperium,Kaelumite Commonwealth,0cb785b3d6,TESS-8623-e,13896393.68,36992325053.02365,142.13,0
+EMP-432,The Sagittariite Technocracy,Sagittariite Directorate,7bf42c3a49,Theta Sagittarii-b,19149578.0,16575907685.00576,162.37,1
+EMP-433,The Aurelis AI Hegemony,Aurelis Commonwealth,c3b1779520,TESS-194-d,14470619.24,6271081799.2364025,122.76,1
+EMP-434,The Consolidated Technocracy,Consolidated Solite Worlds,37a4cea3d7,HIP 262134-b,21625623.69,24539405185.96002,185.52,1
+EMP-435,The Scientific Technocracy,Scientific Merite Union,57733c8324,HIP 262134-c,23810650.66,44775803524.90453,213.94,0
+EMP-436,The Allied Star Empire,Allied Thranex Systems,467216187a,HIP 262134-d,22545591.36,33217851243.184917,194.77,0
+EMP-437,The Thranite Technocracy,Thranite Directorate,e00bc2a5e5,HR 189541-b,17219314.47,51017300512.72788,177.94,0
+EMP-438,The Great Unified Imperium,Unified Sagittariite Council,b2c9872c2d,Omega Sagittarii-b,23252943.83,24601397499.924023,190.92,0
+EMP-439,The Great Unified Imperium,Unified Sagittariite Council,792f609a6f,Omega Sagittarii-c,23390594.67,55373271360.79935,221.67,0
+EMP-440,The Great Unified Imperium,Unified Sagittariite Council,b9c3618013,Omega Sagittarii-d,4854453.49,0.0,64.29,0
+EMP-441,The Great Allied Imperium,Allied Sagittariian Systems,3aa8ce54ee,Omega Sagittarii-f,16932240.93,527805996.6476822,130.53,0
+EMP-442,The Meran AI Hegemony,The Meran Federation,4b4e90bd89,HR 36296-d,28111397.22,29809930086.476173,230.43,1
+EMP-443,The Great Unified Imperium,Unified Solite Council,764f599826,HD 173878-d,29663099.14,111821576470.66556,320.37,1
+EMP-444,The Great Zylarite Imperium,Zylarite Directorate,83c39baf65,HD 173878-e,24745644.49,115255755170.44096,289.22,0
+EMP-445,The Scientific Technocracy,Scientific Kaelumis Union,927dbfac0b,HD 14799-e,25243050.27,1800797795.9226809,188.02,1
+EMP-446,The Great Scientific Imperium,Scientific Zeloid Union,8e65d7f5b1,HD 14799-f,18429905.15,5382615782.269145,142.64,0
+EMP-447,The Great Xenex Imperium,Xenex Directorate,f0f8b2423b,HD 14799-h,23434608.2,30279016304.745934,197.51,0
+EMP-448,The Scientific Technocracy,Scientific Solian Union,31aeef2350,HR 19907-e,19954522.51,14416514672.577272,160.42,0
+EMP-449,The Consolidated Consolidated Systems,Consolidated Thranite Worlds,83775e646f,HR 19907-f,13992186.88,7908516181.942799,115.37,0
+EMP-450,The Unified Technocracy,Unified Valite Council,2ed96a351c,HR 19907-g,23599096.98,36560999275.168045,204.62,0
+EMP-451,The Great Unified Imperium,Unified Merite Council,c1cc584fd5,Webb-1869-b,18680913.93,16326977286.188046,154.0,0
+EMP-452,The Great Scientific Imperium,Scientific Zelex Union,11452e96e6,Webb-1869-c,22233827.03,11263206649.577978,172.02,0
+EMP-453,The Scientific Technocracy,Scientific Kaelumian Union,80ce70725d,Webb-1869-d,18951901.83,36101507942.93658,174.66,0
+EMP-454,The Great Zylarian Imperium,Zylarian Commonwealth,75447b1ce9,Webb-1869-f,6947612.15,0.0,81.42,0
+EMP-455,The Consolidated Scientific Systems,Scientific Orionari Union,f61290c372,HD 193309-c,22524711.41,13929900729.69849,176.29,0
+EMP-456,The Aureloid AI Hegemony,The Aureloid Federation,71efb681fc,Gliese 325.0-b,21004036.66,103282979710.94585,258.8,1
+EMP-457,The Allied Technocracy,Allied Orionite Systems,13b6f1c19c,PSR 104430-e,26612229.19,37598832592.01074,228.87,1
+EMP-458,The Vesperan Technocracy,Vesperan Directorate,ee9099d9b7,PSR 104430-h,29494269.75,1907845592.6031492,219.38,2
+EMP-459,The Consolidated Scientific Systems,Scientific Vesperoid Union,38d523ac80,TESS-8080-b,23776751.73,43181375850.39171,212.17,0
+EMP-460,The Scientific Technocracy,Scientific Zylaroid Union,4bf29f7756,TESS-8080-c,23934620.73,50197543448.46985,220.01,0
+EMP-461,The Great Unified Imperium,Unified Vesperoid Council,8a78a0e229,TESS-8080-d,20449945.15,70906848996.38965,218.35,0
+EMP-462,The Unified Technocracy,Unified Orionan Council,5fec320399,TESS-2121-c,6382932.3,0.0,76.95,0
+EMP-463,The Unified Technocracy,Unified Meroid Council,822326926a,TESS-2121-d,27471247.3,16443625832.922209,213.83,1
+EMP-464,The Nu-cygnis Star Empire,The Nu-cygnis Federation,0a6e8b3547,Nu Cygni-c,5348373.26,0.0,68.49,0
+EMP-465,The Unified Star Empire,Unified Meris Council,8bc980ecf5,Webb-9920-b,24821470.81,129405844488.46085,303.71,0
+EMP-466,The Great Scientific Imperium,Scientific Rho-perseis Union,18daa88e4f,Rho Persei-b,22259551.24,39166224236.28006,198.73,0
+EMP-467,The Scientific Technocracy,Scientific Persean Union,b6d872712f,Rho Persei-c,25055162.0,148244860270.7436,323.86,0
+EMP-468,The Consolidated Scientific Systems,Scientific Vesperian Union,7c40c9ebf8,Gliese 390.0-b,24492238.09,92987587815.76686,265.61,0
+EMP-469,The Scientific Technocracy,Scientific Aureloid Union,28f3b831a2,Gliese 390.0-c,23972099.42,52982889410.89709,222.97,0
+EMP-470,The Consolidated Consolidated Systems,Consolidated Orionite Worlds,20af608f42,Chi Orionis-b,21423086.68,26097130994.783707,185.74,1
+EMP-471,The Great Thranite Imperium,Thranite Directorate,f03d90fb8f,TESS-7800-b,21656580.36,3800901940.106205,162.09,0
+EMP-472,The Great Scientific Imperium,Scientific Xenite Union,3c04f1e4d3,TESS-7800-c,16518634.56,13308248693.46115,137.09,0
+EMP-473,The Aurelian Technocracy,Aurelian Directorate,123f4d1fb7,TESS-7800-d,23988533.79,53914912583.47886,223.98,0
+EMP-474,The Great Scientific Imperium,Scientific Kaelumari Union,15474381ae,TESS-7800-e,22437659.99,51921957615.620415,212.31,0
+EMP-475,The Consolidated Allied Systems,Allied Zelari Systems,e905d91038,Webb-2356-b,19841652.34,76258873697.69493,219.73,0
+EMP-476,The Consolidated Thranari Systems,Thranari Commonwealth,f7ed0ea8ba,Webb-2356-c,22296376.15,33740166846.873047,193.7,0
+EMP-477,The Consolidated Unified Systems,Unified Mu-perseis Council,176da50470,Mu Persei-d,34047549.04,75915135985.97264,316.32,2
+EMP-478,The Great Consolidated Imperium,Consolidated Valian Worlds,f83f785370,GDE-4121-e,4899234.88,0.0,64.68,0
+EMP-479,The Great Consolidated Imperium,Consolidated Thranoid Worlds,85aec51e58,Gaia-3148-b,18788868.2,19796950153.871803,157.96,0
+EMP-480,The Vesperari Technocracy,Vesperari Directorate,4c224c8349,TESS-5894-e,17338031.52,43341508006.80269,176.49,1
+EMP-481,The Scientific Technocracy,Scientific Bulgite Union,37270686ec,Beta Bulge-b,30141341.3,149105299150.4084,360.22,1
+EMP-482,The Great Bulgite Imperium,The Bulgite Federation,b9be6a525a,Beta Bulge-d,6318089.08,0.0,76.43,0

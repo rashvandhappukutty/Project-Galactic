@@ -1,0 +1,424 @@
+civilization_id,civilization_name,megastructure_type,construction_progress,energy_output_watts,status
+f8c1278b86,Consolidated Zelis Worlds,Ringworld,66.4145,0.0,In Progress
+4836a15586,Scientific Valan Union,Stellar Engine,87.87,0.0,In Progress
+ee951bbfab,Kaelumian Directorate,Dyson Sphere,10.0,0.0,In Progress
+b2e833d309,Allied Orionoid Systems,Stellar Engine,28.8155,0.0,In Progress
+faf8d4b64a,Solex Directorate,Dyson Swarm,10.0,0.0,In Progress
+a500abb373,The Zelari Federation,Dyson Sphere,28.675,0.0,In Progress
+9594053f90,Scientific Galacticite Union,Ringworld,91.58449999999999,0.0,In Progress
+185a68bac9,Scientific Solari Union,Dyson Sphere,65.866,0.0,In Progress
+c4f121b6c1,Orionian Directorate,Orbital Ring,79.27255000000001,0.0,In Progress
+70a115d461,Consolidated Aurelite Worlds,Dyson Swarm,100.0,1e+16,Complete
+26b5626b6c,Scientific Thranan Union,Stellar Engine,10.0,0.0,In Progress
+8a41c4ac34,Valis Directorate,Ringworld,100.0,1e+30,Complete
+15286fa1f5,Consolidated Zelari Worlds,Stellar Engine,45.963,0.0,In Progress
+ec5efdeb2d,The Bulgite Federation,Dyson Swarm,28.747,0.0,In Progress
+2f0954acad,Scientific Aethelgardian Union,Matrioshka Brain,100.0,1e+30,Complete
+c7c9fca9a1,Unified Aethelgardis Council,Stellar Engine,48.506,0.0,In Progress
+511ff78315,Allied Zeta-cygnis Systems,Matrioshka Brain,88.332,0.0,In Progress
+73cb158d41,Unified Vesperari Council,Stellar Engine,10.0,0.0,In Progress
+7419a59432,Unified Merari Council,Stellar Engine,49.058,0.0,In Progress
+bb1351012f,Zylarian Directorate,Matrioshka Brain,46.838,0.0,In Progress
+3be9d94e07,Unified Kaelumoid Council,Stellar Engine,10.0,0.0,In Progress
+f8a4edc83b,Consolidated Xenoid Worlds,Stellar Engine,68.678,0.0,In Progress
+d2748466c9,Scientific Xenis Union,Stellar Engine,48.2665,0.0,In Progress
+4a7ef72f37,The Bulgite Federation,Dyson Swarm,50.6835,0.0,In Progress
+b6e89e8b4d,Allied Chi-perseis Systems,Dyson Swarm,10.0,0.0,In Progress
+243eff68e3,Sigma-bulgis Directorate,Stellar Engine,10.0,0.0,In Progress
+9aa2eff7c3,Persean Directorate,Stellar Engine,90.004,0.0,In Progress
+5db2756626,Unified Zelian Council,Stellar Engine,29.0265,0.0,In Progress
+37df7ce9be,Unified Xenoid Council,Stellar Engine,49.704,0.0,In Progress
+52d6d92e6b,Unified Xenoid Council,Matrioshka Brain,28.2955,0.0,In Progress
+962632e3ac,Zylarex Directorate,Stellar Engine,68.331,0.0,In Progress
+0bfb7074dd,Scientific Xenite Union,Ringworld,29.490000000000002,0.0,In Progress
+626215ebea,Scientific Xenoid Union,Stellar Engine,29.1475,0.0,In Progress
+7315025cfd,Unified Aurelari Council,Stellar Engine,48.91,0.0,In Progress
+d853839dba,Allied Zelite Systems,Matrioshka Brain,98.0428,0.0,In Progress
+c56a0b9792,Allied Elysiis Systems,Dyson Swarm,60.3389,0.0,In Progress
+2173a01d64,Allied Elysiian Systems,Dyson Swarm,100.0,1e+16,Complete
+35390a1939,Valari Directorate,Matrioshka Brain,28.1025,0.0,In Progress
+6d4e0abb77,Scientific Zelan Union,Dyson Swarm,10.0,0.0,In Progress
+3a3695c8e9,Consolidated Galactican Worlds,Dyson Sphere,66.7245,0.0,In Progress
+494354518b,Unified Zylarite Council,Stellar Engine,69.8485,0.0,In Progress
+a425d5c923,Allied Thranari Systems,Dyson Swarm,66.033,0.0,In Progress
+4e674c46b8,Aethelgardan Directorate,Matrioshka Brain,10.0,0.0,In Progress
+e4a60e62b6,Unified Zeloid Council,Stellar Engine,10.0,0.0,In Progress
+24423298c0,Scientific Zylaroid Union,Stellar Engine,29.206,0.0,In Progress
+95985a8620,Xenan Directorate,Stellar Engine,47.685,0.0,In Progress
+80be4440e8,Kaelumis Directorate,Stellar Engine,10.0,0.0,In Progress
+df2217070a,Allied Thranari Systems,Dyson Swarm,10.0,0.0,In Progress
+c64460376e,Gamma-orionis Directorate,Matrioshka Brain,65.8555,0.0,In Progress
+53e4b98264,Unified Orionian Council,Stellar Engine,68.4385,0.0,In Progress
+14c594f145,Unified Orionian Council,Stellar Engine,29.756,0.0,In Progress
+075b3fb3b1,Unified Theta-orionis Council,Stellar Engine,67.262,0.0,In Progress
+d401178af2,Theta-orionis Commonwealth,Stellar Engine,29.7265,0.0,In Progress
+6dfc531f16,Unified Xenis Council,Stellar Engine,47.458,0.0,In Progress
+36b91772ac,Unified Orionis Council,Stellar Engine,50.078,0.0,In Progress
+3c983bfdab,Unified Vesperari Council,Stellar Engine,28.7205,0.0,In Progress
+db90f4ff25,Unified Xenan Council,Stellar Engine,100.0,1e+30,Complete
+cfec2df928,Consolidated Zylarex Worlds,Orbital Ring,10.0,0.0,In Progress
+a189e2924d,The Thranian Federation,Orbital Ring,10.0,0.0,In Progress
+30e300e760,Scientific Sagittariite Union,Stellar Engine,31.463,0.0,In Progress
+6fbfc2a11d,Unified Orionite Council,Stellar Engine,10.0,0.0,In Progress
+bceea7e00e,Unified Orionan Council,Matrioshka Brain,28.282,0.0,In Progress
+9875fc03a4,Orionian Directorate,Stellar Engine,10.0,1e+30,In Progress
+81601b2e5e,Unified Sigma-orionis Council,Stellar Engine,46.711999999999996,0.0,In Progress
+3c4760ddea,Zelis Commonwealth,Dyson Swarm,44.404,0.0,In Progress
+9d578c755a,Scientific Zelian Union,Stellar Engine,66.0715,0.0,In Progress
+23094db297,Allied Solian Systems,Orbital Ring,45.67,0.0,In Progress
+642e75a08d,Scientific Thranan Union,Stellar Engine,100.0,1e+30,Complete
+b619dd5fb5,Scientific Thranan Union,Matrioshka Brain,46.58925000000001,0.0,In Progress
+e3ba98a843,Unified Valoid Council,Stellar Engine,84.01400000000001,0.0,In Progress
+50f9748c73,Scientific Vesperex Union,Stellar Engine,10.0,0.0,In Progress
+3e1c9fe27e,Cygnian Directorate,Stellar Engine,28.494,0.0,In Progress
+cb16d2a5bc,Gamma-cygnis Directorate,Stellar Engine,65.966,0.0,In Progress
+340e3912e2,Cygnite Directorate,Matrioshka Brain,48.524499999999996,0.0,In Progress
+6ebb371c3c,The Tau-galacticis Federation,Stellar Engine,47.867,0.0,In Progress
+1b37c066da,Valis Commonwealth,Dyson Swarm,47.664500000000004,0.0,In Progress
+f4a721a47f,Gamma-galacticis Directorate,Dyson Swarm,66.471,0.0,In Progress
+63d8758b53,The Aurelex Federation,Dyson Swarm,80.10199999999999,0.0,In Progress
+415811daec,Solian Directorate,Dyson Sphere,47.238,0.0,In Progress
+cb312b9d86,Aurelex Directorate,Stellar Engine,10.0,0.0,In Progress
+53dc64803e,Scientific Orionian Union,Stellar Engine,49.047000000000004,0.0,In Progress
+5b3c302325,Scientific Bulgian Union,Stellar Engine,86.92949999999999,0.0,In Progress
+947f74a852,Allied Sagittariite Systems,Stellar Engine,45.620000000000005,0.0,In Progress
+7df05aba52,Unified Sagittarian Council,Stellar Engine,49.126,0.0,In Progress
+e23dc5e375,Republic of Galactician,Dyson Swarm,10.0,0.0,In Progress
+77811a2fa9,Gaeian Directorate,Dyson Sphere,51.938500000000005,0.0,In Progress
+4a9574c523,Scientific Kaelumite Union,Stellar Engine,66.8605,0.0,In Progress
+e99c95009e,Merex Directorate,Stellar Engine,10.0,0.0,In Progress
+6957a14d13,Xenian Directorate,Stellar Engine,71.21000000000001,0.0,In Progress
+2a34070c99,Consolidated Persean Worlds,Stellar Engine,28.3585,0.0,In Progress
+4c67325ea2,Unified Persean Council,Stellar Engine,28.8595,0.0,In Progress
+8eadd942b0,Scientific Phi-perseis Union,Stellar Engine,10.0,0.0,In Progress
+d2f4557294,Perseian Directorate,Ringworld,28.237000000000002,0.0,In Progress
+6657429a7c,Unified Ignis-ivis Council,Stellar Engine,100.0,1e+30,Complete
+5f5ebcf2f5,Solari Directorate,Dyson Sphere,47.729,0.0,In Progress
+5578b4053f,Unified Zylaris Council,Stellar Engine,72.5275,0.0,In Progress
+095464621d,Cygnan Commonwealth,Stellar Engine,29.4695,0.0,In Progress
+22e010a52d,Unified Cygnite Council,Ringworld,47.075,0.0,In Progress
+a987357567,Scientific Thranite Union,Stellar Engine,100.0,1e+30,Complete
+cf1fb521d7,Allied Sagittarian Systems,Stellar Engine,29.883,0.0,In Progress
+0895acc0af,Sagittarian Directorate,Matrioshka Brain,66.739,0.0,In Progress
+cd650c58ff,Gamma-sagittariis Directorate,Stellar Engine,86.95349999999999,0.0,In Progress
+208f64f5f9,Scientific Sagittarian Union,Ringworld,69.052,0.0,In Progress
+a03b53100a,Orionex Directorate,Stellar Engine,10.0,0.0,In Progress
+2640424e04,Unified Aurelan Council,Stellar Engine,100.0,1e+30,Complete
+ad899b1ed9,The Meran Federation,Dyson Swarm,29.26,0.0,In Progress
+2b4452e77b,Soloid Directorate,Stellar Engine,28.8572,0.0,In Progress
+7994a1ada7,Unified Bulgan Council,Dyson Swarm,67.429,0.0,In Progress
+2b100070c5,Bulgite Directorate,Stellar Engine,48.701,0.0,In Progress
+984d4d4161,Consolidated Vesperan Worlds,Dyson Swarm,83.982,0.0,In Progress
+04b742dd38,The Perseian Federation,Dyson Swarm,47.411500000000004,0.0,In Progress
+82f9ee8fb4,The Valoid Federation,Ringworld,85.056,0.0,In Progress
+08d81107e6,Zylarian Directorate,Matrioshka Brain,48.572199999999995,0.0,In Progress
+38a2dd884c,Allied Sagittariian Systems,Dyson Swarm,63.4585,0.0,In Progress
+1c90d82c80,Cygnian Directorate,Dyson Swarm,45.86,0.0,In Progress
+a067552faf,Consolidated Ian Worlds,Dyson Swarm,28.017000000000003,0.0,In Progress
+c6642b2284,Scientific Gaea-is Union,Stellar Engine,68.1285,0.0,In Progress
+a222a74ae8,Zelex Directorate,Stellar Engine,10.0,0.0,In Progress
+c235dc422c,Scientific Kaeluman Union,Matrioshka Brain,28.725,0.0,In Progress
+9dbca7c528,Unified Vesperari Council,Stellar Engine,28.9835,0.0,In Progress
+f714a79195,Scientific Orionian Union,Ringworld,86.899,0.0,In Progress
+f6221e08e8,Orionian Directorate,Stellar Engine,10.0,0.0,In Progress
+f0cb6b0a91,Xenoid Directorate,Stellar Engine,10.0,0.0,In Progress
+609e70586f,Scientific Kaeluman Union,Matrioshka Brain,88.8355,0.0,In Progress
+a866d8dcfc,Zelis Directorate,Matrioshka Brain,29.2955,0.0,In Progress
+26a6b7dcc3,Consolidated Valan Worlds,Matrioshka Brain,28.363,0.0,In Progress
+87f864fe83,Unified Thranari Council,Matrioshka Brain,47.3862,0.0,In Progress
+3ba7df6ae1,Scientific Thranite Union,Stellar Engine,29.194,0.0,In Progress
+a31575c86a,Unified Orionex Council,Dyson Swarm,65.1445,0.0,In Progress
+7652ec5c8d,Unified Theta-perseis Council,Stellar Engine,30.478,0.0,In Progress
+98fbfa35fa,Sigma-orionis Commonwealth,Dyson Swarm,100.0,1e+16,Complete
+f0ada7121c,Consolidated Solex Worlds,Matrioshka Brain,29.195,0.0,In Progress
+6eb9b1daf2,Scientific Xenite Union,Stellar Engine,48.83,0.0,In Progress
+07a0027478,The Vesperis Federation,Orbital Ring,10.0,0.0,In Progress
+187eb0978f,Scientific Merite Union,Stellar Engine,47.455,0.0,In Progress
+7f4ec7825c,Allied Soloid Systems,Dyson Sphere,10.0,0.0,In Progress
+a1d0ea467a,Unified Meris Council,Stellar Engine,67.01050000000001,0.0,In Progress
+3339448f7c,Xenan Directorate,Stellar Engine,29.323999999999998,0.0,In Progress
+be3191b575,Scientific Eta-galacticis Union,Matrioshka Brain,86.0185,0.0,In Progress
+b75dce1421,Allied Bulgite Systems,Orbital Ring,26.97065,0.0,In Progress
+4c8e6a8540,Allied Bulgan Systems,Dyson Swarm,45.926,0.0,In Progress
+76c64a14d6,Unified Orionoid Council,Ringworld,65.2315,0.0,In Progress
+517cb43ce0,Scientific Solan Union,Stellar Engine,49.6395,0.0,In Progress
+d378f96d17,Kaelumian Commonwealth,Dyson Sphere,85.7985,0.0,In Progress
+739bb87006,Unified Aurelex Council,Stellar Engine,29.560499999999998,0.0,In Progress
+bda6417e80,Scientific Persean Union,Ringworld,46.414,0.0,In Progress
+56cd534bb7,The Persean Federation,Dyson Swarm,28.409,0.0,In Progress
+ac4afd4a27,Perseite Directorate,Ringworld,29.1785,0.0,In Progress
+c5213edcba,Scientific Meran Union,Dyson Swarm,84.38589999999999,0.0,In Progress
+37b8da7a55,Zylaris Directorate,Stellar Engine,67.5925,0.0,In Progress
+c1803ec34d,Aurelari Directorate,Matrioshka Brain,92.97749999999999,0.0,In Progress
+d957806d32,Galactician Commonwealth,Ringworld,46.993550000000006,0.0,In Progress
+fcda05fc4e,Unified Sigma-galacticis Council,Stellar Engine,29.3595,0.0,In Progress
+2320e9a617,Galactican Directorate,Matrioshka Brain,45.83,0.0,In Progress
+d5f12251b2,Unified Xenian Council,Stellar Engine,29.726,0.0,In Progress
+b4221d6e15,Unified Xenis Council,Stellar Engine,67.7365,0.0,In Progress
+b3ddaf54de,Unified Zylarex Council,Stellar Engine,49.899,0.0,In Progress
+fa8159dac5,Unified Xenian Council,Stellar Engine,45.881,0.0,In Progress
+02e103d2b6,Dominion of Thranari,Matrioshka Brain,10.0,0.0,In Progress
+529174abfd,Unified Meroid Council,Stellar Engine,10.0,0.0,In Progress
+658cf93cc4,Unified Zylarian Council,Stellar Engine,100.0,1e+30,Complete
+3b106fa102,Unified Perseian Council,Dyson Swarm,28.7035,0.0,In Progress
+cb6235e194,Allied Phi-perseis Systems,Stellar Engine,30.399,0.0,In Progress
+6a9427ac16,Consolidated Prometheian Worlds,Dyson Swarm,62.997,0.0,In Progress
+094756ff65,Unified Vesperis Council,Stellar Engine,100.0,1e+30,Complete
+e07661a882,Aurelari Directorate,Stellar Engine,29.1145,0.0,In Progress
+d340e67e88,Scientific Aurelan Union,Dyson Sphere,10.0,1e+26,In Progress
+78635879d1,Scientific Priman Union,Stellar Engine,88.126,0.0,In Progress
+71f4e16f01,Primite Directorate,Matrioshka Brain,10.0,0.0,In Progress
+62149b123f,Scientific Sagittarian Union,Stellar Engine,10.0,0.0,In Progress
+4c3eb31272,Iota-sagittariis Directorate,Stellar Engine,49.412,0.0,In Progress
+4df0d9ee3b,Scientific Orionite Union,Matrioshka Brain,46.504,0.0,In Progress
+5a236efd3f,Beta-bulgis Commonwealth,Stellar Engine,67.69800000000001,0.0,In Progress
+b8c054770f,Beta-bulgis Directorate,Stellar Engine,47.183,0.0,In Progress
+1bc76d1c73,Consolidated Orionis Worlds,Dyson Sphere,10.0,1e+26,In Progress
+1c4722b997,Unified Orionite Council,Stellar Engine,67.61500000000001,0.0,In Progress
+0e67dd57aa,Unified Valis Council,Dyson Sphere,10.0,0.0,In Progress
+88977397af,Zylarex Directorate,Stellar Engine,28.904,0.0,In Progress
+84a3d643c9,Scientific Orionis Union,Matrioshka Brain,10.0,0.0,In Progress
+19190c022d,Allied Zylaris Systems,Dyson Swarm,66.643,0.0,In Progress
+cadd62d564,Allied Aurelite Systems,Stellar Engine,10.0,0.0,In Progress
+d0016e25b4,The Meran Federation,Dyson Sphere,47.519000000000005,0.0,In Progress
+2b478a564d,Aurelian Commonwealth,Orbital Ring,61.295500000000004,0.0,In Progress
+999c5041c4,Scientific Aureliis Union,Matrioshka Brain,47.669,0.0,In Progress
+06f00def5a,Scientific Aureliite Union,Dyson Sphere,27.677,0.0,In Progress
+61397f1d85,Solari Directorate,Stellar Engine,10.0,0.0,In Progress
+ca40b2e629,Scientific Solex Union,Dyson Sphere,10.0,0.0,In Progress
+80d9c3cc28,Vesperian Directorate,Stellar Engine,47.806,0.0,In Progress
+bcfcfb49cf,Scientific Thranex Union,Matrioshka Brain,100.0,1e+30,Complete
+9568bafb15,Chi-bulgis Directorate,Stellar Engine,10.0,0.0,In Progress
+47e406daef,Bulgian Directorate,Stellar Engine,10.0,0.0,In Progress
+ad47c2dda3,Bulgite Commonwealth,Dyson Swarm,10.0,0.0,In Progress
+096fc37df4,Scientific Vesperoid Union,Dyson Swarm,64.439,0.0,In Progress
+0b6029ea29,Scientific Vesperis Union,Matrioshka Brain,48.664,0.0,In Progress
+0ed21e60e5,Orionan Directorate,Stellar Engine,49.6995,0.0,In Progress
+5a9f1f61c7,Scientific Merex Union,Stellar Engine,68.911,0.0,In Progress
+02fd90e690,Allied Meris Systems,Stellar Engine,28.439,0.0,In Progress
+61550040fc,Unified Aurelian Council,Stellar Engine,10.0,0.0,In Progress
+f0fcb8f048,The Valari Federation,Stellar Engine,10.0,0.0,In Progress
+9a629191f0,Allied Orionan Systems,Ringworld,49.435,0.0,In Progress
+33e625a829,Aureloid Directorate,Stellar Engine,91.17589999999998,0.0,In Progress
+b91403ddc4,Consolidated Merari Worlds,Dyson Swarm,10.0,0.0,In Progress
+71073d1e77,Scientific Xenex Union,Dyson Sphere,100.0,1e+26,Complete
+03fca7f787,Perseian Commonwealth,Stellar Engine,47.906,0.0,In Progress
+939c53fc68,Scientific Perseian Union,Stellar Engine,48.3425,0.0,In Progress
+dc652af4e1,Cygnan Commonwealth,Stellar Engine,10.0,0.0,In Progress
+98e5a44c50,Cygnan Directorate,Stellar Engine,30.0885,0.0,In Progress
+e1017ed35e,Cygnan Directorate,Stellar Engine,10.0,0.0,In Progress
+bc259c8444,Scientific Kaelumian Union,Ringworld,28.6785,0.0,In Progress
+fc41667c54,Kaeluman Directorate,Stellar Engine,49.165,0.0,In Progress
+b4e38b5ba0,Scientific Bulgian Union,Stellar Engine,49.604,0.0,In Progress
+2d7a6c7193,Unified Omega-bulgis Council,Stellar Engine,48.4275,0.0,In Progress
+c4d87c45ee,Unified Bulgite Council,Stellar Engine,66.712,0.0,In Progress
+62a7129a59,Unified Bulgian Council,Stellar Engine,28.732,0.0,In Progress
+1e3994853e,Consolidated Thranian Worlds,Stellar Engine,10.0,0.0,In Progress
+b28f9ec7d4,Scientific Thranari Union,Stellar Engine,46.91,0.0,In Progress
+634ad45f7e,Scientific Aurelan Union,Ringworld,28.122,0.0,In Progress
+75912c8e4c,Kaelumari Directorate,Stellar Engine,29.258000000000003,0.0,In Progress
+d07bc4ae63,Scientific Valian Union,Dyson Sphere,29.942999999999998,1e+16,In Progress
+9696ce2491,Scientific Vesperari Union,Stellar Engine,48.792500000000004,0.0,In Progress
+7036dbff3e,Scientific Orionite Union,Dyson Swarm,80.178,0.0,In Progress
+c98968025a,Orionan Directorate,Dyson Swarm,27.304,0.0,In Progress
+9d449a31b9,Consolidated Omega-cygnis Worlds,Orbital Ring,10.0,0.0,In Progress
+12f8de3472,Thranari Commonwealth,Orbital Ring,97.53509999999999,0.0,In Progress
+afc6771a1e,Unified Xenoid Council,Dyson Sphere,28.48785,0.0,In Progress
+55c2a4dc5e,Thranari Commonwealth,Stellar Engine,46.772499999999994,0.0,In Progress
+3779c3fe76,Unified Zelian Council,Ringworld,28.9755,0.0,In Progress
+cd01ef6fd0,Scientific Merari Union,Stellar Engine,29.9585,0.0,In Progress
+63803c4eb1,Unified Zelari Council,Ringworld,28.9995,0.0,In Progress
+20dcee6871,Unified Valoid Council,Stellar Engine,83.9795,0.0,In Progress
+53856bd8ca,Allied Sagittariian Systems,Dyson Swarm,62.57050000000001,0.0,In Progress
+da38a63176,Unified Orionis Council,Stellar Engine,51.4065,1e+30,In Progress
+8196db66b3,Scientific Thranan Union,Stellar Engine,10.0,0.0,In Progress
+f004cb791e,Scientific Perseian Union,Stellar Engine,70.0095,0.0,In Progress
+15955262e1,Aurelian Directorate,Dyson Swarm,66.8545,0.0,In Progress
+c3662e3808,Unified Sagittariite Council,Dyson Swarm,89.06800000000001,0.0,In Progress
+7dc225fd37,Consolidated Orionian Worlds,Dyson Sphere,47.6525,0.0,In Progress
+373ea01e5c,Consolidated Zylaris Worlds,Dyson Swarm,100.0,1e+16,Complete
+17fee1a6ac,The Thranite Federation,Dyson Swarm,84.3545,0.0,In Progress
+cd3cb2af45,The Chi-bulgis Federation,Stellar Engine,47.1975,0.0,In Progress
+5d262aaec3,Consolidated Xenite Worlds,Ringworld,10.0,0.0,In Progress
+73573955bb,Orionite Directorate,Stellar Engine,48.0925,0.0,In Progress
+f929aa33ac,Bulgian Commonwealth,Dyson Swarm,10.0,0.0,In Progress
+28d83c4b42,Scientific Bulgite Union,Stellar Engine,10.0,0.0,In Progress
+d7ec4d3018,Thranan Directorate,Matrioshka Brain,10.0,0.0,In Progress
+adc1c77061,Unified Thranis Council,Stellar Engine,10.0,0.0,In Progress
+931aa9655e,Orionite Directorate,Stellar Engine,29.830000000000002,0.0,In Progress
+df2f64c1a1,Unified Valari Council,Stellar Engine,49.293,0.0,In Progress
+f27ca4fefa,Scientific Aurelite Union,Stellar Engine,29.5075,0.0,In Progress
+a7f6005fd2,Republic of Meroid,Dyson Swarm,28.136,0.0,In Progress
+4164b650a3,Unified Zylarite Council,Stellar Engine,10.0,0.0,In Progress
+340ef3ab81,The Thranari Federation,Orbital Ring,62.2885,0.0,In Progress
+7ba9deb67e,Consolidated Xenoid Worlds,Stellar Engine,10.0,0.0,In Progress
+785ce4730c,Unified Xenan Council,Matrioshka Brain,28.9165,0.0,In Progress
+7135e43d15,Consolidated Valoid Worlds,Matrioshka Brain,45.76085,0.0,In Progress
+8f64eb0a84,Vesperan Commonwealth,Stellar Engine,10.0,0.0,In Progress
+c87f4b2d09,Consolidated Zelite Worlds,Dyson Swarm,28.3632,0.0,In Progress
+c59e7444f5,Meran Commonwealth,Stellar Engine,10.0,0.0,In Progress
+111ab1a74e,Unified Meris Council,Dyson Sphere,10.0,0.0,In Progress
+762d1b3438,Unified Merian Council,Stellar Engine,29.933,0.0,In Progress
+41e5776038,Unified Orionan Council,Stellar Engine,10.0,0.0,In Progress
+11c4291fc3,Vesperite Commonwealth,Stellar Engine,67.033,0.0,In Progress
+c8c30fa0a1,Orionan Directorate,Stellar Engine,48.6235,0.0,In Progress
+41a9345e47,The Aurelian Federation,Stellar Engine,10.0,0.0,In Progress
+6edc6616b2,Scientific Galacticite Union,Dyson Swarm,100.0,1e+26,Complete
+82b29167c3,Galactican Directorate,Dyson Swarm,10.0,0.0,In Progress
+cbdac2fac3,Scientific Zylarex Union,Dyson Sphere,90.83850000000001,0.0,In Progress
+9891e1dd90,Scientific Kaelumari Union,Matrioshka Brain,100.0,1e+30,Complete
+5087e1422a,Unified Zeloid Council,Dyson Sphere,10.0,0.0,In Progress
+5d94c085f5,Allied Valis Systems,Matrioshka Brain,47.968,0.0,In Progress
+cc71651dca,Unified Solex Council,Matrioshka Brain,47.9144,0.0,In Progress
+1a2a63b5eb,Allied Thranian Systems,Matrioshka Brain,10.0,0.0,In Progress
+9eeb4737e9,Unified Merite Council,Stellar Engine,88.618,0.0,In Progress
+35e0e185b7,Scientific Valan Union,Dyson Swarm,46.267,0.0,In Progress
+15c488fdb9,Unified Vesperite Council,Stellar Engine,49.85,0.0,In Progress
+52be76d999,Zelian Directorate,Matrioshka Brain,10.0,0.0,In Progress
+2d148d0e47,Allied Cygnian Systems,Stellar Engine,66.2075,0.0,In Progress
+a4eac32597,Scientific Omega-cygnis Union,Stellar Engine,10.0,0.0,In Progress
+a9283be55d,The Epsilon-perseis Federation,Orbital Ring,10.0,0.0,In Progress
+27d9c8dc46,The Perseian Federation,Dyson Swarm,28.552999999999997,0.0,In Progress
+2c89a9e0dc,Scientific Persean Union,Stellar Engine,10.0,0.0,In Progress
+c45231c414,Scientific Epsilon-perseis Union,Stellar Engine,29.0205,0.0,In Progress
+7fdb421436,Consolidated Cygnian Worlds,Dyson Swarm,46.528999999999996,0.0,In Progress
+b323933feb,Allied Solian Systems,Orbital Ring,62.2164,0.0,In Progress
+c5f014b287,Bulgan Directorate,Stellar Engine,54.2195,0.0,In Progress
+8d88177d24,Bulgian Directorate,Dyson Sphere,28.9465,0.0,In Progress
+e1c4b2ed14,Scientific Vesperan Union,Stellar Engine,70.24,0.0,In Progress
+a568c633c8,Aurelari Directorate,Dyson Swarm,100.0,1e+16,Complete
+189d8d8d1b,Valite Directorate,Stellar Engine,10.0,0.0,In Progress
+57f00e3f50,Unified Vesperite Council,Stellar Engine,50.154,0.0,In Progress
+d427d38a9f,Unified Kaelumex Council,Stellar Engine,48.582,0.0,In Progress
+f1337406a3,Thranan Directorate,Stellar Engine,100.0,1e+30,Complete
+354b63d6d6,Scientific Solex Union,Stellar Engine,69.14950000000002,0.0,In Progress
+fce0550f04,Unified Thranian Council,Matrioshka Brain,29.5425,0.0,In Progress
+f7a8fcf1b2,Scientific Aurelari Union,Stellar Engine,50.7565,0.0,In Progress
+8c80ad65b6,Orionex Directorate,Dyson Swarm,28.46,0.0,In Progress
+65154f1c30,Scientific Kaeluman Union,Stellar Engine,66.976,0.0,In Progress
+e6f9f9e411,Unified Kaelumex Council,Ringworld,67.171,0.0,In Progress
+24e153416d,Unified Aurelis Council,Stellar Engine,10.0,0.0,In Progress
+eacab5ee97,Thranan Directorate,Dyson Sphere,66.793,0.0,In Progress
+fadaa4a404,Valian Directorate,Stellar Engine,93.8685,0.0,In Progress
+ebda9e7b67,Solite Directorate,Stellar Engine,51.5495,0.0,In Progress
+de8a7cab3b,Unified Merian Council,Stellar Engine,84.721,0.0,In Progress
+5573af18db,Merian Directorate,Stellar Engine,10.0,0.0,In Progress
+e13216033f,Meroid Directorate,Stellar Engine,10.0,1e+30,In Progress
+bee1d78260,Zylarian Commonwealth,Dyson Swarm,10.0,0.0,In Progress
+2a8b6fc81d,Unified Zylarite Council,Stellar Engine,48.804,0.0,In Progress
+2320636026,Unified Valian Council,Dyson Sphere,47.916000000000004,0.0,In Progress
+e976b29c9d,Scientific Orionoid Union,Matrioshka Brain,47.6405,0.0,In Progress
+dc0074adc3,Unified Valite Council,Stellar Engine,49.235,0.0,In Progress
+303a3df484,Unified Zelex Council,Matrioshka Brain,28.799,0.0,In Progress
+02b9381952,Aurelian Directorate,Stellar Engine,48.071,0.0,In Progress
+0ad458611c,Unified Orionian Council,Stellar Engine,67.739,0.0,In Progress
+c2fe0ab024,Unified Orionan Council,Dyson Swarm,27.32,0.0,In Progress
+91474e8269,Vesperian Directorate,Stellar Engine,89.18549999999999,0.0,In Progress
+32d2bbd884,Unified Zelan Council,Stellar Engine,10.0,0.0,In Progress
+f343101fe6,Unified Aurelari Council,Dyson Sphere,28.186,0.0,In Progress
+1cf19da3a9,Unified Merex Council,Stellar Engine,29.174500000000002,0.0,In Progress
+fc241018ec,Kaelumis Directorate,Stellar Engine,89.31830000000001,0.0,In Progress
+2c6958242d,Merian Commonwealth,Stellar Engine,29.993000000000002,0.0,In Progress
+950050e41a,Zylarite Commonwealth,Dyson Swarm,86.8765,0.0,In Progress
+2e4e7545f5,Unified Xenian Council,Stellar Engine,90.869,0.0,In Progress
+f9c2058d1a,Zylarian Directorate,Dyson Swarm,62.715,0.0,In Progress
+28100766c8,Bulgite Directorate,Matrioshka Brain,29.695500000000003,0.0,In Progress
+bbf8578e8c,Unified Orionite Council,Stellar Engine,28.8775,0.0,In Progress
+8478dfd6f7,Merari Directorate,Ringworld,66.9205,0.0,In Progress
+6f1e390274,Kaelumis Directorate,Ringworld,81.35900000000001,0.0,In Progress
+b12b67a0db,Unified Zelian Council,Dyson Sphere,45.141999999999996,0.0,In Progress
+28728de334,Scientific Xenite Union,Stellar Engine,10.0,0.0,In Progress
+5d6505f12a,Unified Aurelis Council,Ringworld,100.0,1e+28,Complete
+2c64149009,Unified Vesperex Council,Stellar Engine,28.7145,0.0,In Progress
+ed45fe3a8d,Vesperari Directorate,Stellar Engine,100.0,1e+30,Complete
+43cb04ad80,Xenoid Directorate,Stellar Engine,87.57650000000001,0.0,In Progress
+3a375c2f6d,Scientific Xenan Union,Matrioshka Brain,29.179000000000002,0.0,In Progress
+3c196b299c,Scientific Vesperari Union,Stellar Engine,10.0,0.0,In Progress
+1a67be5b7f,Scientific Zelite Union,Dyson Swarm,84.921,0.0,In Progress
+862f6cbc45,Unified Thranan Council,Stellar Engine,49.805,0.0,In Progress
+9883f23173,Consolidated Aureloid Worlds,Stellar Engine,29.6985,0.0,In Progress
+22c13af7a1,Unified Vesperoid Council,Matrioshka Brain,28.306,0.0,In Progress
+ac70f57b73,Unified Solex Council,Stellar Engine,10.0,0.0,In Progress
+60a971a839,Cygnan Directorate,Stellar Engine,10.0,0.0,In Progress
+e941b86692,Cygnite Commonwealth,Stellar Engine,10.0,0.0,In Progress
+8dcb447d0f,Cygnian Directorate,Stellar Engine,85.661,0.0,In Progress
+0130446f7e,Scientific Kaelumis Union,Stellar Engine,48.024,0.0,In Progress
+d1ebd8161b,Unified Meran Council,Stellar Engine,47.016999999999996,0.0,In Progress
+d056d7ce4a,Scientific Thranex Union,Stellar Engine,29.1525,0.0,In Progress
+74136dc7b0,The Solari Federation,Orbital Ring,60.0715,0.0,In Progress
+61dc46303f,Consolidated Zelis Worlds,Dyson Sphere,10.0,0.0,In Progress
+8fbf42f886,Vesperis Commonwealth,Dyson Swarm,27.6483,0.0,In Progress
+7388512271,Unified Orionari Council,Dyson Swarm,10.0,0.0,In Progress
+b6ae409cbf,Unified Vesperite Council,Dyson Sphere,10.0,0.0,In Progress
+622de7102b,Orionite Commonwealth,Dyson Swarm,47.0827,0.0,In Progress
+996190e522,Orionan Directorate,Stellar Engine,28.5145,0.0,In Progress
+f7bd18e491,Thranis Commonwealth,Dyson Sphere,64.40950000000001,0.0,In Progress
+556d6c2378,Meroid Directorate,Stellar Engine,10.0,0.0,In Progress
+ff559623e3,Consolidated Merian Worlds,Stellar Engine,10.0,0.0,In Progress
+a38e0777cd,Zelex Directorate,Dyson Swarm,63.50385000000001,0.0,In Progress
+4c2540c708,Unified Orionoid Council,Stellar Engine,73.3105,0.0,In Progress
+b7069c3852,Unified Orionex Council,Matrioshka Brain,47.572900000000004,0.0,In Progress
+81714ff4c3,Consolidated Xenari Worlds,Dyson Sphere,10.0,0.0,In Progress
+f3f5dfde4c,Scientific Zelis Union,Stellar Engine,29.886,0.0,In Progress
+e12feef736,Scientific Kaeluman Union,Matrioshka Brain,90.39,0.0,In Progress
+fba15f0324,Unified Vesperoid Council,Stellar Engine,30.929000000000002,0.0,In Progress
+350e107aae,Allied Aurelan Systems,Stellar Engine,29.017500000000002,0.0,In Progress
+22091a7056,Scientific Zylaris Union,Stellar Engine,30.081,0.0,In Progress
+03d3903c7c,Unified Orionex Council,Stellar Engine,28.9815,0.0,In Progress
+2211d3100d,Kaelumex Directorate,Ringworld,28.659000000000002,0.0,In Progress
+459f704847,Thranari Directorate,Stellar Engine,46.591,0.0,In Progress
+575810e85b,Scientific Orionex Union,Stellar Engine,86.12,0.0,In Progress
+182edcdd37,Aurelan Commonwealth,Dyson Swarm,10.0,0.0,In Progress
+e47a782635,The Xi-sagittariis Federation,Dyson Swarm,45.39305,0.0,In Progress
+2705d84a32,Unified Vesperari Council,Ringworld,47.707,0.0,In Progress
+92810d80b3,The Aurelis Federation,Dyson Swarm,62.09049999999999,0.0,In Progress
+7e5521abbb,Scientific Kaelumis Union,Ringworld,86.814,0.0,In Progress
+b9ec32251d,Allied Zylarian Systems,Ringworld,49.5435,0.0,In Progress
+7c376afd56,The Kaelumis Federation,Dyson Sphere,100.0,1e+26,Complete
+0cb785b3d6,Kaelumite Commonwealth,Dyson Swarm,61.455,0.0,In Progress
+7bf42c3a49,Sagittariite Directorate,Dyson Swarm,83.5648,0.0,In Progress
+c3b1779520,Aurelis Commonwealth,Orbital Ring,60.4126,0.0,In Progress
+37a4cea3d7,Consolidated Solite Worlds,Dyson Sphere,47.7505,0.0,In Progress
+57733c8324,Scientific Merite Union,Stellar Engine,71.37549999999999,0.0,In Progress
+467216187a,Allied Thranex Systems,Stellar Engine,47.556,0.0,In Progress
+e00bc2a5e5,Thranite Directorate,Dyson Swarm,27.7085,0.0,In Progress
+b2c9872c2d,Unified Sagittariite Council,Stellar Engine,70.92,0.0,In Progress
+792f609a6f,Unified Sagittariite Council,Stellar Engine,29.775000000000002,0.0,In Progress
+b9c3618013,Unified Sagittariite Council,Dyson Swarm,10.0,0.0,In Progress
+3aa8ce54ee,Allied Sagittariian Systems,Ringworld,64.0285,0.0,In Progress
+4b4e90bd89,The Meran Federation,Stellar Engine,86.71799999999999,0.0,In Progress
+764f599826,Unified Solite Council,Stellar Engine,10.0,0.0,In Progress
+83c39baf65,Zylarite Directorate,Stellar Engine,10.0,0.0,In Progress
+927dbfac0b,Scientific Kaelumis Union,Stellar Engine,29.006999999999998,0.0,In Progress
+f0f8b2423b,Xenex Directorate,Stellar Engine,29.0705,0.0,In Progress
+31aeef2350,Scientific Solian Union,Matrioshka Brain,29.678,0.0,In Progress
+83775e646f,Consolidated Thranite Worlds,Dyson Swarm,10.0,0.0,In Progress
+2ed96a351c,Unified Valite Council,Stellar Engine,47.918,0.0,In Progress
+c1cc584fd5,Unified Merite Council,Matrioshka Brain,10.0,0.0,In Progress
+11452e96e6,Scientific Zelex Union,Stellar Engine,100.0,1e+30,Complete
+80ce70725d,Scientific Kaelumian Union,Dyson Sphere,28.436,0.0,In Progress
+75447b1ce9,Zylarian Commonwealth,Ringworld,10.0,0.0,In Progress
+f61290c372,Scientific Orionari Union,Stellar Engine,48.465,0.0,In Progress
+71efb681fc,The Aureloid Federation,Dyson Swarm,100.0,1e+27,Complete
+13b6f1c19c,Allied Orionite Systems,Matrioshka Brain,83.00550000000001,0.0,In Progress
+ee9099d9b7,Vesperan Directorate,Stellar Engine,67.3135,0.0,In Progress
+4bf29f7756,Scientific Zylaroid Union,Stellar Engine,31.0735,0.0,In Progress
+8a78a0e229,Unified Vesperoid Council,Matrioshka Brain,28.6955,0.0,In Progress
+822326926a,Unified Meroid Council,Stellar Engine,66.3109,0.0,In Progress
+0a6e8b3547,The Nu-cygnis Federation,Dyson Sphere,10.0,0.0,In Progress
+8bc980ecf5,Unified Meris Council,Stellar Engine,51.284,0.0,In Progress
+18daa88e4f,Scientific Rho-perseis Union,Matrioshka Brain,29.5975,0.0,In Progress
+b6d872712f,Scientific Persean Union,Stellar Engine,50.84,0.0,In Progress
+7c40c9ebf8,Scientific Vesperian Union,Stellar Engine,70.3695,0.0,In Progress
+28f3b831a2,Scientific Aureloid Union,Stellar Engine,10.0,0.0,In Progress
+20af608f42,Consolidated Orionite Worlds,Dyson Sphere,10.0,0.0,In Progress
+3c04f1e4d3,Scientific Xenite Union,Dyson Swarm,27.6145,0.0,In Progress
+123f4d1fb7,Aurelian Directorate,Stellar Engine,29.509500000000003,0.0,In Progress
+15474381ae,Scientific Kaelumari Union,Matrioshka Brain,48.3775,0.0,In Progress
+e905d91038,Allied Zelari Systems,Dyson Sphere,10.0,0.0,In Progress
+176da50470,Unified Mu-perseis Council,Stellar Engine,48.4805,0.0,In Progress
+f83f785370,Consolidated Valian Worlds,Dyson Swarm,46.751000000000005,0.0,In Progress
+85aec51e58,Consolidated Thranoid Worlds,Dyson Sphere,66.2051,0.0,In Progress
+4c224c8349,Vesperari Directorate,Dyson Swarm,100.0,1e+16,Complete
+37270686ec,Scientific Bulgite Union,Stellar Engine,72.02950000000001,0.0,In Progress
+b9be6a525a,The Bulgite Federation,Dyson Sphere,10.0,0.0,In Progress

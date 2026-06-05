@@ -1,0 +1,40 @@
+route_id,route_type,source_star_id,source_star_name,target_star_id,target_star_name,route_length_ly,traffic_index,economic_value
+RTE-00001,Trade Route,db74cbd4,Webb-6726b,db74cbd4,Webb-6726b,0.0,290.8,14540.15
+RTE-00002,Trade Route,93dff340,HD 212440,93dff340,HD 212440,0.0,540.03,27001.71
+RTE-00003,Trade Route,f664a17f,Kepler-4496,f664a17f,Kepler-4496,0.0,346.57,17328.46
+RTE-00004,Trade Route,909275b3,Aethelgard,909275b3,Aethelgard,0.0,328.54,16426.98
+RTE-00005,Trade Route,909275b3,Aethelgard,909275b3,Aethelgard,0.0,118.11,5905.39
+RTE-00006,Trade Route,2b176def,Gamma Orionis,2b176def,Gamma Orionis,0.0,313.85,15692.49
+RTE-00007,Trade Route,f92fc03e,Psi Sagittarii,f92fc03e,Psi Sagittarii,0.0,665.26,33263.19
+RTE-00008,Trade Route,0d0603a9,Kepler-3722,0d0603a9,Kepler-3722,0.0,264.18,13208.97
+RTE-00009,Trade Route,311927b0,Gamma Sagittarii,311927b0,Gamma Sagittarii,0.0,302.22,15110.77
+RTE-00010,Trade Route,311927b0,Gamma Sagittarii,311927b0,Gamma Sagittarii,0.0,790.37,39518.66
+RTE-00011,Trade Route,b05778ee,TESS-5743b,b05778ee,TESS-5743b,0.0,5.74,287.1
+RTE-00012,Trade Route,1340ed09,Selene Prime,1340ed09,Selene Prime,0.0,661.93,33096.4
+RTE-00013,Trade Route,f2c5ccdb,Webb-1799,f2c5ccdb,Webb-1799,0.0,639.68,31984.22
+RTE-00014,Trade Route,80d2e06b,Aurelia,80d2e06b,Aurelia,0.0,429.2,21460.16
+RTE-00015,Trade Route,f2597e5a,Sigma Cygni,f2597e5a,Sigma Cygni,0.0,751.75,37587.5
+RTE-00016,Trade Route,0e934d76,Zeta Orionis,0e934d76,Zeta Orionis,0.0,396.29,19814.28
+RTE-00017,Trade Route,82d87ebd,TESS-7890,82d87ebd,TESS-7890,0.0,641.81,32090.33
+RTE-00018,Trade Route,3ff7f130,Delta Bulge,3ff7f130,Delta Bulge,0.0,254.15,12707.28
+RTE-00019,Trade Route,3ff7f130,Delta Bulge,3ff7f130,Delta Bulge,0.0,442.38,22119.06
+RTE-00020,Trade Route,3ff7f130,Delta Bulge,3ff7f130,Delta Bulge,0.0,292.65,14632.61
+RTE-00021,Trade Route,32ceae76,Omega Cygni,32ceae76,Omega Cygni,0.0,1294.61,64730.36
+RTE-00022,Trade Route,305333b9,Tau Orionis,305333b9,Tau Orionis,0.0,380.59,19029.41
+RTE-00023,Trade Route,840d8b8f,HR 66132,840d8b8f,HR 66132,0.0,250.09,12504.5
+RTE-00024,Trade Route,4c130f6d,Kepler-5383,4c130f6d,Kepler-5383,0.0,204.25,10212.36
+RTE-00025,Trade Route,1e090922,GDE-4070,1e090922,GDE-4070,0.0,902.46,45123.15
+RTE-00026,Trade Route,1e090922,GDE-4070,1e090922,GDE-4070,0.0,0.0,0.0
+RTE-00027,Trade Route,21e97463,HD 242398,21e97463,HD 242398,0.0,417.54,20876.87
+RTE-00028,Trade Route,9ecfcf5e,Kepler-3223,9ecfcf5e,Kepler-3223,0.0,1689.05,84452.65
+RTE-00029,Trade Route,9ecfcf5e,Kepler-3223,9ecfcf5e,Kepler-3223,0.0,553.78,27689.19
+RTE-00030,Trade Route,569fbf22,HD 179598,569fbf22,HD 179598,0.0,759.75,37987.37
+RTE-00031,Trade Route,656b03ff,Pi Cygni,656b03ff,Pi Cygni,0.0,540.2,27009.84
+RTE-00032,Trade Route,419c001a,Omega Sagittarii,419c001a,Omega Sagittarii,0.0,5.28,263.9
+RTE-00033,Trade Route,2ee67c76,HD 173878,2ee67c76,HD 173878,0.0,2270.46,113522.89
+RTE-00034,Trade Route,c195d72c,HR 19907,c195d72c,HR 19907,0.0,223.25,11162.52
+RTE-00035,Trade Route,c195d72c,HR 19907,c195d72c,HR 19907,0.0,509.78,25488.76
+RTE-00036,Trade Route,c195d72c,HR 19907,c195d72c,HR 19907,0.0,444.7,22234.76
+RTE-00037,Trade Route,a76c941f,PSR 104430,a76c941f,PSR 104430,0.0,394.09,19704.34
+RTE-00038,Trade Route,1d8d6567,Rho Persei,1d8d6567,Rho Persei,0.0,1874.11,93705.54
+RTE-00039,Trade Route,e835b2a3,Gliese 390.0,e835b2a3,Gliese 390.0,0.0,1459.7,72985.24
