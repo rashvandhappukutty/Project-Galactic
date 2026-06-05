@@ -1,0 +1,272 @@
+event_id,tick,year,civilization_id,event_type,description
+TRN-EVT-00001,1,100,f8c1278b86,Quantum Network Upgrade,The Consolidated Consolidated Systems constructed capital Jump Gate 'GAT-0001' (Quantum Relay Gate) in star system Gaia-1954.
+TRN-EVT-00002,1,100,ee951bbfab,Quantum Network Upgrade,The Great Kaelumian Imperium constructed capital Jump Gate 'GAT-0002' (Quantum Relay Gate) in star system GDE-7293.
+TRN-EVT-00003,1,100,b2e833d309,Quantum Network Upgrade,The Great Allied Imperium constructed capital Jump Gate 'GAT-0003' (Quantum Relay Gate) in star system PSR 64400.
+TRN-EVT-00004,1,100,faf8d4b64a,Transit Revolution,The Great Solex Imperium constructed capital Jump Gate 'GAT-0004' (Empire Gate) in star system HD 82516.
+TRN-EVT-00005,1,100,a500abb373,Transit Revolution,The Zelari AI Hegemony constructed capital Jump Gate 'GAT-0005' (Galactic Gate) in star system Webb-6470.
+TRN-EVT-00006,1,100,9594053f90,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0006' (Quantum Relay Gate) in star system Omicron Galacticis.
+TRN-EVT-00007,1,100,185a68bac9,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0007' (Quantum Relay Gate) in star system HR 220748.
+TRN-EVT-00008,1,100,c4f121b6c1,Transit Revolution,The Orionian Technocracy constructed capital Jump Gate 'GAT-0008' (Galactic Gate) in star system Zeta Orionis.
+TRN-EVT-00009,1,100,70a115d461,Transit Revolution,The Consolidated Technocracy constructed capital Jump Gate 'GAT-0009' (Galactic Gate) in star system GDE-6664.
+TRN-EVT-00010,1,100,26b5626b6c,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0010' (Quantum Relay Gate) in star system Webb-6726b.
+TRN-EVT-00011,1,100,ec5efdeb2d,Transit Revolution,The Bulgite Technocracy constructed capital Jump Gate 'GAT-0011' (Galactic Gate) in star system Zeta Bulge.
+TRN-EVT-00012,1,100,2f0954acad,Quantum Network Upgrade,The Scientific AI Hegemony constructed capital Jump Gate 'GAT-0012' (Quantum Relay Gate) in star system Aethelgard.
+TRN-EVT-00013,1,100,511ff78315,Quantum Network Upgrade,The Great Allied Imperium constructed capital Jump Gate 'GAT-0013' (Quantum Relay Gate) in star system Zeta Cygni.
+TRN-EVT-00014,1,100,95cba99a70,Quantum Network Upgrade,The Consolidated Technocracy constructed capital Jump Gate 'GAT-0014' (Quantum Relay Gate) in star system Webb-9180d.
+TRN-EVT-00015,1,100,033668785c,Quantum Network Upgrade,The Great Solis Imperium constructed capital Jump Gate 'GAT-0015' (Quantum Relay Gate) in star system HD 212440.
+TRN-EVT-00016,1,100,4a7ef72f37,Transit Revolution,The Great Bulgite Imperium constructed capital Jump Gate 'GAT-0016' (Galactic Gate) in star system Mu Bulge.
+TRN-EVT-00017,1,100,23979e6a05,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0017' (Quantum Relay Gate) in star system Chi Persei.
+TRN-EVT-00018,1,100,243eff68e3,Quantum Network Upgrade,The Great Sigma-bulgis Imperium constructed capital Jump Gate 'GAT-0018' (Quantum Relay Gate) in star system Sigma Bulge.
+TRN-EVT-00019,1,100,9aa2eff7c3,Quantum Network Upgrade,The Great Persean Imperium constructed capital Jump Gate 'GAT-0019' (Quantum Relay Gate) in star system Upsilon Persei.
+TRN-EVT-00020,1,100,5db2756626,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0020' (Quantum Relay Gate) in star system Gaia-2971.
+TRN-EVT-00021,1,100,962632e3ac,Quantum Network Upgrade,The Zylarex Star Empire constructed capital Jump Gate 'GAT-0021' (Quantum Relay Gate) in star system GDE-378.
+TRN-EVT-00022,1,100,7315025cfd,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0022' (Quantum Relay Gate) in star system TESS-2949.
+TRN-EVT-00023,1,100,c56a0b9792,Transit Revolution,The Great Allied Imperium constructed capital Jump Gate 'GAT-0023' (Galactic Gate) in star system Elysium.
+TRN-EVT-00024,1,100,35390a1939,Quantum Network Upgrade,The Consolidated Valari Systems constructed capital Jump Gate 'GAT-0024' (Quantum Relay Gate) in star system Kepler-4496.
+TRN-EVT-00025,1,100,3a3695c8e9,Quantum Network Upgrade,The Consolidated Star Empire constructed capital Jump Gate 'GAT-0025' (Quantum Relay Gate) in star system Zeta Galacticis.
+TRN-EVT-00026,1,100,494354518b,Quantum Network Upgrade,The Unified Technocracy constructed capital Jump Gate 'GAT-0026' (Quantum Relay Gate) in star system Gaia-2093.
+TRN-EVT-00027,1,100,e4a60e62b6,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0027' (Quantum Relay Gate) in star system GDE-295.
+TRN-EVT-00028,1,100,c64460376e,Quantum Network Upgrade,The Great Gamma-orionis Imperium constructed capital Jump Gate 'GAT-0028' (Quantum Relay Gate) in star system Gamma Orionis.
+TRN-EVT-00029,1,100,abb26e55dc,Quantum Network Upgrade,The Consolidated Consolidated Systems constructed capital Jump Gate 'GAT-0029' (Quantum Relay Gate) in star system Theta Orionis.
+TRN-EVT-00030,1,100,6dfc531f16,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0030' (Quantum Relay Gate) in star system TESS-3146.
+TRN-EVT-00031,1,100,36b91772ac,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0031' (Quantum Relay Gate) in star system HIP 191429.
+TRN-EVT-00032,1,100,3c983bfdab,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0032' (Quantum Relay Gate) in star system Gliese 598.0.
+TRN-EVT-00033,1,100,30e300e760,Quantum Network Upgrade,The Scientific AI Hegemony constructed capital Jump Gate 'GAT-0033' (Quantum Relay Gate) in star system Theta Sagittarii.
+TRN-EVT-00034,1,100,6fbfc2a11d,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0034' (Quantum Relay Gate) in star system Sigma Orionis.
+TRN-EVT-00035,1,100,3c4760ddea,Transit Revolution,The Consolidated Zelis Systems constructed capital Jump Gate 'GAT-0035' (Galactic Gate) in star system HR 208303.
+TRN-EVT-00036,1,100,9d578c755a,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0036' (Quantum Relay Gate) in star system TESS-5798.
+TRN-EVT-00037,1,100,23094db297,Transit Revolution,The Consolidated Allied Systems constructed capital Jump Gate 'GAT-0037' (Empire Gate) in star system HD 190494.
+TRN-EVT-00038,1,100,642e75a08d,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0038' (Quantum Relay Gate) in star system GDE-7399.
+TRN-EVT-00039,1,100,b619dd5fb5,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0039' (Quantum Relay Gate) in star system Kepler-7447c.
+TRN-EVT-00040,1,100,3e1c9fe27e,Quantum Network Upgrade,The Cygnian Star Empire constructed capital Jump Gate 'GAT-0040' (Quantum Relay Gate) in star system Gamma Cygni.
+TRN-EVT-00041,1,100,6ebb371c3c,Quantum Network Upgrade,The Great Tau-galacticis Imperium constructed capital Jump Gate 'GAT-0041' (Quantum Relay Gate) in star system Tau Galacticis.
+TRN-EVT-00042,1,100,1b37c066da,Transit Revolution,The Great Valis Imperium constructed capital Jump Gate 'GAT-0042' (Galactic Gate) in star system PSR 62227.
+TRN-EVT-00043,1,100,f4a721a47f,Transit Revolution,The Gamma-galacticis Technocracy constructed capital Jump Gate 'GAT-0043' (Galactic Gate) in star system Gamma Galacticis.
+TRN-EVT-00044,1,100,63d8758b53,Transit Revolution,The Consolidated Aurelex Systems constructed capital Jump Gate 'GAT-0044' (Empire Gate) in star system Webb-1026.
+TRN-EVT-00045,1,100,415811daec,Quantum Network Upgrade,The Solian Star Empire constructed capital Jump Gate 'GAT-0045' (Quantum Relay Gate) in star system Kepler-7797.
+TRN-EVT-00046,1,100,5b3c302325,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0046' (Quantum Relay Gate) in star system Theta Bulge.
+TRN-EVT-00047,1,100,947f74a852,Quantum Network Upgrade,The Allied Technocracy constructed capital Jump Gate 'GAT-0047' (Quantum Relay Gate) in star system Psi Sagittarii.
+TRN-EVT-00048,1,100,e23dc5e375,Transit Revolution,The Galactician Star Empire constructed capital Jump Gate 'GAT-0048' (Galactic Gate) in star system Chi Galacticis.
+TRN-EVT-00049,1,100,77811a2fa9,Quantum Network Upgrade,The Consolidated Gaeian Systems constructed capital Jump Gate 'GAT-0049' (Quantum Relay Gate) in star system Gaea.
+TRN-EVT-00050,1,100,4a9574c523,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0050' (Quantum Relay Gate) in star system Kepler-3722.
+TRN-EVT-00051,1,100,2a34070c99,Quantum Network Upgrade,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0051' (Quantum Relay Gate) in star system Phi Persei.
+TRN-EVT-00052,1,100,6657429a7c,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0052' (Quantum Relay Gate) in star system Ignis IV.
+TRN-EVT-00053,1,100,5f5ebcf2f5,Quantum Network Upgrade,The Solari Star Empire constructed capital Jump Gate 'GAT-0053' (Quantum Relay Gate) in star system Kepler-6215.
+TRN-EVT-00054,1,100,095464621d,Quantum Network Upgrade,The Great Cygnan Imperium constructed capital Jump Gate 'GAT-0054' (Quantum Relay Gate) in star system Rho Cygni.
+TRN-EVT-00055,1,100,a987357567,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0055' (Quantum Relay Gate) in star system HR 248540.
+TRN-EVT-00056,1,100,cf1fb521d7,Quantum Network Upgrade,The Great Allied Imperium constructed capital Jump Gate 'GAT-0056' (Quantum Relay Gate) in star system Gamma Sagittarii.
+TRN-EVT-00057,1,100,a03b53100a,Quantum Network Upgrade,The Great Orionex Imperium constructed capital Jump Gate 'GAT-0057' (Quantum Relay Gate) in star system Gliese 327.0.
+TRN-EVT-00058,1,100,2640424e04,Quantum Network Upgrade,The Unified AI Hegemony constructed capital Jump Gate 'GAT-0058' (Quantum Relay Gate) in star system HR 51505.
+TRN-EVT-00059,1,100,ad899b1ed9,Transit Revolution,The Great Meran Imperium constructed capital Jump Gate 'GAT-0059' (Galactic Gate) in star system HIP 288720.
+TRN-EVT-00060,1,100,7994a1ada7,Transit Revolution,The Unified Star Empire constructed capital Jump Gate 'GAT-0060' (Galactic Gate) in star system Xi Bulge.
+TRN-EVT-00061,1,100,984d4d4161,Transit Revolution,The Consolidated Technocracy constructed capital Jump Gate 'GAT-0061' (Galactic Gate) in star system Webb-3705.
+TRN-EVT-00062,1,100,04b742dd38,Transit Revolution,The Consolidated Perseian Systems constructed capital Jump Gate 'GAT-0062' (Galactic Gate) in star system Psi Persei.
+TRN-EVT-00063,1,100,82f9ee8fb4,Quantum Network Upgrade,The Great Valoid Imperium constructed capital Jump Gate 'GAT-0063' (Quantum Relay Gate) in star system Gliese 2.0.
+TRN-EVT-00064,1,100,08d81107e6,Quantum Network Upgrade,The Zylarian AI Hegemony constructed capital Jump Gate 'GAT-0064' (Quantum Relay Gate) in star system PSR 86396.
+TRN-EVT-00065,1,100,38a2dd884c,Transit Revolution,The Consolidated Allied Systems constructed capital Jump Gate 'GAT-0065' (Galactic Gate) in star system Pi Sagittarii.
+TRN-EVT-00066,1,100,1c90d82c80,Transit Revolution,The Great Cygnian Imperium constructed capital Jump Gate 'GAT-0066' (Galactic Gate) in star system Delta Cygni.
+TRN-EVT-00067,1,100,a222a74ae8,Quantum Network Upgrade,The Great Zelex Imperium constructed capital Jump Gate 'GAT-0067' (Quantum Relay Gate) in star system TESS-8033.
+TRN-EVT-00068,1,100,f714a79195,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0068' (Quantum Relay Gate) in star system Epsilon Orionis.
+TRN-EVT-00069,1,100,f0cb6b0a91,Quantum Network Upgrade,The Great Xenoid Imperium constructed capital Jump Gate 'GAT-0069' (Quantum Relay Gate) in star system Gaia-7887.
+TRN-EVT-00070,1,100,7be35390be,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0070' (Quantum Relay Gate) in star system Webb-9059.
+TRN-EVT-00071,1,100,fe5ce1f2b8,Quantum Network Upgrade,The Consolidated Consolidated Systems constructed capital Jump Gate 'GAT-0071' (Quantum Relay Gate) in star system HIP 201480.
+TRN-EVT-00072,1,100,7652ec5c8d,Quantum Network Upgrade,The Unified Technocracy constructed capital Jump Gate 'GAT-0072' (Quantum Relay Gate) in star system Theta Persei.
+TRN-EVT-00073,1,100,f0ada7121c,Quantum Network Upgrade,The Consolidated Consolidated Systems constructed capital Jump Gate 'GAT-0073' (Quantum Relay Gate) in star system Webb-6199.
+TRN-EVT-00074,1,100,187eb0978f,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0074' (Quantum Relay Gate) in star system GDE-2341.
+TRN-EVT-00075,1,100,8bd71d17f7,Quantum Network Upgrade,The Unified AI Hegemony constructed capital Jump Gate 'GAT-0075' (Quantum Relay Gate) in star system TESS-2835.
+TRN-EVT-00076,1,100,71d820677a,Transit Revolution,The Zylaran AI Hegemony constructed capital Jump Gate 'GAT-0076' (Empire Gate) in star system Gliese 837.0.
+TRN-EVT-00077,1,100,be3191b575,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0077' (Quantum Relay Gate) in star system Eta Galacticis.
+TRN-EVT-00078,1,100,b75dce1421,Transit Revolution,The Great Allied Imperium constructed capital Jump Gate 'GAT-0078' (Empire Gate) in star system Chi Bulge.
+TRN-EVT-00079,1,100,4c8e6a8540,Transit Revolution,The Great Allied Imperium constructed gateway 'GAT-0079' (Regional Gate) at colony Chi Bulge-d Prime.
+TRN-EVT-00080,1,100,76c64a14d6,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0080' (Quantum Relay Gate) in star system PSR 156692.
+TRN-EVT-00081,1,100,517cb43ce0,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0081' (Quantum Relay Gate) in star system TESS-9709.
+TRN-EVT-00082,1,100,8853384409,Quantum Network Upgrade,The Unified Technocracy constructed capital Jump Gate 'GAT-0082' (Quantum Relay Gate) in star system HD 59434.
+TRN-EVT-00083,1,100,bda6417e80,Transit Revolution,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0083' (Galactic Gate) in star system Gamma Persei.
+TRN-EVT-00084,1,100,778b8b68c3,Quantum Network Upgrade,The Scientific Star Empire constructed capital Jump Gate 'GAT-0084' (Quantum Relay Gate) in star system HR 27482.
+TRN-EVT-00085,1,100,37b8da7a55,Quantum Network Upgrade,The Great Zylaris Imperium constructed capital Jump Gate 'GAT-0085' (Quantum Relay Gate) in star system GDE-7733.
+TRN-EVT-00086,1,100,c1803ec34d,Quantum Network Upgrade,The Great Aurelari Imperium constructed capital Jump Gate 'GAT-0086' (Quantum Relay Gate) in star system GDE-4866a.
+TRN-EVT-00087,1,100,d957806d32,Quantum Network Upgrade,The Galactician Technocracy constructed capital Jump Gate 'GAT-0087' (Quantum Relay Gate) in star system Sigma Galacticis.
+TRN-EVT-00088,1,100,d5f12251b2,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0088' (Quantum Relay Gate) in star system Gliese 663.0.
+TRN-EVT-00089,1,100,529174abfd,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0089' (Quantum Relay Gate) in star system TESS-5743b.
+TRN-EVT-00090,1,100,6a9427ac16,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0090' (Galactic Gate) in star system Prometheus.
+TRN-EVT-00091,1,100,094756ff65,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0091' (Quantum Relay Gate) in star system HIP 246403.
+TRN-EVT-00092,1,100,d340e67e88,Transit Revolution,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0092' (Galactic Gate) in star system HR 58037.
+TRN-EVT-00093,1,100,78635879d1,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0093' (Quantum Relay Gate) in star system Selene.
+TRN-EVT-00094,1,100,62149b123f,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0094' (Quantum Relay Gate) in star system Eta Sagittarii.
+TRN-EVT-00095,1,100,4c3eb31272,Quantum Network Upgrade,The Iota-sagittariis Technocracy constructed capital Jump Gate 'GAT-0095' (Quantum Relay Gate) in star system Iota Sagittarii.
+TRN-EVT-00096,1,100,6c40e5c997,Quantum Network Upgrade,The Orionite Technocracy constructed capital Jump Gate 'GAT-0096' (Quantum Relay Gate) in star system Upsilon Orionis.
+TRN-EVT-00097,1,100,5a236efd3f,Quantum Network Upgrade,The Great Beta-bulgis Imperium constructed capital Jump Gate 'GAT-0097' (Quantum Relay Gate) in star system Beta Bulge.
+TRN-EVT-00098,1,100,1bc76d1c73,Transit Revolution,The Consolidated Star Empire constructed capital Jump Gate 'GAT-0098' (Galactic Gate) in star system TESS-3963d.
+TRN-EVT-00099,1,100,1c4722b997,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0099' (Quantum Relay Gate) in star system Nu Orionis.
+TRN-EVT-00100,1,100,0e67dd57aa,Transit Revolution,The Unified Technocracy constructed capital Jump Gate 'GAT-0100' (Galactic Gate) in star system HR 120160.
+TRN-EVT-00101,1,100,19190c022d,Transit Revolution,The Great Allied Imperium constructed capital Jump Gate 'GAT-0101' (Galactic Gate) in star system Webb-1799.
+TRN-EVT-00102,1,100,d0016e25b4,Quantum Network Upgrade,The Great Meran Imperium constructed capital Jump Gate 'GAT-0102' (Quantum Relay Gate) in star system HIP 114085.
+TRN-EVT-00103,1,100,2b478a564d,Transit Revolution,The Aurelian Star Empire constructed capital Jump Gate 'GAT-0103' (Empire Gate) in star system Aurelia.
+TRN-EVT-00104,1,100,23582772c8,Quantum Network Upgrade,The Orionite AI Hegemony constructed capital Jump Gate 'GAT-0104' (Quantum Relay Gate) in star system Delta Orionis.
+TRN-EVT-00105,1,100,61397f1d85,Quantum Network Upgrade,The Solari Technocracy constructed capital Jump Gate 'GAT-0105' (Quantum Relay Gate) in star system TESS-973.
+TRN-EVT-00106,1,100,bcfcfb49cf,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0106' (Quantum Relay Gate) in star system HR 104924.
+TRN-EVT-00107,1,100,096fc37df4,Transit Revolution,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0107' (Galactic Gate) in star system HD 275033.
+TRN-EVT-00108,1,100,0b6029ea29,Quantum Network Upgrade,The Scientific AI Hegemony constructed capital Jump Gate 'GAT-0108' (Quantum Relay Gate) in star system Webb-5587a.
+TRN-EVT-00109,1,100,3557fb1c6f,Quantum Network Upgrade,The Allied Star Empire constructed capital Jump Gate 'GAT-0109' (Quantum Relay Gate) in star system GDE-845.
+TRN-EVT-00110,1,100,9a629191f0,Quantum Network Upgrade,The Allied Technocracy constructed capital Jump Gate 'GAT-0110' (Quantum Relay Gate) in star system HD 162586.
+TRN-EVT-00111,1,100,33e625a829,Quantum Network Upgrade,The Aureloid Star Empire constructed capital Jump Gate 'GAT-0111' (Quantum Relay Gate) in star system TESS-6387.
+TRN-EVT-00112,1,100,71073d1e77,Transit Revolution,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0112' (Galactic Gate) in star system HR 211002.
+TRN-EVT-00113,1,100,dc652af4e1,Quantum Network Upgrade,The Cygnan Technocracy constructed capital Jump Gate 'GAT-0113' (Quantum Relay Gate) in star system Sigma Cygni.
+TRN-EVT-00114,1,100,bc259c8444,Quantum Network Upgrade,The Scientific AI Hegemony constructed capital Jump Gate 'GAT-0114' (Quantum Relay Gate) in star system HIP 121095.
+TRN-EVT-00115,1,100,b4e38b5ba0,Quantum Network Upgrade,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0115' (Quantum Relay Gate) in star system Epsilon Bulge.
+TRN-EVT-00116,1,100,ed8eb43829,Quantum Network Upgrade,The Omega-bulgis AI Hegemony constructed capital Jump Gate 'GAT-0116' (Quantum Relay Gate) in star system Omega Bulge.
+TRN-EVT-00117,1,100,1e3994853e,Quantum Network Upgrade,The Consolidated Star Empire constructed capital Jump Gate 'GAT-0117' (Quantum Relay Gate) in star system HD 50077.
+TRN-EVT-00118,1,100,d07bc4ae63,Transit Revolution,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0118' (Galactic Gate) in star system HR 233687.
+TRN-EVT-00119,1,100,9696ce2491,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0119' (Quantum Relay Gate) in star system HIP 217328.
+TRN-EVT-00120,1,100,9d449a31b9,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0120' (Empire Gate) in star system Omega Cygni.
+TRN-EVT-00121,1,100,12f8de3472,Transit Revolution,The Thranari Technocracy constructed capital Jump Gate 'GAT-0121' (Empire Gate) in star system HD 36797.
+TRN-EVT-00122,1,100,afc6771a1e,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0122' (Quantum Relay Gate) in star system Webb-3991.
+TRN-EVT-00123,1,100,63803c4eb1,Quantum Network Upgrade,The Unified Technocracy constructed capital Jump Gate 'GAT-0123' (Quantum Relay Gate) in star system PSR 133182.
+TRN-EVT-00124,1,100,53856bd8ca,Transit Revolution,The Allied Technocracy constructed capital Jump Gate 'GAT-0124' (Galactic Gate) in star system Tau Sagittarii.
+TRN-EVT-00125,1,100,da38a63176,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0125' (Quantum Relay Gate) in star system Webb-7458.
+TRN-EVT-00126,1,100,f004cb791e,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0126' (Quantum Relay Gate) in star system Beta Persei.
+TRN-EVT-00127,1,100,15955262e1,Transit Revolution,The Aurelian AI Hegemony constructed capital Jump Gate 'GAT-0127' (Galactic Gate) in star system PSR 289778.
+TRN-EVT-00128,1,100,7dc225fd37,Quantum Network Upgrade,The Consolidated Technocracy constructed capital Jump Gate 'GAT-0128' (Quantum Relay Gate) in star system PSR 165223.
+TRN-EVT-00129,1,100,373ea01e5c,Transit Revolution,The Consolidated Technocracy constructed capital Jump Gate 'GAT-0129' (Galactic Gate) in star system Gliese 787.0.
+TRN-EVT-00130,1,100,17fee1a6ac,Transit Revolution,The Thranite Star Empire constructed capital Jump Gate 'GAT-0130' (Galactic Gate) in star system TESS-915.
+TRN-EVT-00131,1,100,5d262aaec3,Quantum Network Upgrade,The Consolidated AI Hegemony constructed capital Jump Gate 'GAT-0131' (Quantum Relay Gate) in star system TESS-7890.
+TRN-EVT-00132,1,100,f2bbbfc167,Transit Revolution,The Great Bulgan Imperium constructed capital Jump Gate 'GAT-0132' (Galactic Gate) in star system Delta Bulge.
+TRN-EVT-00133,1,100,f2bbbfc167,Transit Revolution,The Great Bulgan Imperium constructed gateway 'GAT-0133' (Regional Gate) at colony Bulgan Outpost 41.
+TRN-EVT-00134,1,100,d7ec4d3018,Quantum Network Upgrade,The Thranan Technocracy constructed capital Jump Gate 'GAT-0134' (Quantum Relay Gate) in star system HR 175320.
+TRN-EVT-00135,1,100,931aa9655e,Quantum Network Upgrade,The Orionite Technocracy constructed capital Jump Gate 'GAT-0135' (Quantum Relay Gate) in star system Gliese 257.0.
+TRN-EVT-00136,1,100,a7f6005fd2,Transit Revolution,The Consolidated Meroid Systems constructed capital Jump Gate 'GAT-0136' (Galactic Gate) in star system Kepler-6776.
+TRN-EVT-00137,1,100,4164b650a3,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0137' (Quantum Relay Gate) in star system HD 14791.
+TRN-EVT-00138,1,100,7ba9deb67e,Quantum Network Upgrade,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0138' (Quantum Relay Gate) in star system Webb-4746d.
+TRN-EVT-00139,1,100,785ce4730c,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0139' (Quantum Relay Gate) in star system Kepler-8079d.
+TRN-EVT-00140,1,100,c87f4b2d09,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0140' (Galactic Gate) in star system HR 123535.
+TRN-EVT-00141,1,100,c59e7444f5,Quantum Network Upgrade,The Meran Technocracy constructed capital Jump Gate 'GAT-0141' (Quantum Relay Gate) in star system PSR 272701.
+TRN-EVT-00142,1,100,41e5776038,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0142' (Quantum Relay Gate) in star system Webb-8019.
+TRN-EVT-00143,1,100,cbdac2fac3,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0143' (Quantum Relay Gate) in star system Kepler-604.
+TRN-EVT-00144,1,100,9891e1dd90,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0144' (Quantum Relay Gate) in star system TESS-8500.
+TRN-EVT-00145,1,100,5d94c085f5,Quantum Network Upgrade,The Allied Technocracy constructed capital Jump Gate 'GAT-0145' (Quantum Relay Gate) in star system HIP 233393.
+TRN-EVT-00146,1,100,cc71651dca,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0146' (Quantum Relay Gate) in star system Gaia-4401.
+TRN-EVT-00147,1,100,b7f420628f,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0147' (Galactic Gate) in star system Iota Persei.
+TRN-EVT-00148,1,100,1a2a63b5eb,Quantum Network Upgrade,The Great Allied Imperium constructed capital Jump Gate 'GAT-0148' (Quantum Relay Gate) in star system Gaia-2648c.
+TRN-EVT-00149,1,100,8e17c1b492,Transit Revolution,The Solex Star Empire constructed capital Jump Gate 'GAT-0149' (Empire Gate) in star system TESS-7730a.
+TRN-EVT-00150,1,100,15c488fdb9,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0150' (Quantum Relay Gate) in star system Gaia-4413.
+TRN-EVT-00151,1,100,a9283be55d,Transit Revolution,The Consolidated Epsilon-perseis Systems constructed capital Jump Gate 'GAT-0151' (Galactic Gate) in star system Epsilon Persei.
+TRN-EVT-00152,1,100,7fdb421436,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0152' (Galactic Gate) in star system Tau Cygni.
+TRN-EVT-00153,1,100,b323933feb,Transit Revolution,The Allied Star Empire constructed capital Jump Gate 'GAT-0153' (Empire Gate) in star system TESS-6922.
+TRN-EVT-00154,1,100,c5f014b287,Quantum Network Upgrade,The Bulgan Technocracy constructed capital Jump Gate 'GAT-0154' (Quantum Relay Gate) in star system Alpha Bulge.
+TRN-EVT-00155,1,100,e1c4b2ed14,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0155' (Quantum Relay Gate) in star system HIP 286034.
+TRN-EVT-00156,1,100,a568c633c8,Transit Revolution,The Aurelari Technocracy constructed capital Jump Gate 'GAT-0156' (Galactic Gate) in star system HIP 14841.
+TRN-EVT-00157,1,100,0187c7d64a,Transit Revolution,The Vesperan Technocracy constructed capital Jump Gate 'GAT-0157' (Galactic Gate) in star system Webb-694.
+TRN-EVT-00158,1,100,f1337406a3,Quantum Network Upgrade,The Great Thranan Imperium constructed capital Jump Gate 'GAT-0158' (Quantum Relay Gate) in star system GDE-5391.
+TRN-EVT-00159,1,100,354b63d6d6,Quantum Network Upgrade,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0159' (Quantum Relay Gate) in star system Gliese 196.0.
+TRN-EVT-00160,1,100,8c80ad65b6,Transit Revolution,The Orionex AI Hegemony constructed capital Jump Gate 'GAT-0160' (Galactic Gate) in star system TESS-7571.
+TRN-EVT-00161,1,100,e6f9f9e411,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0161' (Quantum Relay Gate) in star system Gliese 374.0.
+TRN-EVT-00162,1,100,24e153416d,Quantum Network Upgrade,The Unified Star Empire constructed capital Jump Gate 'GAT-0162' (Quantum Relay Gate) in star system Gliese 159.0.
+TRN-EVT-00163,1,100,eacab5ee97,Transit Revolution,The Great Thranan Imperium constructed capital Jump Gate 'GAT-0163' (Galactic Gate) in star system HD 119869.
+TRN-EVT-00164,1,100,5573af18db,Quantum Network Upgrade,The Great Merian Imperium constructed capital Jump Gate 'GAT-0164' (Quantum Relay Gate) in star system HIP 53021.
+TRN-EVT-00165,1,100,2a8b6fc81d,Quantum Network Upgrade,The Unified Technocracy constructed capital Jump Gate 'GAT-0165' (Quantum Relay Gate) in star system GDE-122.
+TRN-EVT-00166,1,100,dc0074adc3,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0166' (Quantum Relay Gate) in star system Gaia-1650.
+TRN-EVT-00167,1,100,08caaac3af,Quantum Network Upgrade,The Unified AI Hegemony constructed capital Jump Gate 'GAT-0167' (Quantum Relay Gate) in star system Tau Orionis.
+TRN-EVT-00168,1,100,91474e8269,Quantum Network Upgrade,The Vesperian AI Hegemony constructed capital Jump Gate 'GAT-0168' (Quantum Relay Gate) in star system HR 66132.
+TRN-EVT-00169,1,100,f343101fe6,Transit Revolution,The Unified Technocracy constructed capital Jump Gate 'GAT-0169' (Galactic Gate) in star system Kepler-5383.
+TRN-EVT-00170,1,100,950050e41a,Transit Revolution,The Great Zylarite Imperium constructed capital Jump Gate 'GAT-0170' (Galactic Gate) in star system GDE-4070.
+TRN-EVT-00171,1,100,bbf8578e8c,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0171' (Quantum Relay Gate) in star system HD 242398.
+TRN-EVT-00172,1,100,28728de334,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0172' (Quantum Relay Gate) in star system Webb-7340.
+TRN-EVT-00173,1,100,2c64149009,Quantum Network Upgrade,The Unified AI Hegemony constructed capital Jump Gate 'GAT-0173' (Quantum Relay Gate) in star system Kepler-3223.
+TRN-EVT-00174,1,100,43cb04ad80,Quantum Network Upgrade,The Xenoid Technocracy constructed capital Jump Gate 'GAT-0174' (Quantum Relay Gate) in star system PSR 161837.
+TRN-EVT-00175,1,100,3a375c2f6d,Quantum Network Upgrade,The Scientific AI Hegemony constructed capital Jump Gate 'GAT-0175' (Quantum Relay Gate) in star system HR 121153.
+TRN-EVT-00176,1,100,1a67be5b7f,Transit Revolution,The Scientific Technocracy constructed capital Jump Gate 'GAT-0176' (Galactic Gate) in star system TESS-945.
+TRN-EVT-00177,1,100,9883f23173,Quantum Network Upgrade,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0177' (Quantum Relay Gate) in star system HD 179598.
+TRN-EVT-00178,1,100,60a971a839,Quantum Network Upgrade,The Great Cygnan Imperium constructed capital Jump Gate 'GAT-0178' (Quantum Relay Gate) in star system Pi Cygni.
+TRN-EVT-00179,1,100,0130446f7e,Quantum Network Upgrade,The Scientific AI Hegemony constructed capital Jump Gate 'GAT-0179' (Quantum Relay Gate) in star system TESS-1750.
+TRN-EVT-00180,1,100,61dc46303f,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0180' (Galactic Gate) in star system Gaia-9760c.
+TRN-EVT-00181,1,100,622de7102b,Transit Revolution,The Consolidated Orionite Systems constructed capital Jump Gate 'GAT-0181' (Galactic Gate) in star system Kepler-2936.
+TRN-EVT-00182,1,100,996190e522,Quantum Network Upgrade,The Orionan Technocracy constructed capital Jump Gate 'GAT-0182' (Quantum Relay Gate) in star system Gaia-776.
+TRN-EVT-00183,1,100,556d6c2378,Quantum Network Upgrade,The Meroid AI Hegemony constructed capital Jump Gate 'GAT-0183' (Quantum Relay Gate) in star system HIP 76600.
+TRN-EVT-00184,1,100,4c2540c708,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0184' (Quantum Relay Gate) in star system HIP 244648.
+TRN-EVT-00185,1,100,b7069c3852,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0185' (Quantum Relay Gate) in star system GDE-4485.
+TRN-EVT-00186,1,100,f3f5dfde4c,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0186' (Quantum Relay Gate) in star system Kepler-2106.
+TRN-EVT-00187,1,100,22091a7056,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0187' (Quantum Relay Gate) in star system GDE-7889.
+TRN-EVT-00188,1,100,2211d3100d,Quantum Network Upgrade,The Consolidated Kaelumex Systems constructed capital Jump Gate 'GAT-0188' (Quantum Relay Gate) in star system TESS-5589.
+TRN-EVT-00189,1,100,182edcdd37,Transit Revolution,The Aurelan Star Empire constructed capital Jump Gate 'GAT-0189' (Galactic Gate) in star system GDE-8146.
+TRN-EVT-00190,1,100,e47a782635,Transit Revolution,The Consolidated Xi-sagittariis Systems constructed capital Jump Gate 'GAT-0190' (Galactic Gate) in star system Xi Sagittarii.
+TRN-EVT-00191,1,100,2705d84a32,Quantum Network Upgrade,The Unified AI Hegemony constructed capital Jump Gate 'GAT-0191' (Quantum Relay Gate) in star system Webb-7499.
+TRN-EVT-00192,1,100,7e5521abbb,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0192' (Quantum Relay Gate) in star system Gliese 192.0.
+TRN-EVT-00193,1,100,7c376afd56,Quantum Network Upgrade,The Kaelumis Technocracy constructed capital Jump Gate 'GAT-0193' (Quantum Relay Gate) in star system TESS-8623.
+TRN-EVT-00194,1,100,c3b1779520,Transit Revolution,The Aurelis AI Hegemony constructed capital Jump Gate 'GAT-0194' (Empire Gate) in star system TESS-194.
+TRN-EVT-00195,1,100,37a4cea3d7,Quantum Network Upgrade,The Consolidated Technocracy constructed capital Jump Gate 'GAT-0195' (Quantum Relay Gate) in star system HIP 262134.
+TRN-EVT-00196,1,100,e00bc2a5e5,Transit Revolution,The Thranite Technocracy constructed capital Jump Gate 'GAT-0196' (Galactic Gate) in star system HR 189541.
+TRN-EVT-00197,1,100,b2c9872c2d,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0197' (Quantum Relay Gate) in star system Omega Sagittarii.
+TRN-EVT-00198,1,100,4b4e90bd89,Quantum Network Upgrade,The Meran AI Hegemony constructed capital Jump Gate 'GAT-0198' (Quantum Relay Gate) in star system HR 36296.
+TRN-EVT-00199,1,100,764f599826,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0199' (Quantum Relay Gate) in star system HD 173878.
+TRN-EVT-00200,1,100,927dbfac0b,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0200' (Quantum Relay Gate) in star system HD 14799.
+TRN-EVT-00201,1,100,31aeef2350,Quantum Network Upgrade,The Scientific Technocracy constructed capital Jump Gate 'GAT-0201' (Quantum Relay Gate) in star system HR 19907.
+TRN-EVT-00202,1,100,c1cc584fd5,Quantum Network Upgrade,The Great Unified Imperium constructed capital Jump Gate 'GAT-0202' (Quantum Relay Gate) in star system Webb-1869.
+TRN-EVT-00203,1,100,f61290c372,Quantum Network Upgrade,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0203' (Quantum Relay Gate) in star system HD 193309.
+TRN-EVT-00204,1,100,71efb681fc,Transit Revolution,The Aureloid AI Hegemony constructed capital Jump Gate 'GAT-0204' (Galactic Gate) in star system Gliese 325.0.
+TRN-EVT-00205,1,100,13b6f1c19c,Quantum Network Upgrade,The Allied Technocracy constructed capital Jump Gate 'GAT-0205' (Quantum Relay Gate) in star system PSR 104430.
+TRN-EVT-00206,1,100,38d523ac80,Quantum Network Upgrade,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0206' (Quantum Relay Gate) in star system TESS-8080.
+TRN-EVT-00207,1,100,5fec320399,Quantum Network Upgrade,The Unified Technocracy constructed capital Jump Gate 'GAT-0207' (Quantum Relay Gate) in star system TESS-2121.
+TRN-EVT-00208,1,100,0a6e8b3547,Transit Revolution,The Nu-cygnis Star Empire constructed capital Jump Gate 'GAT-0208' (Galactic Gate) in star system Nu Cygni.
+TRN-EVT-00209,1,100,8bc980ecf5,Quantum Network Upgrade,The Unified Star Empire constructed capital Jump Gate 'GAT-0209' (Quantum Relay Gate) in star system Webb-9920.
+TRN-EVT-00210,1,100,18daa88e4f,Quantum Network Upgrade,The Great Scientific Imperium constructed capital Jump Gate 'GAT-0210' (Quantum Relay Gate) in star system Rho Persei.
+TRN-EVT-00211,1,100,7c40c9ebf8,Quantum Network Upgrade,The Consolidated Scientific Systems constructed capital Jump Gate 'GAT-0211' (Quantum Relay Gate) in star system Gliese 390.0.
+TRN-EVT-00212,1,100,20af608f42,Quantum Network Upgrade,The Consolidated Consolidated Systems constructed capital Jump Gate 'GAT-0212' (Quantum Relay Gate) in star system Chi Orionis.
+TRN-EVT-00213,1,100,f03d90fb8f,Quantum Network Upgrade,The Great Thranite Imperium constructed capital Jump Gate 'GAT-0213' (Quantum Relay Gate) in star system TESS-7800.
+TRN-EVT-00214,1,100,e905d91038,Quantum Network Upgrade,The Consolidated Allied Systems constructed capital Jump Gate 'GAT-0214' (Quantum Relay Gate) in star system Webb-2356.
+TRN-EVT-00215,1,100,176da50470,Quantum Network Upgrade,The Consolidated Unified Systems constructed capital Jump Gate 'GAT-0215' (Quantum Relay Gate) in star system Mu Persei.
+TRN-EVT-00216,1,100,f83f785370,Transit Revolution,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0216' (Galactic Gate) in star system GDE-4121.
+TRN-EVT-00217,1,100,85aec51e58,Quantum Network Upgrade,The Great Consolidated Imperium constructed capital Jump Gate 'GAT-0217' (Quantum Relay Gate) in star system Gaia-3148.
+TRN-EVT-00218,1,100,4c224c8349,Transit Revolution,The Vesperari Technocracy constructed capital Jump Gate 'GAT-0218' (Galactic Gate) in star system TESS-5894.
+TRN-EVT-00219,1,100,f2bbbfc167,Hyperlane Expansion,The Great Bulgan Imperium constructed FTL Artificial Wormhole portal WRM-ART-0001 linking capital to colony system Delta Bulge.
+TRN-EVT-00220,2,200,c6642b2284,Transit Revolution,The Scientific Technocracy constructed gateway 'GAT-0219' (Regional Gate) at colony Gaea I-d Science Station.
+TRN-EVT-00221,2,200,6c40e5c997,Transit Revolution,The Orionite Technocracy constructed gateway 'GAT-0220' (Regional Gate) at colony Upsilon Orionis-d Prime.
+TRN-EVT-00222,2,200,1c4722b997,Transit Revolution,The Great Unified Imperium constructed gateway 'GAT-0221' (Regional Gate) at colony Unified Outpost 50.
+TRN-EVT-00223,2,200,7bf42c3a49,Transit Revolution,The Sagittariite Technocracy constructed gateway 'GAT-0222' (Regional Gate) at colony Theta Sagittarii-c Prime.
+TRN-EVT-00224,3,300,cd3cb2af45,Transit Revolution,The Consolidated Chi-bulgis Systems constructed gateway 'GAT-0223' (Regional Gate) at colony Chi Bulge-c Sector.
+TRN-EVT-00225,3,300,e47a782635,Transit Revolution,The Consolidated Xi-sagittariis Systems constructed gateway 'GAT-0224' (Regional Gate) at colony Xi-sagittariis Colony.
+TRN-EVT-00226,3,300,37270686ec,Transit Revolution,The Scientific Technocracy constructed gateway 'GAT-0225' (Regional Gate) at colony Scientific Colony.
+TRN-EVT-00227,4,400,1c90d82c80,Hyperlane Expansion,The Great Cygnian Imperium constructed FTL Artificial Wormhole portal WRM-ART-0002 linking capital to colony system Delta Cygni.
+TRN-EVT-00228,5,500,1c90d82c80,Transit Revolution,The Great Cygnian Imperium constructed gateway 'GAT-0226' (Regional Gate) at colony Delta Cygni-g Prime.
+TRN-EVT-00229,5,500,c3662e3808,Transit Revolution,The Unified Technocracy constructed gateway 'GAT-0227' (Quantum Relay Gate) at colony Unified Outpost 34.
+TRN-EVT-00230,5,500,8d88177d24,Transit Revolution,The Bulgian Star Empire constructed gateway 'GAT-0228' (Regional Gate) at colony Alpha Bulge-c Sector.
+TRN-EVT-00231,6,600,66d46fcd47,Transit Revolution,The Consolidated Consolidated Systems constructed gateway 'GAT-0229' (Regional Gate) at colony Nu Orionis-b Prime.
+TRN-EVT-00232,6,600,176da50470,Transit Revolution,The Consolidated Unified Systems constructed gateway 'GAT-0230' (Regional Gate) at colony Unified Outpost 57.
+TRN-EVT-00233,6,600,c6642b2284,Hyperlane Expansion,The Scientific Technocracy constructed FTL Artificial Wormhole portal WRM-ART-0003 linking capital to colony system Gaea I.
+TRN-EVT-00234,6,600,7bf42c3a49,Hyperlane Expansion,The Sagittariite Technocracy constructed FTL Artificial Wormhole portal WRM-ART-0004 linking capital to colony system Theta Sagittarii.
+TRN-EVT-00235,7,700,7036dbff3e,Transit Revolution,The Great Scientific Imperium constructed gateway 'GAT-0231' (Regional Gate) at colony Zeta Orionis-b Science Station.
+TRN-EVT-00236,7,700,176da50470,Hyperlane Expansion,The Consolidated Unified Systems constructed FTL Artificial Wormhole portal WRM-ART-0005 linking capital to colony system Mu Persei.
+TRN-EVT-00237,7,700,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0008 collapsed and closed permanently.
+TRN-EVT-00238,7,700,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0039 collapsed and closed permanently.
+TRN-EVT-00239,7,700,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0043 collapsed and closed permanently.
+TRN-EVT-00240,7,700,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0075 collapsed and closed permanently.
+TRN-EVT-00241,7,700,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0124 collapsed and closed permanently.
+TRN-EVT-00242,7,700,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0161 collapsed and closed permanently.
+TRN-EVT-00243,8,800,53856bd8ca,Transit Revolution,The Allied Technocracy constructed gateway 'GAT-0232' (Galactic Gate) at colony Tau Sagittarii-e Prime.
+TRN-EVT-00244,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0011 collapsed and closed permanently.
+TRN-EVT-00245,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0045 collapsed and closed permanently.
+TRN-EVT-00246,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0070 collapsed and closed permanently.
+TRN-EVT-00247,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0114 collapsed and closed permanently.
+TRN-EVT-00248,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0121 collapsed and closed permanently.
+TRN-EVT-00249,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0131 collapsed and closed permanently.
+TRN-EVT-00250,8,800,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0166 collapsed and closed permanently.
+TRN-EVT-00251,9,900,03fca7f787,Hyperlane Expansion,The Consolidated Perseian Systems constructed FTL Artificial Wormhole portal WRM-ART-0006 linking capital to colony system Chi Persei.
+TRN-EVT-00252,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0004 collapsed and closed permanently.
+TRN-EVT-00253,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0019 collapsed and closed permanently.
+TRN-EVT-00254,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0031 collapsed and closed permanently.
+TRN-EVT-00255,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0038 collapsed and closed permanently.
+TRN-EVT-00256,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0054 collapsed and closed permanently.
+TRN-EVT-00257,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0059 collapsed and closed permanently.
+TRN-EVT-00258,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0078 collapsed and closed permanently.
+TRN-EVT-00259,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0133 collapsed and closed permanently.
+TRN-EVT-00260,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0142 collapsed and closed permanently.
+TRN-EVT-00261,9,900,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0177 collapsed and closed permanently.
+TRN-EVT-00262,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0025 collapsed and closed permanently.
+TRN-EVT-00263,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0046 collapsed and closed permanently.
+TRN-EVT-00264,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0051 collapsed and closed permanently.
+TRN-EVT-00265,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0087 collapsed and closed permanently.
+TRN-EVT-00266,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0090 collapsed and closed permanently.
+TRN-EVT-00267,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0123 collapsed and closed permanently.
+TRN-EVT-00268,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0137 collapsed and closed permanently.
+TRN-EVT-00269,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0154 collapsed and closed permanently.
+TRN-EVT-00270,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0164 collapsed and closed permanently.
+TRN-EVT-00271,10,1000,None,Wormhole Collapse,Unstable Natural Wormhole shortcut WRM-NAT-0168 collapsed and closed permanently.

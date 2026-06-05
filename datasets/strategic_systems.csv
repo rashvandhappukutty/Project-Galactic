@@ -1,0 +1,1001 @@
+star_id,star_name,region,betweenness_centrality,strategic_value_score,neighbors_count
+819b78b5,GDE-4485,Orion Arm,0.043859,100.0,210
+b04073fa,Gliese 374.0,Cygnus Arm,0.043699,99.63,210
+1699edb3,HR 36296,Perseus Arm,0.042858,97.72,210
+82d87ebd,TESS-7890,Perseus Arm,0.042856,97.71,211
+edc9d801,HD 190494,Orion Arm,0.038957,88.82,7
+622636ae,Nu Bulge,Core,0.037709,85.97,7
+83611aa7,Omega Cygni,Cygnus Arm,0.037125,84.64,6
+29b68348,PSR 255277,Sagittarius Arm,0.034152,77.87,5
+dbb1c841,Omega Bulge,Core,0.032213,73.44,210
+ec18573c,Gaea,Sagittarius Arm,0.030519,69.58,209
+6be74bea,Gaea I,Perseus Arm,0.028756,65.56,4
+473dea70,Omicron Cygni,Cygnus Arm,0.028668,65.36,6
+671fed61,Kepler-8489,Perseus Arm,0.028626,65.27,5
+a576f5a6,HIP 19496,Cygnus Arm,0.026802,61.11,5
+a2d354d7,Epsilon Persei,Perseus Arm,0.02522,57.5,3
+c37cbca3,Gliese 787.0,Core,0.025165,57.38,209
+1c9c4f97,Omicron Sagittarii,Sagittarius Arm,0.025109,57.25,8
+f76d9126,TESS-2949,Sagittarius Arm,0.025069,57.16,210
+847258d3,Webb-2356,Disk Background,0.025013,57.03,207
+8b08f1f9,Chi Persei,Perseus Arm,0.023517,53.62,211
+8af3cb80,Gliese 593.0,Perseus Arm,0.023446,53.46,4
+29f54147,Webb-6276e,Cygnus Arm,0.023238,52.98,6
+099ed5da,PSR 86396,Core,0.021705,49.49,210
+13c5f9fc,Xi Sagittarii,Sagittarius Arm,0.021506,49.03,210
+09687116,Ignis IV,Perseus Arm,0.019894,45.36,208
+4ad5d8f7,GDE-295,Core,0.019815,45.18,211
+74ba6a6c,TESS-5137,Orion Arm,0.019731,44.99,6
+abf1d9c6,HR 127729,Orion Arm,0.019733,44.99,6
+18228d8b,Gaia-4413,Core,0.019625,44.74,209
+07115d02,Iota Persei,Perseus Arm,0.01811,41.29,210
+b536f6da,Nu Persei,Perseus Arm,0.018094,41.25,5
+eb43d799,HR 15636,Core,0.018048,41.15,6
+06b92a40,HIP 246403,Core,0.01805,41.15,209
+419c001a,Omega Sagittarii,Sagittarius Arm,0.018044,41.14,3
+dacd2e39,TESS-973,Sagittarius Arm,0.018038,41.13,210
+9b62ffa7,GDE-8822c,Sagittarius Arm,0.016417,37.43,6
+09f83e94,Upsilon Orionis,Orion Arm,0.016323,37.22,212
+807851ac,HIP 60248,Sagittarius Arm,0.016315,37.2,4
+a5aa5b1a,Nu Orionis,Orion Arm,0.016307,37.18,211
+97305fd9,Gliese 192.0,Cygnus Arm,0.016307,37.18,210
+3b241cd5,GDE-1776d,Perseus Arm,0.016303,37.17,4
+013e2852,Kepler-6776,Perseus Arm,0.016301,37.17,209
+df21000a,Mu Bulge,Core,0.016299,37.16,5
+446ad83e,Phi Persei,Perseus Arm,0.016229,37.0,208
+c6de0b3f,Phi Cygni,Cygnus Arm,0.016134,36.79,5
+50580b5b,HD 116898,Core,0.01608,36.66,6
+840d8b8f,HR 66132,Orion Arm,0.01606,36.62,211
+ec6edc6a,Delta Cygni,Cygnus Arm,0.014512,33.09,208
+d9468784,PSR 158408,Perseus Arm,0.014463,32.98,5
+eb590d95,HR 121153,Core,0.014453,32.95,209
+40a345dc,TESS-8035,Cygnus Arm,0.014441,32.93,4
+b7c960e0,Theta Orionis,Orion Arm,0.014405,32.84,212
+4b184660,Theta Orionis,Orion Arm,0.012722,29.01,5
+2b7c9993,Theta Sagittarii,Sagittarius Arm,0.01272,29.0,209
+eaefe5c4,Webb-7533,Perseus Arm,0.01271,28.98,6
+c5726c64,Epsilon Persei,Perseus Arm,0.012708,28.97,3
+7d9ab034,HIP 24677,Perseus Arm,0.012694,28.94,3
+b05778ee,TESS-5743b,Orion Arm,0.01269,28.93,208
+3353ef95,HR 189736,Cygnus Arm,0.012656,28.85,3
+b3175283,Kepler-4288,Cygnus Arm,0.012648,28.84,4
+16a611db,TESS-8572e,Perseus Arm,0.012648,28.84,2
+507fe63e,Gaia-2648c,Core,0.012568,28.65,209
+8d111666,GDE-2349e,Orion Arm,0.010931,24.92,2
+79de99a2,Alpha Sagittarii,Sagittarius Arm,0.010909,24.87,4
+cbb9628c,Kepler-5779,Cygnus Arm,0.010905,24.86,4
+c537bcd2,HIP 280577,Perseus Arm,0.010905,24.86,3
+ad3157c1,TESS-4687,Sagittarius Arm,0.010905,24.86,2
+3ebbd767,PSR 161837,Core,0.010905,24.86,207
+8405f8a2,Kepler-3139d,Core,0.010901,24.85,6
+6f116dc8,Gliese 325.0,Sagittarius Arm,0.010895,24.84,208
+0d0603a9,Kepler-3722,Sagittarius Arm,0.010889,24.83,208
+e2176638,Mu Persei,Perseus Arm,0.010889,24.83,210
+f2c5ccdb,Webb-1799,Core,0.010889,24.83,210
+a76c941f,PSR 104430,Perseus Arm,0.010883,24.81,210
+32aff2a0,HD 50077,Core,0.010877,24.8,209
+d69b07b4,Kepler-2873,Core,0.010859,24.76,5
+22c61624,Pi Sagittarii,Sagittarius Arm,0.010826,24.68,210
+be9a64f4,Webb-8019,Core,0.010718,24.44,209
+74d538e3,Gaia-1650,Cygnus Arm,0.010698,24.39,212
+9beac07b,Kepler-1509,Orion Arm,0.009153,20.87,3
+0f848144,Upsilon Orionis,Orion Arm,0.009105,20.76,5
+44ebb476,Theta Sagittarii,Sagittarius Arm,0.009105,20.76,6
+36f27f2f,Nu Orionis,Orion Arm,0.009099,20.75,5
+e24dc40c,GDE-6664,Sagittarius Arm,0.009095,20.74,210
+80d2e06b,Aurelia,Sagittarius Arm,0.009097,20.74,5
+41553110,Webb-8885,Core,0.009097,20.74,4
+7d161f8a,Theta Persei,Perseus Arm,0.009097,20.74,2
+e74ab968,Iapetus,Core,0.009097,20.74,3
+ade82d29,Theta Persei,Perseus Arm,0.009087,20.72,207
+de4cb43e,Chi Persei,Perseus Arm,0.009087,20.72,5
+4b7fc619,HD 225888,Cygnus Arm,0.009089,20.72,5
+d8fac1fb,Gaia-2093,Core,0.009085,20.71,210
+d16ba6d2,GDE-7141,Core,0.009085,20.71,4
+f664a17f,Kepler-4496,Core,0.009079,20.7,209
+838b4d92,HD 175486,Orion Arm,0.009071,20.68,4
+2deabc50,Webb-1466,Disk Background,0.009065,20.67,5
+d8576aaf,TESS-7800,Perseus Arm,0.009053,20.64,210
+8494b7b9,Gliese 159.0,Core,0.009017,20.56,208
+56170639,Chi Bulge,Core,0.008997,20.51,3
+478b3eaf,GDE-2341,Core,0.008985,20.49,210
+0b27d229,PSR 282502,Core,0.008971,20.45,5
+dbf53ab7,GDE-4866a,Sagittarius Arm,0.008955,20.42,209
+5efb46bf,HIP 259106,Sagittarius Arm,0.0073,16.64,6
+8676a083,Gaia-9760c,Perseus Arm,0.007292,16.63,208
+ebd6dd77,Webb-1448,Disk Background,0.007288,16.62,5
+208ea3f1,HIP 168169,Sagittarius Arm,0.00729,16.62,6
+2e29c6f2,Gliese 364.0,Perseus Arm,0.007286,16.61,3
+6f0bddf7,GDE-8440,Core,0.007284,16.61,5
+1dd7aaec,Alpha Bulge,Core,0.007286,16.61,208
+55523ac6,Gliese 245.0,Orion Arm,0.007286,16.61,4
+bfb6257c,HD 119869,Disk Background,0.007286,16.61,209
+936c287f,HR 168757,Perseus Arm,0.007286,16.61,4
+e02e84ef,Chi Sagittarii,Sagittarius Arm,0.007286,16.61,7
+89ce852a,GDE-4121,Cygnus Arm,0.007286,16.61,208
+870bffb3,TESS-5894,Sagittarius Arm,0.007286,16.61,208
+e85fd53e,Sigma Galacticis,Disk Background,0.00728,16.6,210
+ec97555c,HR 16611,Core,0.007276,16.59,4
+5b4b85d0,TESS-3963d,Cygnus Arm,0.007266,16.57,209
+6672463b,HD 275033,Perseus Arm,0.007266,16.57,209
+88137a6d,Tau Cygni,Cygnus Arm,0.00727,16.57,6
+c3277bff,PSR 62227,Cygnus Arm,0.007264,16.56,210
+1bb2c06e,Delta Bulge,Core,0.007264,16.56,209
+7ae00114,Delta Cygni,Cygnus Arm,0.007264,16.56,4
+9b5044d0,TESS-6387,Perseus Arm,0.007264,16.56,209
+650ae5a0,Chi Orionis,Orion Arm,0.007264,16.56,210
+909275b3,Aethelgard,Sagittarius Arm,0.00725,16.53,6
+4633ccff,Gliese 390.0,Core,0.00725,16.53,209
+6d95ee33,HR 175320,Core,0.00725,16.53,209
+8e9aba61,GDE-7578,Cygnus Arm,0.007246,16.52,4
+ecf07b9a,Epsilon Cygni,Cygnus Arm,0.00724,16.51,8
+41fc2dd4,Pi Bulge,Core,0.007242,16.51,3
+3ce6b4ed,Gaia-776,Core,0.007236,16.5,210
+1fa74e2c,Gaia-5704,Cygnus Arm,0.007234,16.49,4
+6c088403,Gliese 598.0,Core,0.007222,16.47,209
+facf30ab,HR 27482,Core,0.00721,16.44,208
+259a2489,Kepler-9181,Core,0.007186,16.38,4
+6979b6fd,HIP 271484,Cygnus Arm,0.005507,12.55,5
+250f91a5,Kepler-8189,Orion Arm,0.005476,12.49,5
+ab4c2378,HIP 93984,Disk Background,0.005476,12.49,7
+011cf1c0,HD 52137,Sagittarius Arm,0.005474,12.48,5
+01fb818c,HR 211002,Perseus Arm,0.005474,12.48,209
+b0254239,TESS-5589,Sagittarius Arm,0.005472,12.48,209
+4f448a53,GDE-8146,Cygnus Arm,0.005474,12.48,209
+2ee67c76,HD 173878,Sagittarius Arm,0.005472,12.48,212
+4fc4e1a5,Webb-784,Cygnus Arm,0.005472,12.48,4
+9429fae3,HR 152312,Disk Background,0.005468,12.47,7
+77180e42,TESS-3146,Perseus Arm,0.005468,12.47,211
+7b6cab6d,Atlas V,Perseus Arm,0.00547,12.47,3
+b0e306a7,Omega Persei,Perseus Arm,0.00547,12.47,4
+cb2ed0d3,Gaia-7887,Core,0.00547,12.47,208
+e00a227d,HD 59434,Sagittarius Arm,0.00547,12.47,208
+95d3383e,HD 65918,Cygnus Arm,0.00547,12.47,4
+136d39d5,Gliese 336.0,Orion Arm,0.00547,12.47,2
+3e505d60,Theia Prime,Core,0.00547,12.47,3
+65fe2b07,Tau Cygni,Cygnus Arm,0.00547,12.47,4
+a63bcdad,Gliese 446.0,Disk Background,0.00547,12.47,2
+44eed999,Mu Bulge,Core,0.005464,12.46,210
+5bfc0b9a,Tau Sagittarii,Sagittarius Arm,0.005466,12.46,4
+3eb58ed7,Prometheus,Cygnus Arm,0.005466,12.46,209
+3c4f9e5b,Tau Sagittarii,Sagittarius Arm,0.005462,12.45,209
+15780515,Psi Bulge,Core,0.005462,12.45,4
+255cdee9,Alpha Sagittarii,Sagittarius Arm,0.00546,12.45,5
+b83ff342,Gliese 214.0,Core,0.005456,12.44,4
+897d9f17,PSR 165223,Sagittarius Arm,0.005458,12.44,208
+02143620,HIP 286109,Cygnus Arm,0.005454,12.44,6
+453749f1,Upsilon Persei,Perseus Arm,0.005456,12.44,5
+569fbf22,HD 179598,Core,0.005458,12.44,210
+8589d2bc,Webb-6470,Cygnus Arm,0.005448,12.42,209
+db8fee6b,Aethelgard,Core,0.005442,12.41,211
+396949f1,Beta Orionis,Orion Arm,0.005442,12.41,8
+a8f2e669,HIP 262134,Sagittarius Arm,0.005432,12.39,207
+14401c4a,TESS-886,Core,0.005428,12.38,4
+69a0cbc9,TESS-945,Core,0.005428,12.38,209
+11bac5d2,HIP 286034,Disk Background,0.005424,12.37,209
+28fc036a,HIP 14841,Core,0.005404,12.32,210
+a866c35c,TESS-2121,Cygnus Arm,0.005386,12.28,208
+43c54e7c,Chi Sagittarii,Sagittarius Arm,0.005376,12.26,4
+6a955b65,Omega Bulge,Core,0.00536,12.22,4
+87c8e661,Gamma Cygni,Cygnus Arm,0.003699,8.43,4
+46e6691a,Epsilon Cygni,Cygnus Arm,0.003679,8.39,4
+0095d960,Gliese 503.0,Cygnus Arm,0.003669,8.37,4
+1451b4fa,Gaia-8593,Orion Arm,0.003663,8.35,6
+89d8c40b,Webb-9404,Cygnus Arm,0.003655,8.33,5
+08bcb72c,Webb-4162b,Core,0.003653,8.33,7
+caab8c4c,HIP 53021,Cygnus Arm,0.003653,8.33,209
+2d39dd9d,TESS-8623,Perseus Arm,0.003653,8.33,209
+b2056bd6,Xylar,Cygnus Arm,0.003651,8.32,3
+1ffcd021,Omicron Galacticis,Disk Background,0.003651,8.32,207
+0fe5f7e9,Gliese 622.0,Sagittarius Arm,0.003651,8.32,5
+5679a237,PSR 37798,Cygnus Arm,0.003649,8.32,6
+8121bb10,PSR 237443,Orion Arm,0.003651,8.32,5
+8cc8bea1,TESS-1547,Perseus Arm,0.003651,8.32,4
+00b07bcb,Pi Cygni,Cygnus Arm,0.003649,8.32,208
+e120d580,Gamma Galacticis,Disk Background,0.003651,8.32,207
+a9d80bfd,Lambda Cygni,Cygnus Arm,0.003651,8.32,6
+4d8147c6,Gaea,Perseus Arm,0.003651,8.32,3
+f7a8414d,Gliese 327.0,Cygnus Arm,0.003651,8.32,208
+2b4e30b7,Psi Persei,Perseus Arm,0.003649,8.32,209
+9a580c1f,Kepler-3303,Perseus Arm,0.003651,8.32,3
+e3438189,Tau Cygni,Cygnus Arm,0.003651,8.32,208
+2ec426da,Eta Galacticis,Disk Background,0.003651,8.32,207
+2e010e14,Gliese 663.0,Core,0.003649,8.32,208
+cb77346d,Eta Sagittarii,Sagittarius Arm,0.003651,8.32,209
+714fa661,Beta Persei,Perseus Arm,0.003651,8.32,209
+b7d66c4b,Webb-6252,Orion Arm,0.003649,8.32,5
+be184be6,HD 162586,Sagittarius Arm,0.003651,8.32,207
+c3f16776,Chi Sagittarii,Sagittarius Arm,0.003651,8.32,3
+87a212ea,Phi Persei,Perseus Arm,0.003651,8.32,4
+30d6b446,HIP 217358,Orion Arm,0.003651,8.32,2
+9ecfcf5e,Kepler-3223,Sagittarius Arm,0.003651,8.32,207
+f0857ddd,Rho Cygni,Cygnus Arm,0.003651,8.32,3
+f18906fa,Webb-5934d,Sagittarius Arm,0.003651,8.32,2
+61f5947e,HIP 76600,Perseus Arm,0.003651,8.32,207
+99ee6195,HD 236675,Core,0.003651,8.32,5
+8619c625,PSR 288352,Perseus Arm,0.003651,8.32,2
+b84e5edc,Gaia-1954,Sagittarius Arm,0.003645,8.31,210
+b2f8c1eb,Gliese 746.0,Disk Background,0.003645,8.31,5
+f5a12cb1,HR 208303,Orion Arm,0.003643,8.31,208
+e6225847,Kepler-6215,Sagittarius Arm,0.003643,8.31,208
+9652fc35,Alpha Persei,Perseus Arm,0.003645,8.31,5
+80977950,Xi Bulge,Core,0.003643,8.31,209
+d34f2273,PSR 43324,Orion Arm,0.003643,8.31,7
+1e8613e9,Omega Sagittarii,Sagittarius Arm,0.003645,8.31,210
+4a343f94,GDE-6154,Core,0.003647,8.31,4
+b8cb383f,HIP 217328,Perseus Arm,0.003645,8.31,208
+e8aa4c5b,Alpha Persei,Perseus Arm,0.003643,8.31,5
+9081a1f7,TESS-915,Cygnus Arm,0.003645,8.31,208
+4d9a3ec0,HD 14791,Core,0.003647,8.31,209
+bde8aa44,HIP 84442,Sagittarius Arm,0.003647,8.31,5
+ac0c30d2,Chi Cygni,Cygnus Arm,0.003647,8.31,3
+4524e1a1,Eta Orionis,Orion Arm,0.003647,8.31,6
+e41acc5f,GDE-8070,Sagittarius Arm,0.003647,8.31,4
+eaac8b8c,Xi Sagittarii,Sagittarius Arm,0.003647,8.31,5
+627bb054,Gaia-5114,Perseus Arm,0.003641,8.3,4
+7200a3bc,PSR 236293,Disk Background,0.003639,8.3,4
+9afa0793,Alpha Orionis,Orion Arm,0.003641,8.3,5
+aae5f615,Webb-7340,Sagittarius Arm,0.003639,8.3,208
+683712a6,Helios III,Core,0.003635,8.29,4
+ee503b26,Zeta Orionis,Orion Arm,0.003635,8.29,208
+93dff340,HD 212440,Cygnus Arm,0.003635,8.29,211
+61da630c,Sigma Bulge,Core,0.003637,8.29,210
+0597c038,HIP 118775,Core,0.003637,8.29,4
+22d967e2,Kepler-5018,Core,0.003635,8.29,4
+c8ddee9a,Chi Galacticis,Disk Background,0.003633,8.28,209
+43dff816,HD 191033,Core,0.003631,8.28,4
+f03f4852,GDE-409,Core,0.003631,8.28,4
+6c559cff,HR 120160,Cygnus Arm,0.003627,8.27,209
+237e461a,Webb-7477,Core,0.003629,8.27,6
+4b4ea6a3,TESS-2835,Core,0.003625,8.26,209
+42877080,GDE-1930,Cygnus Arm,0.003625,8.26,4
+17f2ba68,HR 12673,Core,0.003623,8.26,5
+bab9d62d,Webb-7499,Sagittarius Arm,0.003623,8.26,209
+a276d766,PSR 122076,Sagittarius Arm,0.003619,8.25,2
+72b45f97,Mu Galacticis,Disk Background,0.003615,8.24,4
+84b94638,HIP 128623,Core,0.003613,8.24,3
+16ea4658,Zeta Bulge,Core,0.003587,8.18,209
+42ab1d52,Gliese 770.0,Cygnus Arm,0.003587,8.18,8
+55c5fbe5,Nu Bulge,Core,0.003573,8.15,3
+aba25f48,Webb-803,Cygnus Arm,0.003573,8.15,5
+7d4687e1,HR 277606,Core,0.003571,8.14,6
+92a495bd,Iota Bulge,Core,0.003555,8.1,4
+471dfbf1,HD 217167,Disk Background,0.003555,8.1,5
+0d51013f,Epsilon Orionis,Orion Arm,0.003535,8.06,210
+103a7fb6,Pi Bulge,Core,0.00202,4.61,6
+213b5d5e,HIP 194972,Cygnus Arm,0.001964,4.48,5
+cf466493,HD 21539,Cygnus Arm,0.001924,4.39,5
+39b28939,Gaia-8051,Core,0.001904,4.34,2
+08d60348,Gaia-2577,Perseus Arm,0.001884,4.29,4
+48b73528,HIP 224857,Orion Arm,0.001876,4.28,6
+efc41c68,Upsilon Bulge,Core,0.001874,4.27,3
+300dd191,Webb-4462,Core,0.001874,4.27,4
+97f76f12,GDE-6872d,Core,0.001868,4.26,5
+32ceae76,Omega Cygni,Cygnus Arm,0.00186,4.24,4
+c138b771,Kappa Bulge,Core,0.001846,4.21,3
+fbb844dc,Omicron Bulge,Core,0.001848,4.21,5
+4b7c064b,TESS-2675,Orion Arm,0.001846,4.21,4
+ea34b446,Gaia-5120,Cygnus Arm,0.001842,4.2,6
+5d0296c5,GDE-1542,Core,0.001833,4.18,2
+c5fa3bd8,Delta Persei,Perseus Arm,0.001831,4.18,4
+8b7ab053,Theta Bulge,Core,0.001833,4.18,4
+f07e5907,Pi Bulge,Core,0.001831,4.18,3
+a58ff1f3,Rho Bulge,Core,0.001833,4.18,5
+009ceee0,Theta Cygni,Cygnus Arm,0.001836,4.18,4
+c693897f,Xi Bulge,Core,0.001836,4.18,4
+b7b3fe33,GDE-7293,Sagittarius Arm,0.001827,4.17,209
+59f5e50e,Gliese 247.0,Disk Background,0.001827,4.17,2
+e8a1b267,HR 220748,Perseus Arm,0.001827,4.17,208
+6c9a2d21,TESS-1874,Cygnus Arm,0.001827,4.17,2
+f37f6bfb,Selene,Cygnus Arm,0.001827,4.17,208
+d2721cee,Gaia-2908,Cygnus Arm,0.001827,4.17,3
+4ef3ab32,Gaia-7260,Core,0.001827,4.17,3
+eceb4647,Elysium,Perseus Arm,0.001827,4.17,208
+5435315e,Epsilon Persei,Perseus Arm,0.001827,4.17,207
+d36832b5,Gamma Cygni,Cygnus Arm,0.001827,4.17,208
+57b3f2a1,Sigma Cygni,Cygnus Arm,0.001827,4.17,210
+95b4b25d,Rhea III,Cygnus Arm,0.001827,4.17,3
+d87ca538,Eta Bulge,Core,0.001827,4.17,2
+d43ca547,Kepler-3610,Perseus Arm,0.001827,4.17,4
+07c2486a,Omicron Orionis,Orion Arm,0.001827,4.17,4
+c99588e1,PSR 283541,Core,0.001827,4.17,3
+881ab161,Webb-8175,Cygnus Arm,0.001827,4.17,4
+e01b5887,HD 218886,Disk Background,0.001827,4.17,2
+91772165,Gliese 717.0,Disk Background,0.001827,4.17,2
+f91f82e6,Webb-2933,Sagittarius Arm,0.001827,4.17,4
+b0a48b50,Gamma Persei,Perseus Arm,0.001827,4.17,207
+bce7d21d,HR 58037,Core,0.001827,4.17,208
+52ec7811,Gaia-5293,Sagittarius Arm,0.001827,4.17,2
+ab5f4c91,Upsilon Orionis,Orion Arm,0.001827,4.17,5
+4439552e,GDE-232,Cygnus Arm,0.001827,4.17,3
+acf540a2,GDE-1687,Core,0.001827,4.17,4
+6166b550,Gaia-1359a,Perseus Arm,0.001827,4.17,3
+d339bd61,Webb-5587a,Cygnus Arm,0.001827,4.17,207
+18834c8d,GDE-845,Orion Arm,0.001827,4.17,207
+04b2c790,Astraea Prime,Sagittarius Arm,0.001827,4.17,2
+c10fd0b3,Zeta Persei,Perseus Arm,0.001827,4.17,4
+ce33537e,HD 271550,Perseus Arm,0.001827,4.17,5
+52fb528a,Gliese 455.0,Core,0.001827,4.17,3
+b7608074,PSR 255191,Core,0.001827,4.17,2
+3144372a,Webb-5597c,Cygnus Arm,0.001827,4.17,4
+fc6e3f38,PSR 289778,Sagittarius Arm,0.001827,4.17,210
+ffd34728,Novis,Perseus Arm,0.001827,4.17,2
+179b8b59,Gliese 577.0,Core,0.001827,4.17,3
+0ba83e15,Gliese 257.0,Orion Arm,0.001827,4.17,210
+95070db4,Iota Sagittarii,Sagittarius Arm,0.001827,4.17,3
+c40db321,TESS-7735,Disk Background,0.001827,4.17,4
+ba32b3bf,HR 123535,Orion Arm,0.001827,4.17,209
+85d91d79,PSR 272701,Core,0.001827,4.17,207
+435d0b34,Gaia-4401,Orion Arm,0.001827,4.17,207
+42a4e578,Tau Sagittarii,Sagittarius Arm,0.001827,4.17,3
+659d98f7,PSR 295578,Sagittarius Arm,0.001827,4.17,4
+7d998a32,Omicron Galacticis,Disk Background,0.001827,4.17,2
+0d5fe863,HD 45183,Cygnus Arm,0.001827,4.17,3
+90131138,PSR 218196,Perseus Arm,0.001827,4.17,2
+41bf3fe6,GDE-5391,Cygnus Arm,0.001827,4.17,210
+03fd8207,TESS-5290,Perseus Arm,0.001827,4.17,2
+1e090922,GDE-4070,Cygnus Arm,0.001827,4.17,207
+5e2afd48,Novis,Core,0.001827,4.17,2
+656b03ff,Pi Cygni,Cygnus Arm,0.001827,4.17,3
+6cb48572,Gaia-4129b,Orion Arm,0.001827,4.17,2
+6d440304,Webb-1869,Cygnus Arm,0.001827,4.17,207
+ba33dd6b,TESS-8080,Sagittarius Arm,0.001827,4.17,207
+81be0011,Kepler-2600,Perseus Arm,0.001827,4.17,4
+d0061a5c,GDE-1312,Perseus Arm,0.001827,4.17,4
+822c2457,HD 197655,Orion Arm,0.001825,4.16,4
+071e610d,GDE-7399,Core,0.001823,4.16,208
+a9ae6991,HR 25385,Disk Background,0.001823,4.16,2
+1a5aea24,Gliese 561.0,Sagittarius Arm,0.001823,4.16,4
+5e6d8a25,Xi Cygni,Cygnus Arm,0.001823,4.16,5
+5214fee4,Webb-3991,Cygnus Arm,0.001823,4.16,207
+ab40c2be,Webb-9149d,Perseus Arm,0.001823,4.16,5
+a2c1a02e,Kepler-8079d,Cygnus Arm,0.001825,4.16,208
+453b5577,Theta Sagittarii,Sagittarius Arm,0.001823,4.16,3
+90e8097e,Gliese 196.0,Perseus Arm,0.001825,4.16,207
+da17f992,HIP 299647,Core,0.001823,4.16,3
+607fd3e2,TESS-1750,Cygnus Arm,0.001825,4.16,208
+25c7f883,GDE-7889,Perseus Arm,0.001825,4.16,210
+472fc1f1,Kepler-9147,Perseus Arm,0.001823,4.16,3
+991dd9ee,Nu Cygni,Cygnus Arm,0.001825,4.16,207
+04308117,HIP 89711,Cygnus Arm,0.001825,4.16,3
+6144e36c,Omicron Orionis,Orion Arm,0.001825,4.16,3
+017957c7,Gaia-3148,Sagittarius Arm,0.001823,4.16,208
+db74cbd4,Webb-6726b,Perseus Arm,0.001819,4.15,208
+d816e4a0,Gaia-7452,Sagittarius Arm,0.001821,4.15,4
+27f627fe,HR 232123,Orion Arm,0.001819,4.15,3
+6653749b,TESS-3822,Sagittarius Arm,0.001821,4.15,4
+e7cf4d3c,Epsilon Bulge,Core,0.001819,4.15,208
+8d8c08b2,TESS-8033,Core,0.001819,4.15,207
+2cea10f8,HIP 201480,Orion Arm,0.001819,4.15,208
+d2b9927f,Gliese 753.0,Sagittarius Arm,0.001821,4.15,4
+eba808b1,TESS-8476,Core,0.001819,4.15,4
+dcb9022b,HR 288411,Core,0.001821,4.15,4
+6f445231,PSR 141980,Cygnus Arm,0.001819,4.15,4
+4c130f6d,Kepler-5383,Sagittarius Arm,0.001821,4.15,208
+a1205430,Webb-7543,Perseus Arm,0.001819,4.15,4
+6b4348da,Kepler-2936,Disk Background,0.001821,4.15,207
+4d6b9e7d,Phi Bulge,Core,0.001819,4.15,3
+485b2de6,HIP 114085,Perseus Arm,0.001815,4.14,208
+bf8912d1,Webb-7458,Perseus Arm,0.001817,4.14,209
+97cabe85,Kepler-4055e,Core,0.001815,4.14,4
+1f6a7f33,PSR 230511,Core,0.001817,4.14,2
+0ac55275,Webb-9710,Sagittarius Arm,0.001817,4.14,3
+9be71bc0,HD 234522,Cygnus Arm,0.001811,4.13,3
+807c7f9a,Webb-4746d,Core,0.001813,4.13,209
+28f9f5ed,HR 76896,Cygnus Arm,0.001809,4.13,4
+f7cfa365,PSR 77573,Core,0.001813,4.13,3
+7fbfec95,Epsilon Bulge,Core,0.001811,4.13,4
+85611719,HR 248540,Orion Arm,0.001807,4.12,210
+fc1c6b53,HR 276499,Core,0.001807,4.12,2
+1d8d6567,Rho Persei,Perseus Arm,0.001805,4.12,207
+9341632f,Webb-5498,Cygnus Arm,0.001803,4.11,4
+5aa2bc65,GDE-8486,Sagittarius Arm,0.001797,4.1,3
+b633c223,HD 103783,Core,0.001797,4.1,6
+b3b883fb,HR 207223,Core,0.001789,4.08,4
+f5086a77,PSR 282660,Sagittarius Arm,0.001783,4.07,6
+c0f265f3,Kappa Cygni,Cygnus Arm,0.001779,4.06,5
+0fadbf92,GDE-7169,Sagittarius Arm,0.001775,4.05,6
+2b6f2de2,Zeta Cygni,Cygnus Arm,0.001771,4.04,209
+36883286,HR 51505,Sagittarius Arm,0.001769,4.03,209
+1b2f89c3,Novis,Disk Background,0.001763,4.02,3
+746bf383,TESS-2663d,Disk Background,0.001763,4.02,3
+e31a480e,Epsilon Cygni,Cygnus Arm,0.001763,4.02,5
+cd4e2500,TESS-1042,Sagittarius Arm,0.001755,4.0,3
+d3d826bd,TESS-2593d,Cygnus Arm,0.000277,0.63,4
+a578783b,Rho Bulge,Core,0.000217,0.49,7
+e1716de2,HD 292272,Cygnus Arm,0.000156,0.36,4
+4a028784,Gaia-3417a,Cygnus Arm,0.000146,0.33,5
+9a3d1d02,Omega Bulge,Core,8.4e-05,0.19,2
+e2d1f1e8,Gaia-6030,Sagittarius Arm,6.8e-05,0.16,4
+b6a1552d,Gliese 848.0,Disk Background,7.2e-05,0.16,2
+0ced0011,Gaia-3553,Cygnus Arm,6.6e-05,0.15,3
+d438f44d,Upsilon Sagittarii,Sagittarius Arm,6.2e-05,0.14,3
+d224a7f8,Xi Cygni,Cygnus Arm,6e-05,0.14,4
+249c260a,Xi Galacticis,Disk Background,5.8e-05,0.13,4
+0e11fed7,HD 163470,Orion Arm,4.6e-05,0.11,6
+ad82f4bb,Delta Galacticis,Disk Background,5e-05,0.11,3
+8e7872ca,Delta Bulge,Core,4.4e-05,0.1,3
+de6f933e,Pi Cygni,Cygnus Arm,4.2e-05,0.1,5
+19a713aa,TESS-778,Cygnus Arm,3.6e-05,0.08,3
+51cdd6f8,Alpha Bulge,Core,3.2e-05,0.07,4
+4928468b,PSR 38803,Cygnus Arm,2.8e-05,0.06,4
+2b176def,Gamma Orionis,Orion Arm,2.6e-05,0.06,4
+a6e30c3a,HR 18177,Orion Arm,2.8e-05,0.06,3
+f3143f78,Kepler-9584,Core,2.6e-05,0.06,4
+f7fc01b9,Webb-9994,Core,2.6e-05,0.06,3
+28d28df2,TESS-8790,Cygnus Arm,2e-05,0.05,6
+002e0283,TESS-9089,Sagittarius Arm,2e-05,0.05,4
+57c88089,TESS-3856,Core,2e-05,0.05,4
+7845146e,Gaia-5646,Orion Arm,1.6e-05,0.04,4
+f9805be0,Webb-7933,Perseus Arm,1.6e-05,0.04,3
+0103b4da,Alpha Galacticis,Disk Background,1.8e-05,0.04,5
+1e6e8dbb,HIP 144042,Cygnus Arm,1.6e-05,0.04,4
+30f60854,GDE-2110,Perseus Arm,1.6e-05,0.04,2
+be3a7b58,TESS-3635,Core,1.6e-05,0.04,3
+e2190799,HD 146692,Core,1.6e-05,0.04,4
+042ce967,HIP 218139,Core,1.2e-05,0.03,3
+f8c6eeef,HR 202512,Orion Arm,1.2e-05,0.03,4
+2b588cf5,Mu Bulge,Core,1.2e-05,0.03,5
+e90ac907,Chi Bulge,Core,1.2e-05,0.03,5
+2f705062,TESS-1066a,Core,1.4e-05,0.03,3
+7356be09,HIP 91588,Cygnus Arm,1.2e-05,0.03,2
+5a6feec9,Zeta Galacticis,Disk Background,1.2e-05,0.03,5
+d2fe295c,Gliese 520.0,Core,1.2e-05,0.03,4
+e01906e3,Lambda Bulge,Core,1.4e-05,0.03,3
+4c8ab099,Beta Bulge,Core,1.2e-05,0.03,3
+25ca2697,Phi Galacticis,Disk Background,1e-05,0.02,3
+f3ea4fd4,Cronus,Perseus Arm,1e-05,0.02,4
+14b2600f,Webb-9145,Core,1e-05,0.02,3
+10fef2f7,Epsilon Orionis,Orion Arm,8e-06,0.02,5
+4d5639e8,Gliese 876.0,Core,8e-06,0.02,3
+7bffbd1a,Gaia-9163,Core,8e-06,0.02,5
+ca42f12c,Gliese 326.0,Cygnus Arm,8e-06,0.02,5
+114225de,GDE-4643,Core,1e-05,0.02,3
+c7017b6e,GDE-2207b,Sagittarius Arm,1e-05,0.02,5
+2f87947a,PSR 266392,Cygnus Arm,1e-05,0.02,4
+19aac56b,HIP 228220,Sagittarius Arm,1e-05,0.02,4
+8c2f26da,Webb-971,Core,8e-06,0.02,4
+5a9ad0d4,Gaia-271,Sagittarius Arm,1e-05,0.02,3
+c95f4364,Psi Bulge,Core,1e-05,0.02,2
+f436e82c,Beta Orionis,Orion Arm,1e-05,0.02,6
+8505d132,HR 97954,Perseus Arm,4e-06,0.01,2
+5329a15a,HIP 252277,Sagittarius Arm,4e-06,0.01,5
+92ad9b56,Nu Orionis,Orion Arm,6e-06,0.01,7
+6d433985,PSR 25029,Perseus Arm,6e-06,0.01,5
+eefc5767,PSR 224304,Perseus Arm,4e-06,0.01,4
+7f51e176,HR 275025,Core,6e-06,0.01,4
+dcc771d9,Zeta Bulge,Core,6e-06,0.01,5
+9f05fe7b,Gliese 444.0,Sagittarius Arm,4e-06,0.01,5
+8a275897,GDE-3818,Perseus Arm,4e-06,0.01,4
+d819aef8,Webb-8501,Perseus Arm,4e-06,0.01,5
+c1877943,Kepler-3908,Cygnus Arm,4e-06,0.01,5
+e2b444b8,Rho Cygni,Cygnus Arm,4e-06,0.01,7
+8c6c8901,HR 249292,Core,6e-06,0.01,4
+fc890aa7,HR 17032,Sagittarius Arm,4e-06,0.01,6
+b4d131d9,Gamma Sagittarii,Sagittarius Arm,4e-06,0.01,3
+362c4daa,PSR 150721,Sagittarius Arm,4e-06,0.01,4
+8ce2a06e,Gaia-3981b,Core,6e-06,0.01,4
+c4d0dd0c,GDE-1903,Orion Arm,6e-06,0.01,4
+84767f1c,HR 233059,Sagittarius Arm,4e-06,0.01,5
+ec2b6c68,Gliese 357.0,Core,4e-06,0.01,3
+abd87d06,TESS-8562,Sagittarius Arm,4e-06,0.01,3
+549a4949,Eta Sagittarii,Sagittarius Arm,4e-06,0.01,5
+1212d714,HIP 280040,Core,0.0,0.0,3
+26815867,Gaia-8662,Orion Arm,0.0,0.0,6
+8f82d3b5,Kepler-9979b,Sagittarius Arm,0.0,0.0,3
+f69b317e,HD 131673,Orion Arm,0.0,0.0,0
+a20cdf05,PSR 64400,Core,0.0,0.0,206
+1bf94b9c,Iota Galacticis,Disk Background,0.0,0.0,4
+850c3810,Lambda Bulge,Core,0.0,0.0,2
+1fd4797d,HD 82516,Disk Background,0.0,0.0,0
+2a478f10,Gaia-1477,Core,0.0,0.0,4
+d5ba3da8,Kepler-3298,Disk Background,0.0,0.0,0
+29debf93,Kepler-1900,Perseus Arm,0.0,0.0,0
+3345c976,HR 213196,Core,0.0,0.0,1
+786ed7da,TESS-5154,Core,2e-06,0.0,3
+bc8b8122,Eta Bulge,Core,0.0,0.0,3
+6473ca1f,Gliese 912.0,Core,0.0,0.0,1
+1da6419e,Gliese 195.0,Perseus Arm,0.0,0.0,3
+2f81b056,Gaia-6318b,Perseus Arm,0.0,0.0,2
+65140e7f,Kappa Cygni,Cygnus Arm,0.0,0.0,3
+c2048382,Phi Sagittarii,Sagittarius Arm,2e-06,0.0,3
+90b67f0c,Gliese 147.0,Orion Arm,0.0,0.0,4
+81ec4b80,Webb-4358,Core,0.0,0.0,3
+0b5f3c94,Gamma Orionis,Orion Arm,0.0,0.0,207
+ec3d7b27,Gliese 630.0,Disk Background,0.0,0.0,1
+9e91243e,HIP 221977,Sagittarius Arm,0.0,0.0,2
+80efa36c,Sigma Persei,Perseus Arm,0.0,0.0,3
+368a8d7b,Webb-9180d,Sagittarius Arm,0.0,0.0,207
+d7d8cf00,HD 224764,Orion Arm,2e-06,0.0,9
+cb10b9d5,Webb-639,Disk Background,0.0,0.0,4
+4957ccf6,Uranus,Sagittarius Arm,0.0,0.0,2
+406368a5,Rhea,Perseus Arm,2e-06,0.0,3
+a868061e,HR 263317,Perseus Arm,0.0,0.0,2
+6eed1243,GDE-592a,Perseus Arm,0.0,0.0,3
+e9cf5c2b,GDE-4109,Disk Background,0.0,0.0,1
+d45ea293,Upsilon Persei,Perseus Arm,0.0,0.0,206
+04b4a59c,Gaia-2971,Sagittarius Arm,0.0,0.0,206
+f3d3a853,HR 71844,Core,0.0,0.0,0
+72d08d61,Pi Galacticis,Disk Background,0.0,0.0,0
+ce948281,HR 287667,Sagittarius Arm,0.0,0.0,2
+9b029d06,GDE-378,Core,0.0,0.0,206
+164ae00a,Eta Persei,Perseus Arm,0.0,0.0,3
+8ecaeab8,HR 274852,Disk Background,0.0,0.0,0
+acc9a13b,HIP 43276,Cygnus Arm,0.0,0.0,3
+c41d7cc7,Nu Bulge,Core,0.0,0.0,3
+114cacd4,HR 194384,Disk Background,0.0,0.0,0
+fa5ddb9a,Solaria,Core,0.0,0.0,0
+30b8f337,Kepler-5387a,Disk Background,0.0,0.0,2
+0f3b2aa7,Mu Cygni,Cygnus Arm,0.0,0.0,3
+5e8cf4c1,Alpha Cygni,Cygnus Arm,0.0,0.0,0
+b2426014,GDE-6532,Core,0.0,0.0,2
+07d00cb9,Webb-4955,Core,0.0,0.0,1
+6071d019,GDE-9633,Core,0.0,0.0,4
+c2e8b8f3,Gaia-6341,Core,0.0,0.0,2
+e78ba692,Zeta Galacticis,Disk Background,0.0,0.0,206
+1f6c64eb,HR 133030,Disk Background,0.0,0.0,0
+59b14a3c,TESS-4001,Disk Background,2e-06,0.0,4
+3fab5cd5,HR 153927,Perseus Arm,0.0,0.0,2
+3283abe6,HIP 91257,Orion Arm,0.0,0.0,1
+c3421be7,HD 233861,Core,0.0,0.0,4
+4b0f0d92,Gliese 139.0,Core,0.0,0.0,4
+85b3973d,Gliese 414.0,Orion Arm,0.0,0.0,3
+f8059c64,Zeta Sagittarii,Sagittarius Arm,0.0,0.0,0
+bd331a31,TESS-2991,Cygnus Arm,0.0,0.0,3
+4c43d31b,Mu Bulge,Core,0.0,0.0,3
+b47ab25f,HD 122701,Perseus Arm,0.0,0.0,1
+e67b1191,HIP 191429,Sagittarius Arm,0.0,0.0,208
+214ff5b3,Gliese 442.0,Core,0.0,0.0,3
+e58f6e9b,GDE-2358,Sagittarius Arm,0.0,0.0,4
+11ec1457,Webb-5880,Core,0.0,0.0,0
+af669957,GDE-7186,Cygnus Arm,0.0,0.0,4
+ee22c265,Lambda Cygni,Cygnus Arm,0.0,0.0,3
+62f142e4,Gliese 519.0,Cygnus Arm,0.0,0.0,2
+203928c6,Sigma Orionis,Orion Arm,0.0,0.0,209
+9396027d,PSR 246500,Sagittarius Arm,0.0,0.0,4
+533617b2,Kepler-2635a,Sagittarius Arm,0.0,0.0,1
+d0a60299,Kepler-9521,Orion Arm,0.0,0.0,3
+2f9d083e,Theia II,Sagittarius Arm,0.0,0.0,1
+e2d01aea,Webb-3229,Orion Arm,0.0,0.0,1
+61bec44a,HR 92806,Sagittarius Arm,0.0,0.0,5
+f27cc45d,HD 195272,Cygnus Arm,0.0,0.0,2
+85aca559,GDE-6420,Orion Arm,0.0,0.0,4
+1756e17a,Kepler-2061,Orion Arm,0.0,0.0,2
+26fb9c4d,TESS-5798,Core,0.0,0.0,209
+b03c9a63,Alpha Persei,Perseus Arm,0.0,0.0,3
+59307c85,Kepler-7447c,Core,0.0,0.0,207
+9a8edaf5,Nu Bulge,Core,0.0,0.0,2
+c973d2e2,Webb-1115,Perseus Arm,0.0,0.0,1
+2b7fa0d2,Tau Galacticis,Disk Background,0.0,0.0,207
+6bbf77b5,Webb-7123,Cygnus Arm,0.0,0.0,3
+b2688685,Gliese 758.0,Perseus Arm,0.0,0.0,4
+ef2ea28a,Sigma Cygni,Cygnus Arm,0.0,0.0,2
+160fb3bb,Iota Sagittarii,Sagittarius Arm,0.0,0.0,207
+1f5f96df,TESS-1112,Perseus Arm,0.0,0.0,2
+239e9f6e,Gaia-116,Disk Background,0.0,0.0,0
+3d29e56b,Gaia-4813,Disk Background,0.0,0.0,0
+dd6fd373,Chi Bulge,Core,0.0,0.0,1
+0b94ec1a,Webb-387,Sagittarius Arm,0.0,0.0,3
+7c2a7994,Webb-1026,Core,0.0,0.0,1
+7c2d6a19,Pi Cygni,Cygnus Arm,0.0,0.0,4
+9f4a1c32,TESS-2769b,Disk Background,0.0,0.0,1
+0830cbed,Kepler-7797,Disk Background,0.0,0.0,206
+01dda016,Tenebris,Sagittarius Arm,0.0,0.0,1
+812a30fe,PSR 43377,Core,0.0,0.0,1
+d7f3d497,Theta Bulge,Core,0.0,0.0,206
+5d2da97a,Omicron Bulge,Core,0.0,0.0,3
+6c4e4824,GDE-7593,Perseus Arm,0.0,0.0,2
+79ec7930,Lambda Cygni,Cygnus Arm,0.0,0.0,1
+f92fc03e,Psi Sagittarii,Sagittarius Arm,0.0,0.0,208
+c1c7e2ce,HIP 217370,Perseus Arm,0.0,0.0,2
+8524e506,Elysium II,Cygnus Arm,0.0,0.0,2
+00df01a2,HR 38926,Sagittarius Arm,0.0,0.0,3
+c5f5030b,Webb-8028,Core,0.0,0.0,3
+a4ac28df,Chi Bulge,Core,0.0,0.0,2
+e7d83957,Alpha Sagittarii,Sagittarius Arm,0.0,0.0,4
+05438d53,Zeta Sagittarii,Sagittarius Arm,0.0,0.0,4
+000fc54a,Gaia-2495,Disk Background,0.0,0.0,1
+5a546022,Gliese 904.0,Core,0.0,0.0,0
+c2b6beeb,HD 177896,Disk Background,0.0,0.0,2
+998e9b84,HR 222792,Core,0.0,0.0,3
+de38b088,Gaia-2698,Orion Arm,0.0,0.0,2
+5d295f95,Rho Cygni,Cygnus Arm,0.0,0.0,206
+5c65e9ff,HIP 177516,Disk Background,0.0,0.0,3
+9c236564,Novis III,Core,0.0,0.0,2
+73ebb462,Webb-1274,Orion Arm,0.0,0.0,3
+770abe37,Gaia-3033,Sagittarius Arm,0.0,0.0,2
+311927b0,Gamma Sagittarii,Sagittarius Arm,0.0,0.0,207
+fbb17682,HIP 272048,Core,2e-06,0.0,3
+ca20c5d6,Gliese 372.0,Disk Background,0.0,0.0,0
+2e27cac0,Omicron Cygni,Cygnus Arm,0.0,0.0,4
+35d04528,HIP 269021,Cygnus Arm,0.0,0.0,0
+4d0a7980,Beta Sagittarii,Sagittarius Arm,0.0,0.0,1
+18b7e715,HD 277727,Perseus Arm,0.0,0.0,3
+ea707b16,TESS-2841,Core,0.0,0.0,3
+33b9b258,HIP 288720,Cygnus Arm,0.0,0.0,207
+a7851a37,Webb-3705,Cygnus Arm,0.0,0.0,206
+9c76de8d,HIP 275039,Sagittarius Arm,0.0,0.0,4
+83f02fd1,Gliese 2.0,Perseus Arm,0.0,0.0,206
+5759e30c,Webb-3325,Core,0.0,0.0,0
+15a7f31f,HD 93123,Perseus Arm,0.0,0.0,1
+5caca8b8,Mu Cygni,Cygnus Arm,0.0,0.0,3
+b6e83c30,HD 25896,Cygnus Arm,0.0,0.0,4
+1334250b,HR 213675,Core,0.0,0.0,2
+8ae1a0f7,PSR 267831,Cygnus Arm,0.0,0.0,3
+a752370d,Mu Cygni,Cygnus Arm,0.0,0.0,3
+02cc6626,Webb-6766,Sagittarius Arm,0.0,0.0,3
+cfeb39ad,Mu Bulge,Core,0.0,0.0,0
+08c6dfdb,Tau Sagittarii,Sagittarius Arm,0.0,0.0,5
+08983574,Webb-9059,Sagittarius Arm,0.0,0.0,207
+68661557,PSR 246824,Core,0.0,0.0,1
+c3700890,Sigma Bulge,Core,0.0,0.0,0
+e6a8e6a5,TESS-8202d,Cygnus Arm,0.0,0.0,3
+45ce99fd,Kepler-6671c,Orion Arm,0.0,0.0,2
+369e452f,Omega Orionis,Orion Arm,0.0,0.0,3
+5c2535b3,TESS-6338,Core,2e-06,0.0,2
+a333a525,Sigma Orionis,Orion Arm,0.0,0.0,3
+7dce77da,Webb-6199,Cygnus Arm,0.0,0.0,207
+56f3a3b6,Delta Orionis,Orion Arm,0.0,0.0,208
+e9b7af78,Upsilon Cygni,Cygnus Arm,0.0,0.0,3
+ab37e057,Tau Sagittarii,Sagittarius Arm,0.0,0.0,2
+8f8174ae,HIP 55641,Core,2e-06,0.0,5
+38fde882,Gliese 503.0,Core,0.0,0.0,1
+77b2233b,Omega Persei,Perseus Arm,0.0,0.0,3
+775c658a,HD 61024,Core,0.0,0.0,4
+44231028,HR 15666,Sagittarius Arm,0.0,0.0,1
+103f991a,Lambda Cygni,Cygnus Arm,0.0,0.0,1
+3126c7ad,Psi Cygni,Cygnus Arm,0.0,0.0,1
+fff60de8,Gliese 837.0,Disk Background,0.0,0.0,3
+e0db1f3f,Gaia-6340,Core,0.0,0.0,0
+0a119398,Gliese 486.0,Sagittarius Arm,0.0,0.0,1
+dc19cee1,Kappa Bulge,Core,0.0,0.0,3
+023024ca,PSR 156692,Perseus Arm,0.0,0.0,206
+34bc9ab9,Zeta Cygni,Cygnus Arm,0.0,0.0,2
+dc600992,TESS-9709,Orion Arm,0.0,0.0,210
+613f5597,Phi Persei,Perseus Arm,0.0,0.0,5
+e93cced9,Kepler-7006,Perseus Arm,0.0,0.0,4
+1ed10005,HD 253466,Disk Background,0.0,0.0,0
+59e56112,Chi Cygni,Cygnus Arm,0.0,0.0,4
+5371fcd4,GDE-7733,Perseus Arm,0.0,0.0,206
+7890837c,GDE-640,Cygnus Arm,0.0,0.0,1
+7990111d,Iota Orionis,Orion Arm,0.0,0.0,3
+7c15adf4,HR 156115,Perseus Arm,0.0,0.0,1
+da943616,Kappa Persei,Perseus Arm,0.0,0.0,4
+a1a777f9,Kepler-1264,Cygnus Arm,0.0,0.0,2
+44bbae6a,Nu Galacticis,Disk Background,0.0,0.0,0
+7844b55a,Gliese 383.0,Core,2e-06,0.0,4
+2c6bfa9e,HIP 140864,Cygnus Arm,0.0,0.0,1
+8bbb3a73,Atlas Prime,Cygnus Arm,0.0,0.0,4
+2114b124,TESS-7967,Sagittarius Arm,0.0,0.0,0
+afb836f1,HIP 75641,Disk Background,0.0,0.0,0
+f01824dd,Upsilon Galacticis,Disk Background,0.0,0.0,0
+94da746d,Gaia-7710,Core,0.0,0.0,3
+7cf8fac2,HD 91199,Core,0.0,0.0,3
+811709f6,PSR 209294,Orion Arm,2e-06,0.0,4
+9c6e9026,Phi Persei,Perseus Arm,0.0,0.0,1
+90bc1479,Gaia-4968,Perseus Arm,0.0,0.0,0
+6ce89aae,HR 13543,Cygnus Arm,0.0,0.0,3
+dc65b160,TESS-1650,Perseus Arm,0.0,0.0,5
+3630a31c,HIP 161611,Disk Background,0.0,0.0,3
+9ef225c5,Psi Persei,Perseus Arm,0.0,0.0,2
+74faa1ba,Gliese 400.0,Perseus Arm,0.0,0.0,0
+e1d71e82,Kepler-8206,Sagittarius Arm,0.0,0.0,0
+8df9f477,Gliese 922.0,Core,0.0,0.0,1
+9fc7ed10,Astraea,Cygnus Arm,0.0,0.0,1
+c300631a,Gliese 396.0,Orion Arm,0.0,0.0,3
+1340ed09,Selene Prime,Perseus Arm,0.0,0.0,3
+53281e80,HIP 298883,Cygnus Arm,2e-06,0.0,5
+6856e7d8,Iota Sagittarii,Sagittarius Arm,0.0,0.0,4
+0a04a69f,TESS-837,Cygnus Arm,0.0,0.0,4
+3803da09,Xylar,Cygnus Arm,0.0,0.0,4
+8fdc40ab,HR 261084,Orion Arm,0.0,0.0,3
+1b0f3131,Kepler-164b,Core,0.0,0.0,1
+6dbea2e3,PSR 177462,Core,0.0,0.0,1
+7767fc3d,Webb-1154,Disk Background,0.0,0.0,0
+7fcb4210,Gliese 376.0,Cygnus Arm,0.0,0.0,1
+824af0f3,GDE-4698,Disk Background,0.0,0.0,0
+0c60f83d,Beta Bulge,Core,0.0,0.0,207
+e80c473b,Gliese 394.0,Disk Background,0.0,0.0,1
+bc6adea4,HIP 262773,Disk Background,0.0,0.0,0
+83dbec5f,GDE-4747,Core,0.0,0.0,0
+d569811c,Kepler-977,Disk Background,0.0,0.0,0
+bc454e95,HR 279209,Sagittarius Arm,2e-06,0.0,5
+c2ed2f91,PSR 203691,Sagittarius Arm,0.0,0.0,1
+a439a8b7,Gaia-9421,Disk Background,0.0,0.0,1
+e5cc1727,Lambda Sagittarii,Sagittarius Arm,2e-06,0.0,4
+c965e50b,Delta Orionis,Orion Arm,0.0,0.0,3
+d15c6065,PSR 164030,Orion Arm,0.0,0.0,3
+5ae497f6,TESS-3301,Disk Background,0.0,0.0,3
+e5779426,HR 13196,Cygnus Arm,0.0,0.0,3
+3401baf3,Kepler-2096c,Cygnus Arm,0.0,0.0,3
+6c359789,Iota Cygni,Cygnus Arm,2e-06,0.0,2
+2f2aea5a,TESS-9863d,Core,0.0,0.0,0
+de056509,Pi Sagittarii,Sagittarius Arm,0.0,0.0,2
+51932a4c,HR 104924,Sagittarius Arm,0.0,0.0,206
+da0c926c,Chi Bulge,Core,0.0,0.0,3
+6153e43f,GDE-683,Sagittarius Arm,0.0,0.0,3
+528eaf0f,Gliese 128.0,Core,0.0,0.0,3
+89ab3f2b,Nu Sagittarii,Sagittarius Arm,2e-06,0.0,5
+b0c841e9,Chi Galacticis,Disk Background,0.0,0.0,5
+08df73d5,Psi Bulge,Core,2e-06,0.0,3
+1a608855,Gaia-7948,Disk Background,0.0,0.0,0
+1b6f34f6,PSR 206701,Orion Arm,0.0,0.0,3
+9423c858,Tau Sagittarii,Sagittarius Arm,0.0,0.0,1
+0a3b2b7f,HIP 189000,Perseus Arm,0.0,0.0,2
+aec5a9b6,HIP 201848,Perseus Arm,0.0,0.0,4
+e14f10eb,Omicron Sagittarii,Sagittarius Arm,0.0,0.0,1
+459d033d,Crius II,Orion Arm,0.0,0.0,2
+edf442d0,Kepler-8615,Core,0.0,0.0,0
+1c505977,Webb-110,Cygnus Arm,0.0,0.0,3
+c5cfc443,Gaia-4637a,Perseus Arm,0.0,0.0,1
+41428f8e,HR 75888,Sagittarius Arm,0.0,0.0,2
+11b154dc,GDE-1979,Perseus Arm,0.0,0.0,1
+93fea8a9,Kepler-3260,Perseus Arm,0.0,0.0,4
+0eca2aee,Webb-7507,Core,0.0,0.0,1
+2d7e6af6,Kepler-3340,Core,0.0,0.0,3
+8058461a,Alpha Cygni,Cygnus Arm,0.0,0.0,2
+f2597e5a,Sigma Cygni,Cygnus Arm,0.0,0.0,4
+a3ac89d4,HD 44743,Orion Arm,0.0,0.0,3
+495a21e5,Rho Cygni,Cygnus Arm,0.0,0.0,1
+2f093a98,Gliese 12.0,Core,0.0,0.0,4
+92bef70f,Iapetus I,Perseus Arm,0.0,0.0,3
+e0463fc1,Gliese 795.0,Perseus Arm,0.0,0.0,0
+a7e76322,HIP 121095,Perseus Arm,0.0,0.0,206
+8c1efd11,HIP 48314,Cygnus Arm,0.0,0.0,3
+06f2c559,HIP 143692,Cygnus Arm,0.0,0.0,2
+5266e924,Zeta Cygni,Cygnus Arm,0.0,0.0,1
+52cfb55b,Gaia-4411a,Sagittarius Arm,0.0,0.0,3
+f8aa3b9b,Kappa Sagittarii,Sagittarius Arm,0.0,0.0,2
+ce745aad,Hyperion,Disk Background,0.0,0.0,4
+5c3e99c3,Epsilon Bulge,Core,0.0,0.0,1
+2fb112b0,Pi Cygni,Cygnus Arm,0.0,0.0,4
+7ce49ce6,HR 233687,Disk Background,0.0,0.0,207
+24264d13,Alpha Bulge,Core,0.0,0.0,0
+dd154d4c,Mu Galacticis,Disk Background,0.0,0.0,0
+676f5054,Gliese 417.0,Core,0.0,0.0,1
+1bf4f727,Theta Persei,Perseus Arm,0.0,0.0,3
+fd93db79,PSR 92016,Perseus Arm,0.0,0.0,4
+0e934d76,Zeta Orionis,Orion Arm,0.0,0.0,4
+3bc416d8,Gaia-4083,Perseus Arm,0.0,0.0,1
+78a24a27,HR 251876,Perseus Arm,0.0,0.0,2
+260b715e,HR 113021,Core,0.0,0.0,4
+4c7a1f48,HR 133980,Cygnus Arm,0.0,0.0,4
+7baf5e79,Atlas,Sagittarius Arm,0.0,0.0,3
+f37c4c87,Omega Cygni,Cygnus Arm,0.0,0.0,5
+03d2cd68,HD 36797,Perseus Arm,0.0,0.0,3
+8f3f2cb2,Psi Galacticis,Disk Background,0.0,0.0,0
+eb2bf448,Iota Cygni,Cygnus Arm,0.0,0.0,3
+cf36ea6e,PSR 190378,Core,0.0,0.0,1
+412f4e1e,GDE-2414,Cygnus Arm,0.0,0.0,3
+1b9398cf,Gaia-3315e,Cygnus Arm,0.0,0.0,3
+a313cafe,Pi Orionis,Orion Arm,0.0,0.0,4
+e2a7b982,Sigma Orionis,Orion Arm,0.0,0.0,2
+1a748be6,Rhea,Core,0.0,0.0,0
+af72cbde,Gliese 146.0,Core,0.0,0.0,6
+f2adc5f9,PSR 133182,Perseus Arm,0.0,0.0,206
+2cd6a4ec,Kepler-6639,Orion Arm,2e-06,0.0,3
+8f5fc322,Upsilon Galacticis,Disk Background,0.0,0.0,1
+59d5887c,TESS-4108a,Perseus Arm,0.0,0.0,3
+46f9a2b3,PSR 190701,Core,0.0,0.0,1
+34057b0d,Tau Sagittarii,Sagittarius Arm,0.0,0.0,208
+4e1371de,Beta Persei,Perseus Arm,0.0,0.0,4
+d487d983,Webb-8352,Core,0.0,0.0,3
+53d33b8f,HR 145486,Cygnus Arm,0.0,0.0,2
+650df9b0,Gaia-4127,Core,0.0,0.0,1
+179210d9,Webb-870e,Sagittarius Arm,0.0,0.0,3
+041365c9,HD 32462,Core,0.0,0.0,3
+2ec42605,HR 285455,Core,0.0,0.0,4
+563f29de,HR 238208,Cygnus Arm,0.0,0.0,3
+e773d95b,HIP 178217,Cygnus Arm,0.0,0.0,0
+06362388,HR 30951,Core,0.0,0.0,1
+a71fac37,HD 35905,Perseus Arm,0.0,0.0,3
+ed516e04,TESS-1288,Cygnus Arm,2e-06,0.0,4
+7bf191e3,HR 235692,Cygnus Arm,0.0,0.0,2
+6b142b99,Kappa Galacticis,Disk Background,0.0,0.0,4
+415f2890,PSR 128171,Perseus Arm,0.0,0.0,3
+41cbbfa3,HIP 234589,Perseus Arm,0.0,0.0,4
+bae7ca59,Eta Sagittarii,Sagittarius Arm,0.0,0.0,206
+86262b1a,Gliese 122.0,Core,0.0,0.0,3
+0e73a21b,HR 169156,Sagittarius Arm,0.0,0.0,3
+8be48539,Kepler-5692,Core,0.0,0.0,3
+9910f472,Nu Orionis,Orion Arm,0.0,0.0,3
+8d177043,Chi Bulge,Core,0.0,0.0,0
+465500fc,HR 80825,Perseus Arm,0.0,0.0,2
+25708018,HR 229700,Core,0.0,0.0,1
+3ff7f130,Delta Bulge,Core,0.0,0.0,4
+4c4652cc,Sigma Bulge,Core,0.0,0.0,1
+492d6550,GDE-123,Cygnus Arm,0.0,0.0,3
+17cbbbf1,Kappa Sagittarii,Sagittarius Arm,0.0,0.0,3
+637b83e4,GDE-9207,Perseus Arm,0.0,0.0,1
+6cbee71d,Omicron Sagittarii,Sagittarius Arm,0.0,0.0,1
+f2341c1a,TESS-6818,Disk Background,0.0,0.0,2
+b5119dc5,Sigma Cygni,Cygnus Arm,0.0,0.0,2
+998ab19a,Gliese 614.0,Sagittarius Arm,0.0,0.0,4
+34dc3f3b,Gaia-1517,Disk Background,0.0,0.0,1
+ac0752c9,Kepler-8389,Core,0.0,0.0,1
+bc8c7e21,Gliese 264.0,Core,0.0,0.0,4
+0ec7669a,Gliese 424.0,Cygnus Arm,0.0,0.0,1
+d35f9ca4,Oceanus,Sagittarius Arm,0.0,0.0,5
+375808e6,Zeta Galacticis,Disk Background,0.0,0.0,0
+6a4877b4,Webb-224,Cygnus Arm,0.0,0.0,3
+6b36fdc7,Xi Cygni,Cygnus Arm,0.0,0.0,2
+e254a5dd,Rho Bulge,Core,0.0,0.0,3
+9c68fb17,Omega Orionis,Orion Arm,2e-06,0.0,5
+aa55e7dd,Zeta Persei,Perseus Arm,0.0,0.0,3
+27b516dd,Webb-9895e,Perseus Arm,0.0,0.0,2
+ba7f60fd,Iota Bulge,Core,0.0,0.0,6
+7034be00,Chi Galacticis,Disk Background,0.0,0.0,0
+2c60a1de,HD 224601,Cygnus Arm,0.0,0.0,3
+6a0577ca,Psi Persei,Perseus Arm,0.0,0.0,4
+a36c0a0c,Kepler-604,Perseus Arm,0.0,0.0,206
+85cb4c03,Gliese 407.0,Perseus Arm,0.0,0.0,3
+ae74d7cd,HR 121889,Cygnus Arm,0.0,0.0,3
+dad36877,HIP 76697,Disk Background,0.0,0.0,2
+d626bdf3,TESS-8500,Disk Background,0.0,0.0,207
+c602a54d,HR 163560,Disk Background,0.0,0.0,1
+1475831c,Pi Orionis,Orion Arm,2e-06,0.0,4
+7c0cc386,Gaia-859,Perseus Arm,0.0,0.0,3
+a1da22ce,HIP 233393,Orion Arm,0.0,0.0,208
+9137b40b,Gaia-2315,Perseus Arm,0.0,0.0,3
+b55720c4,Gaia-2927,Core,0.0,0.0,0
+7fb7f195,Epsilon Persei,Perseus Arm,0.0,0.0,2
+12935a73,TESS-7730a,Cygnus Arm,0.0,0.0,2
+c3b2836b,HD 274323,Orion Arm,0.0,0.0,3
+43e6a944,TESS-1587,Orion Arm,0.0,0.0,3
+29baa1fe,Webb-8387,Disk Background,0.0,0.0,2
+b988e995,PSR 275332,Sagittarius Arm,0.0,0.0,4
+2de6f589,HIP 183620,Cygnus Arm,0.0,0.0,3
+1e379605,Tau Persei,Perseus Arm,2e-06,0.0,3
+dceddb79,GDE-3859,Core,0.0,0.0,5
+03b36f2b,Iapetus,Core,0.0,0.0,2
+cd7f77fc,Gaia-3224,Core,0.0,0.0,4
+690119ba,HIP 76126,Core,0.0,0.0,1
+0d0e9f45,Gliese 748.0,Core,0.0,0.0,3
+f549dffa,HIP 115025,Cygnus Arm,2e-06,0.0,4
+6a78c867,TESS-2523d,Core,0.0,0.0,1
+3e037a1c,TESS-6922,Disk Background,0.0,0.0,1
+bd53a0a4,Gaia-3859,Sagittarius Arm,0.0,0.0,3
+6ff1488b,Webb-6296,Core,0.0,0.0,2
+8bd72b4f,Webb-694,Perseus Arm,0.0,0.0,206
+62ccb853,Gliese 71.0,Core,0.0,0.0,1
+1cf1bec0,HD 177284,Core,0.0,0.0,0
+8500084c,Rho Cygni,Cygnus Arm,0.0,0.0,3
+bb817281,HD 28830,Cygnus Arm,0.0,0.0,1
+76e092fc,GDE-1880,Cygnus Arm,0.0,0.0,3
+110eb7b5,Novis,Perseus Arm,0.0,0.0,4
+ac9e37f5,HR 280398,Core,0.0,0.0,1
+3a01aada,TESS-4152,Perseus Arm,0.0,0.0,3
+5b5bc2e0,HR 213225,Sagittarius Arm,0.0,0.0,3
+d7048c10,HR 46744,Sagittarius Arm,0.0,0.0,4
+94bfa287,TESS-7571,Perseus Arm,0.0,0.0,208
+062b80e3,PSR 129968,Cygnus Arm,2e-06,0.0,4
+29bcb948,TESS-5398,Perseus Arm,0.0,0.0,0
+8bdfcdeb,TESS-9083,Sagittarius Arm,0.0,0.0,4
+ae1a74cd,Hyperion,Core,0.0,0.0,1
+6a938bbc,Gaia-9123,Disk Background,0.0,0.0,0
+d168676a,Theta Cygni,Cygnus Arm,0.0,0.0,3
+ef1ac7b4,HR 128523,Cygnus Arm,2e-06,0.0,3
+3a7bc0a1,Nirvana,Orion Arm,0.0,0.0,4
+aa95dae0,GDE-122,Core,0.0,0.0,206
+850445ce,Sigma Persei,Perseus Arm,0.0,0.0,2
+577652f8,Mu Sagittarii,Sagittarius Arm,0.0,0.0,3
+7c776761,Gliese 560.0,Perseus Arm,0.0,0.0,3
+305333b9,Tau Orionis,Orion Arm,0.0,0.0,209
+68fc2563,TESS-6210,Sagittarius Arm,0.0,0.0,3
+b904ae15,Gliese 792.0,Disk Background,0.0,0.0,0
+a915a1f1,Theta Orionis,Orion Arm,0.0,0.0,2
+bcd867ac,HR 21755,Cygnus Arm,0.0,0.0,3
+e56b11ff,Omega Bulge,Core,0.0,0.0,0
+b2cdf39c,GDE-8033,Cygnus Arm,0.0,0.0,1
+1b268570,Gaia-9230e,Sagittarius Arm,0.0,0.0,3
+21e97463,HD 242398,Core,0.0,0.0,207
+a0dfcd1d,HD 50274,Sagittarius Arm,2e-06,0.0,5
+2c05c3d1,Tau Bulge,Core,0.0,0.0,3
+5e41da5f,Rho Bulge,Core,0.0,0.0,0
+3e9b6cc7,GDE-7470a,Perseus Arm,0.0,0.0,3
+d50d6e2c,GDE-9206,Perseus Arm,0.0,0.0,0
+bb3eb758,Gliese 905.0,Sagittarius Arm,0.0,0.0,3
+446593d9,HIP 118304,Sagittarius Arm,0.0,0.0,1
+bc3cf258,GDE-5567,Perseus Arm,0.0,0.0,4
+2dc6f993,PSR 183412,Core,0.0,0.0,6
+dbc7276b,Lambda Persei,Perseus Arm,0.0,0.0,4
+a08d7656,Kepler-4051,Sagittarius Arm,0.0,0.0,3
+15446763,GDE-7121,Cygnus Arm,2e-06,0.0,4
+f2146805,Kepler-1611,Perseus Arm,0.0,0.0,1
+e4d1762c,HD 88591,Sagittarius Arm,0.0,0.0,3
+598e4966,HR 109252,Cygnus Arm,0.0,0.0,2
+b66c5fa9,Lambda Galacticis,Disk Background,0.0,0.0,2
+78111034,HR 268446,Cygnus Arm,0.0,0.0,1
+3bb488d9,Kepler-3306,Orion Arm,0.0,0.0,4
+638cd7d3,Gliese 246.0,Core,2e-06,0.0,4
+06dccdc5,PSR 212499,Perseus Arm,0.0,0.0,0
+608f0962,Solaria,Disk Background,0.0,0.0,2
+9fc21337,Mu Bulge,Core,0.0,0.0,2
+e93079dc,HIP 178354,Perseus Arm,0.0,0.0,2
+3c2e37c0,Delta Cygni,Cygnus Arm,0.0,0.0,6
+744b7c39,Gaia-8626c,Core,0.0,0.0,1
+731fdccc,Gaea,Orion Arm,0.0,0.0,3
+cd2e395c,Gliese 684.0,Cygnus Arm,0.0,0.0,2
+cbe22a8b,HIP 244648,Orion Arm,0.0,0.0,208
+b2237089,Kepler-2106,Disk Background,0.0,0.0,208
+f8f7f09e,HIP 204237,Orion Arm,0.0,0.0,1
+a98bf147,TESS-4607,Disk Background,0.0,0.0,1
+65042e39,Webb-3567,Disk Background,0.0,0.0,3
+27bf7451,Gliese 614.0,Core,2e-06,0.0,4
+69a94ba7,HIP 269711,Sagittarius Arm,0.0,0.0,3
+0b0226a3,Webb-9278,Orion Arm,0.0,0.0,3
+d92d04da,HIP 15362,Cygnus Arm,0.0,0.0,4
+fa4881b8,HIP 141666,Orion Arm,0.0,0.0,2
+5e1e7929,TESS-194,Cygnus Arm,0.0,0.0,3
+9bb2c568,Delta Bulge,Core,0.0,0.0,1
+46ecf74b,TESS-8922,Cygnus Arm,0.0,0.0,3
+299fc6da,GDE-7564,Core,0.0,0.0,1
+9730aadd,HR 189541,Core,0.0,0.0,206
+d30e3d14,GDE-7807,Sagittarius Arm,0.0,0.0,3
+59aa0472,Rho Galacticis,Disk Background,0.0,0.0,0
+d509a726,Gliese 116.0,Core,0.0,0.0,3
+f89092d7,Gaia-1474,Perseus Arm,0.0,0.0,1
+15ef3488,Gliese 138.0,Orion Arm,0.0,0.0,3
+412d5502,Gaia-5415,Core,0.0,0.0,1
+1bbd50c1,Webb-3334,Cygnus Arm,0.0,0.0,1
+6cd46a40,HD 14799,Core,0.0,0.0,207
+43c7e87e,HIP 260138,Sagittarius Arm,0.0,0.0,0
+58114dea,GDE-525,Core,0.0,0.0,5
+ed0d997b,Kepler-4227,Disk Background,0.0,0.0,3
+c17b99d3,Webb-178,Perseus Arm,0.0,0.0,4
+d3029333,HR 77963,Perseus Arm,0.0,0.0,3
+f16a3cca,HR 187933,Core,0.0,0.0,1
+2dcd4b15,Iota Persei,Perseus Arm,0.0,0.0,2
+15d7bd9d,HR 289311,Orion Arm,0.0,0.0,7
+7d8d37aa,Psi Galacticis,Disk Background,0.0,0.0,0
+fafdffc3,Xi Persei,Perseus Arm,0.0,0.0,1
+7d9dadab,Gamma Persei,Perseus Arm,0.0,0.0,4
+9ebdf58b,Upsilon Sagittarii,Sagittarius Arm,0.0,0.0,3
+2f94feaa,HD 186660,Orion Arm,0.0,0.0,2
+4858724a,Gliese 71.0,Sagittarius Arm,0.0,0.0,3
+76a53093,TESS-6456,Cygnus Arm,0.0,0.0,2
+15ebd3b7,Sigma Persei,Perseus Arm,0.0,0.0,5
+f967388f,Kepler-1737,Sagittarius Arm,0.0,0.0,3
+c195d72c,HR 19907,Core,0.0,0.0,207
+d2587cf7,Coeus,Cygnus Arm,0.0,0.0,2
+b47c4419,Kepler-542,Cygnus Arm,0.0,0.0,3
+a64f1752,HD 287792,Cygnus Arm,0.0,0.0,3
+2cada0c1,Delta Cygni,Cygnus Arm,0.0,0.0,3
+2c17ff0f,HR 123114,Cygnus Arm,0.0,0.0,2
+c6d6b3fd,HD 193309,Cygnus Arm,0.0,0.0,208
+3d7b08c1,Alpha Cygni,Cygnus Arm,0.0,0.0,1
+9ca455cb,Lambda Bulge,Core,0.0,0.0,3
+7ae2e81c,PSR 179162,Core,0.0,0.0,2
+09f22e9f,HIP 64918,Perseus Arm,0.0,0.0,2
+030a27f0,HD 154457,Sagittarius Arm,0.0,0.0,5
+80468f6e,Zeta Sagittarii,Sagittarius Arm,0.0,0.0,3
+e6ed3c6f,HR 96545,Perseus Arm,0.0,0.0,1
+8af4a5c2,Gliese 830.0,Perseus Arm,0.0,0.0,1
+3e340926,TESS-760,Core,0.0,0.0,5
+92db43d5,Kepler-5099,Sagittarius Arm,0.0,0.0,2
+d88782f7,HD 47555,Disk Background,0.0,0.0,0
+56535a86,Webb-9920,Disk Background,0.0,0.0,206
+6b4a448c,TESS-8413,Cygnus Arm,0.0,0.0,4
+a93e46e0,Webb-5748,Cygnus Arm,0.0,0.0,0
+4fd00ddd,Kepler-6163,Sagittarius Arm,0.0,0.0,0
+e835b2a3,Gliese 390.0,Perseus Arm,0.0,0.0,1
+43535b4e,Chi Orionis,Orion Arm,0.0,0.0,3
+186c1b06,HD 130026,Perseus Arm,0.0,0.0,2
+a213a505,Tenebris III,Perseus Arm,0.0,0.0,0
+b2f4cac6,Theta Persei,Perseus Arm,0.0,0.0,2
+e85bac43,TESS-7227,Core,0.0,0.0,2
+b2397446,Gliese 341.0,Core,2e-06,0.0,2
+4a5e906d,Kepler-2751,Orion Arm,0.0,0.0,3
+b7d01f01,HR 93460,Cygnus Arm,0.0,0.0,1
+16ff6919,Mu Persei,Perseus Arm,0.0,0.0,1
+16375843,TESS-3612,Orion Arm,0.0,0.0,3
+172a4b44,HR 70285,Orion Arm,0.0,0.0,3
+925eebd4,Nu Bulge,Core,0.0,0.0,2
+5ef2a757,HD 109770,Cygnus Arm,0.0,0.0,0
+0667a41b,HD 19179,Perseus Arm,0.0,0.0,0
+d4909bf7,TESS-5276,Sagittarius Arm,0.0,0.0,2
+8b2d2a76,Iota Sagittarii,Sagittarius Arm,0.0,0.0,3
+0d398da8,Kappa Bulge,Core,0.0,0.0,0
+ead7b9cf,HR 164125,Sagittarius Arm,0.0,0.0,3
+4f284fdb,HR 219820,Disk Background,0.0,0.0,2
+586383c8,Gaia-9849,Perseus Arm,0.0,0.0,1
