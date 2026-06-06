@@ -1,0 +1,840 @@
+empire_id,empire_name,status,year,gdp,population,colonies,description
+f8c1278b86,The Consolidated Consolidated Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Gaia-1954-c."
+4836a15586,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Gaia-1954-d."
+ee951bbfab,The Great Kaelumian Imperium,Birth,0,5000.0,73144584.0,1,"The The Great Kaelumian Imperium emerges in the galaxy, establishing its capital at GDE-7293-c."
+b2e833d309,The Great Allied Imperium,Birth,0,5000.0,34381110.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at PSR 64400-e."
+faf8d4b64a,The Great Solex Imperium,Birth,0,5000.0,0.0,1,"The The Great Solex Imperium emerges in the galaxy, establishing its capital at HD 82516-d."
+a500abb373,The Zelari AI Hegemony,Birth,0,5000.0,0.0,1,"The The Zelari AI Hegemony emerges in the galaxy, establishing its capital at Webb-6470-b."
+9594053f90,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Omicron Galacticis-b."
+22b55b78e2,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Omicron Galacticis-c."
+185a68bac9,The Scientific Technocracy,Birth,0,5000.0,23075914.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HR 220748-b."
+c4f121b6c1,The Orionian Technocracy,Birth,0,5000.0,0.0,1,"The The Orionian Technocracy emerges in the galaxy, establishing its capital at Zeta Orionis-c."
+70a115d461,The Consolidated Technocracy,Birth,0,5000.0,70249736.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at GDE-6664-e."
+26b5626b6c,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Webb-6726b-f."
+8a41c4ac34,The Valis AI Hegemony,Birth,0,5000.0,0.0,1,"The The Valis AI Hegemony emerges in the galaxy, establishing its capital at Webb-6726b-g."
+15286fa1f5,The Great Consolidated Imperium,Birth,0,5000.0,32908665.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Webb-6726b-i."
+ec5efdeb2d,The Bulgite Technocracy,Birth,0,5000.0,0.0,1,"The The Bulgite Technocracy emerges in the galaxy, establishing its capital at Zeta Bulge-b."
+2f0954acad,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Aethelgard-b."
+c7c9fca9a1,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Aethelgard-c."
+511ff78315,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Zeta Cygni-b."
+95cba99a70,The Consolidated Technocracy,Birth,0,5000.0,0.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at Webb-9180d-b."
+73cb158d41,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-9180d-c."
+7419a59432,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Webb-9180d-d."
+bb1351012f,The Zylarian Star Empire,Birth,0,5000.0,0.0,1,"The The Zylarian Star Empire emerges in the galaxy, establishing its capital at Webb-9180d-e."
+3be9d94e07,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Webb-9180d-f."
+033668785c,The Great Solis Imperium,Birth,0,5000.0,0.0,1,"The The Great Solis Imperium emerges in the galaxy, establishing its capital at HD 212440-b."
+f8a4edc83b,The Consolidated AI Hegemony,Birth,0,5000.0,38457802.0,1,"The The Consolidated AI Hegemony emerges in the galaxy, establishing its capital at HD 212440-c."
+d2748466c9,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HD 212440-d."
+4a7ef72f37,The Great Bulgite Imperium,Birth,0,5000.0,31414948.0,1,"The The Great Bulgite Imperium emerges in the galaxy, establishing its capital at Mu Bulge-b."
+23979e6a05,The Great Unified Imperium,Birth,0,5000.0,47187386.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Chi Persei-f."
+b6e89e8b4d,The Consolidated Allied Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Allied Systems emerges in the galaxy, establishing its capital at Chi Persei-g."
+243eff68e3,The Great Sigma-bulgis Imperium,Birth,0,5000.0,34604006.0,1,"The The Great Sigma-bulgis Imperium emerges in the galaxy, establishing its capital at Sigma Bulge-e."
+9aa2eff7c3,The Great Persean Imperium,Birth,0,5000.0,0.0,1,"The The Great Persean Imperium emerges in the galaxy, establishing its capital at Upsilon Persei-b."
+5db2756626,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gaia-2971-b."
+37df7ce9be,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gaia-2971-c."
+63fff6610a,The Great Meris Imperium,Birth,0,5000.0,0.0,1,"The The Great Meris Imperium emerges in the galaxy, establishing its capital at Gaia-2971-d."
+52d6d92e6b,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Gaia-2971-e."
+ea27a17ca6,The Great Meris Imperium,Birth,0,5000.0,0.0,1,"The The Great Meris Imperium emerges in the galaxy, establishing its capital at Gaia-2971-f."
+962632e3ac,The Zylarex Star Empire,Birth,0,5000.0,0.0,1,"The The Zylarex Star Empire emerges in the galaxy, establishing its capital at GDE-378-b."
+0bfb7074dd,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at GDE-378-c."
+626215ebea,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at GDE-378-d."
+d8145cd1f0,The Great Aurelite Imperium,Birth,0,5000.0,0.0,1,"The The Great Aurelite Imperium emerges in the galaxy, establishing its capital at GDE-378-e."
+7315025cfd,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-2949-c."
+d853839dba,The Consolidated Allied Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Allied Systems emerges in the galaxy, establishing its capital at TESS-2949-d."
+c56a0b9792,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Elysium-d."
+2173a01d64,The Great Allied Imperium,Birth,0,5000.0,26602010.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Elysium-e."
+35390a1939,The Consolidated Valari Systems,Birth,0,5000.0,49801436.0,1,"The The Consolidated Valari Systems emerges in the galaxy, establishing its capital at Kepler-4496-c."
+6d4e0abb77,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Kepler-4496-f."
+3a3695c8e9,The Consolidated Star Empire,Birth,0,5000.0,46100626.0,1,"The The Consolidated Star Empire emerges in the galaxy, establishing its capital at Zeta Galacticis-b."
+494354518b,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Gaia-2093-b."
+a425d5c923,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Gaia-2093-c."
+9cad00795f,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Aethelgard-b."
+155f4eead5,The Consolidated Aethelgardan Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Aethelgardan Systems emerges in the galaxy, establishing its capital at Aethelgard-c."
+35b25d7eaf,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Aethelgard-d."
+4e674c46b8,The Aethelgardan AI Hegemony,Birth,0,5000.0,0.0,1,"The The Aethelgardan AI Hegemony emerges in the galaxy, establishing its capital at Aethelgard-e."
+e4a60e62b6,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at GDE-295-b."
+24423298c0,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at GDE-295-c."
+95985a8620,The Xenan Technocracy,Birth,0,5000.0,0.0,1,"The The Xenan Technocracy emerges in the galaxy, establishing its capital at GDE-295-d."
+80be4440e8,The Kaelumis AI Hegemony,Birth,0,5000.0,0.0,1,"The The Kaelumis AI Hegemony emerges in the galaxy, establishing its capital at GDE-295-e."
+c7a93adf27,The Thranis Star Empire,Birth,0,5000.0,0.0,1,"The The Thranis Star Empire emerges in the galaxy, establishing its capital at GDE-295-f."
+df2217070a,The Allied Technocracy,Birth,0,5000.0,0.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at GDE-295-g."
+c64460376e,The Great Gamma-orionis Imperium,Birth,0,5000.0,0.0,1,"The The Great Gamma-orionis Imperium emerges in the galaxy, establishing its capital at Gamma Orionis-b."
+53e4b98264,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gamma Orionis-c."
+14c594f145,The Unified Star Empire,Birth,0,5000.0,25227062.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Gamma Orionis-d."
+abb26e55dc,The Consolidated Consolidated Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Theta Orionis-b."
+075b3fb3b1,The Great Unified Imperium,Birth,0,5000.0,31365285.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Theta Orionis-d."
+d401178af2,The Great Theta-orionis Imperium,Birth,0,5000.0,0.0,1,"The The Great Theta-orionis Imperium emerges in the galaxy, establishing its capital at Theta Orionis-e."
+6dfc531f16,The Great Unified Imperium,Birth,0,5000.0,33043314.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-3146-c."
+36b91772ac,The Great Unified Imperium,Birth,0,5000.0,33244047.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HIP 191429-c."
+3c983bfdab,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gliese 598.0-b."
+db90f4ff25,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Gliese 598.0-c."
+cfec2df928,The Consolidated Consolidated Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Gliese 598.0-d."
+a189e2924d,The Consolidated Thranian Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Thranian Systems emerges in the galaxy, establishing its capital at Gliese 598.0-e."
+30e300e760,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Theta Sagittarii-b."
+65ea513ebb,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Theta Sagittarii-c."
+6fbfc2a11d,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Sigma Orionis-b."
+bceea7e00e,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Sigma Orionis-c."
+9875fc03a4,The Great Orionian Imperium,Birth,0,5000.0,0.0,1,"The The Great Orionian Imperium emerges in the galaxy, establishing its capital at Sigma Orionis-d."
+81601b2e5e,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Sigma Orionis-e."
+72196fa906,The Sigma-orionis Star Empire,Birth,0,5000.0,0.0,1,"The The Sigma-orionis Star Empire emerges in the galaxy, establishing its capital at Sigma Orionis-f."
+3c4760ddea,The Consolidated Zelis Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Zelis Systems emerges in the galaxy, establishing its capital at HR 208303-d."
+9d578c755a,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at TESS-5798-c."
+23094db297,The Consolidated Allied Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Allied Systems emerges in the galaxy, establishing its capital at HD 190494-b."
+642e75a08d,The Great Scientific Imperium,Birth,0,5000.0,25586237.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at GDE-7399-b."
+b619dd5fb5,The Scientific Technocracy,Birth,0,5000.0,23504034.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Kepler-7447c-c."
+e3ba98a843,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Kepler-7447c-d."
+50f9748c73,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Kepler-7447c-e."
+3e1c9fe27e,The Cygnian Star Empire,Birth,0,5000.0,0.0,1,"The The Cygnian Star Empire emerges in the galaxy, establishing its capital at Gamma Cygni-c."
+cb16d2a5bc,The Gamma-cygnis Technocracy,Birth,0,5000.0,0.0,1,"The The Gamma-cygnis Technocracy emerges in the galaxy, establishing its capital at Gamma Cygni-d."
+340e3912e2,The Great Cygnite Imperium,Birth,0,5000.0,0.0,1,"The The Great Cygnite Imperium emerges in the galaxy, establishing its capital at Gamma Cygni-e."
+6ebb371c3c,The Great Tau-galacticis Imperium,Birth,0,5000.0,36311545.0,1,"The The Great Tau-galacticis Imperium emerges in the galaxy, establishing its capital at Tau Galacticis-d."
+1b37c066da,The Great Valis Imperium,Birth,0,5000.0,87106331.0,1,"The The Great Valis Imperium emerges in the galaxy, establishing its capital at PSR 62227-e."
+f4a721a47f,The Gamma-galacticis Technocracy,Birth,0,5000.0,0.0,1,"The The Gamma-galacticis Technocracy emerges in the galaxy, establishing its capital at Gamma Galacticis-c."
+63d8758b53,The Consolidated Aurelex Systems,Birth,0,5000.0,74463046.0,1,"The The Consolidated Aurelex Systems emerges in the galaxy, establishing its capital at Webb-1026-d."
+415811daec,The Solian Star Empire,Birth,0,5000.0,0.0,1,"The The Solian Star Empire emerges in the galaxy, establishing its capital at Kepler-7797-b."
+cb312b9d86,The Aurelex Star Empire,Birth,0,5000.0,31281025.0,1,"The The Aurelex Star Empire emerges in the galaxy, establishing its capital at Kepler-7797-c."
+53dc64803e,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Kepler-7797-e."
+5b3c302325,The Great Scientific Imperium,Birth,0,5000.0,25040769.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Theta Bulge-e."
+947f74a852,The Allied Technocracy,Birth,0,5000.0,22531543.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at Psi Sagittarii-d."
+7df05aba52,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Psi Sagittarii-e."
+e23dc5e375,The Galactician Star Empire,Birth,0,5000.0,0.0,1,"The The Galactician Star Empire emerges in the galaxy, establishing its capital at Chi Galacticis-d."
+77811a2fa9,The Consolidated Gaeian Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Gaeian Systems emerges in the galaxy, establishing its capital at Gaea-b."
+4a9574c523,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Kepler-3722-b."
+e99c95009e,The Merex AI Hegemony,Birth,0,5000.0,0.0,1,"The The Merex AI Hegemony emerges in the galaxy, establishing its capital at Kepler-3722-c."
+6957a14d13,The Consolidated Xenian Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Xenian Systems emerges in the galaxy, establishing its capital at Kepler-3722-d."
+2a34070c99,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Phi Persei-b."
+4c67325ea2,The Unified Technocracy,Birth,0,5000.0,46193899.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Phi Persei-c."
+8eadd942b0,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Phi Persei-d."
+d2f4557294,The Perseian Technocracy,Birth,0,5000.0,0.0,1,"The The Perseian Technocracy emerges in the galaxy, establishing its capital at Phi Persei-f."
+6657429a7c,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Ignis IV-b."
+5f5ebcf2f5,The Solari Star Empire,Birth,0,5000.0,27939626.0,1,"The The Solari Star Empire emerges in the galaxy, establishing its capital at Kepler-6215-b."
+5578b4053f,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Kepler-6215-c."
+095464621d,The Great Cygnan Imperium,Birth,0,5000.0,42986524.0,1,"The The Great Cygnan Imperium emerges in the galaxy, establishing its capital at Rho Cygni-c."
+22e010a52d,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Rho Cygni-e."
+a987357567,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HR 248540-b."
+cf1fb521d7,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Gamma Sagittarii-b."
+0895acc0af,The Sagittarian Technocracy,Birth,0,5000.0,27454458.0,1,"The The Sagittarian Technocracy emerges in the galaxy, establishing its capital at Gamma Sagittarii-c."
+cd650c58ff,The Gamma-sagittariis Technocracy,Birth,0,5000.0,0.0,1,"The The Gamma-sagittariis Technocracy emerges in the galaxy, establishing its capital at Gamma Sagittarii-d."
+208f64f5f9,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Gamma Sagittarii-e."
+a03b53100a,The Great Orionex Imperium,Birth,0,5000.0,0.0,1,"The The Great Orionex Imperium emerges in the galaxy, establishing its capital at Gliese 327.0-b."
+2640424e04,The Unified AI Hegemony,Birth,0,5000.0,34651856.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at HR 51505-c."
+ad899b1ed9,The Great Meran Imperium,Birth,0,5000.0,0.0,1,"The The Great Meran Imperium emerges in the galaxy, establishing its capital at HIP 288720-b."
+b53d4251d2,The Meroid Technocracy,Birth,0,5000.0,0.0,1,"The The Meroid Technocracy emerges in the galaxy, establishing its capital at HIP 288720-c."
+2b4452e77b,The Consolidated Soloid Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Soloid Systems emerges in the galaxy, establishing its capital at HIP 288720-d."
+7994a1ada7,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Xi Bulge-c."
+2b100070c5,The Bulgite Technocracy,Birth,0,5000.0,30921388.0,1,"The The Bulgite Technocracy emerges in the galaxy, establishing its capital at Xi Bulge-d."
+984d4d4161,The Consolidated Technocracy,Birth,0,5000.0,0.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at Webb-3705-e."
+04b742dd38,The Consolidated Perseian Systems,Birth,0,5000.0,20389936.0,1,"The The Consolidated Perseian Systems emerges in the galaxy, establishing its capital at Psi Persei-b."
+82f9ee8fb4,The Great Valoid Imperium,Birth,0,5000.0,36410141.0,1,"The The Great Valoid Imperium emerges in the galaxy, establishing its capital at Gliese 2.0-c."
+08d81107e6,The Zylarian AI Hegemony,Birth,0,5000.0,0.0,1,"The The Zylarian AI Hegemony emerges in the galaxy, establishing its capital at PSR 86396-b."
+38a2dd884c,The Consolidated Allied Systems,Birth,0,5000.0,65005018.0,1,"The The Consolidated Allied Systems emerges in the galaxy, establishing its capital at Pi Sagittarii-d."
+1c90d82c80,The Great Cygnian Imperium,Birth,0,5000.0,62294115.0,1,"The The Great Cygnian Imperium emerges in the galaxy, establishing its capital at Delta Cygni-e."
+a067552faf,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Gaea I-b."
+c6642b2284,The Scientific Technocracy,Birth,0,5000.0,39356120.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Gaea I-c."
+a222a74ae8,The Great Zelex Imperium,Birth,0,5000.0,0.0,1,"The The Great Zelex Imperium emerges in the galaxy, establishing its capital at TESS-8033-d."
+c235dc422c,The Great Scientific Imperium,Birth,0,5000.0,22207708.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-8033-e."
+9dbca7c528,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-8033-f."
+f714a79195,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Epsilon Orionis-c."
+f6221e08e8,The Great Orionian Imperium,Birth,0,5000.0,0.0,1,"The The Great Orionian Imperium emerges in the galaxy, establishing its capital at Epsilon Orionis-d."
+f0cb6b0a91,The Great Xenoid Imperium,Birth,0,5000.0,0.0,1,"The The Great Xenoid Imperium emerges in the galaxy, establishing its capital at Gaia-7887-b."
+609e70586f,The Scientific Technocracy,Birth,0,5000.0,27251148.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Gaia-7887-c."
+a866d8dcfc,The Zelis AI Hegemony,Birth,0,5000.0,0.0,1,"The The Zelis AI Hegemony emerges in the galaxy, establishing its capital at Gaia-7887-d."
+26a6b7dcc3,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Gaia-7887-f."
+7be35390be,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Webb-9059-b."
+87f864fe83,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Webb-9059-c."
+3ba7df6ae1,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Webb-9059-d."
+edb45b6eec,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-9059-e."
+fe5ce1f2b8,The Consolidated Consolidated Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at HIP 201480-b."
+a31575c86a,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HIP 201480-c."
+7652ec5c8d,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Theta Persei-b."
+98fbfa35fa,The Sigma-orionis Star Empire,Birth,0,5000.0,0.0,1,"The The Sigma-orionis Star Empire emerges in the galaxy, establishing its capital at Sigma Orionis-e."
+f0ada7121c,The Consolidated Consolidated Systems,Birth,0,5000.0,47831498.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Webb-6199-d."
+6eb9b1daf2,The Scientific Star Empire,Birth,0,5000.0,0.0,1,"The The Scientific Star Empire emerges in the galaxy, establishing its capital at Webb-6199-e."
+07a0027478,The Great Vesperis Imperium,Birth,0,5000.0,0.0,1,"The The Great Vesperis Imperium emerges in the galaxy, establishing its capital at Webb-6199-f."
+187eb0978f,The Great Scientific Imperium,Birth,0,5000.0,25313689.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at GDE-2341-d."
+8bd71d17f7,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at TESS-2835-c."
+7f4ec7825c,The Allied Star Empire,Birth,0,5000.0,0.0,1,"The The Allied Star Empire emerges in the galaxy, establishing its capital at TESS-2835-d."
+a1d0ea467a,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-2835-e."
+71d820677a,The Zylaran AI Hegemony,Birth,0,5000.0,26863604.0,1,"The The Zylaran AI Hegemony emerges in the galaxy, establishing its capital at Gliese 837.0-c."
+6d2f3e5ed1,The Consolidated Aurelari Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Aurelari Systems emerges in the galaxy, establishing its capital at Gliese 837.0-d."
+3339448f7c,The Xenan Technocracy,Birth,0,5000.0,0.0,1,"The The Xenan Technocracy emerges in the galaxy, establishing its capital at Gliese 837.0-e."
+be3191b575,The Scientific Technocracy,Birth,0,5000.0,31842720.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Eta Galacticis-e."
+63f01adf18,The Consolidated Consolidated Systems,Birth,0,5000.0,19366678.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Eta Galacticis-f."
+b75dce1421,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Chi Bulge-e."
+4c8e6a8540,The Great Allied Imperium,Birth,0,5000.0,25300150.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Chi Bulge-g."
+76c64a14d6,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at PSR 156692-b."
+517cb43ce0,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at TESS-9709-b."
+d378f96d17,The Great Kaelumian Imperium,Birth,0,5000.0,0.0,1,"The The Great Kaelumian Imperium emerges in the galaxy, establishing its capital at TESS-9709-c."
+7664b6b371,The Orionian Technocracy,Birth,0,5000.0,0.0,1,"The The Orionian Technocracy emerges in the galaxy, establishing its capital at TESS-9709-d."
+739bb87006,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-9709-e."
+8853384409,The Unified Technocracy,Birth,0,5000.0,30598481.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at HD 59434-c."
+bda6417e80,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Gamma Persei-b."
+56cd534bb7,The Consolidated Persean Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Persean Systems emerges in the galaxy, establishing its capital at Gamma Persei-c."
+c6e77e6789,The Persean AI Hegemony,Birth,0,5000.0,0.0,1,"The The Persean AI Hegemony emerges in the galaxy, establishing its capital at Gamma Persei-d."
+ac4afd4a27,The Perseite AI Hegemony,Birth,0,5000.0,0.0,1,"The The Perseite AI Hegemony emerges in the galaxy, establishing its capital at Gamma Persei-e."
+778b8b68c3,The Scientific Star Empire,Birth,0,5000.0,0.0,1,"The The Scientific Star Empire emerges in the galaxy, establishing its capital at HR 27482-b."
+c5213edcba,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HR 27482-c."
+37b8da7a55,The Great Zylaris Imperium,Birth,0,5000.0,0.0,1,"The The Great Zylaris Imperium emerges in the galaxy, establishing its capital at GDE-7733-b."
+c1803ec34d,The Great Aurelari Imperium,Birth,0,5000.0,0.0,1,"The The Great Aurelari Imperium emerges in the galaxy, establishing its capital at GDE-4866a-b."
+d957806d32,The Galactician Technocracy,Birth,0,5000.0,0.0,1,"The The Galactician Technocracy emerges in the galaxy, establishing its capital at Sigma Galacticis-b."
+fcda05fc4e,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Sigma Galacticis-d."
+2320e9a617,The Great Galactican Imperium,Birth,0,5000.0,0.0,1,"The The Great Galactican Imperium emerges in the galaxy, establishing its capital at Sigma Galacticis-e."
+75a58165a0,The Great Galactican Imperium,Birth,0,5000.0,28858661.0,1,"The The Great Galactican Imperium emerges in the galaxy, establishing its capital at Sigma Galacticis-g."
+d5f12251b2,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Gliese 663.0-c."
+b4221d6e15,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Gliese 663.0-d."
+b3ddaf54de,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Gliese 663.0-e."
+fa8159dac5,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Gliese 663.0-f."
+02e103d2b6,The Great Dominion Imperium,Birth,0,5000.0,0.0,1,"The The Great Dominion Imperium emerges in the galaxy, establishing its capital at Gliese 663.0-g."
+b0eb206a08,The Consolidated Thranis Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Thranis Systems emerges in the galaxy, establishing its capital at TESS-5743b-c."
+529174abfd,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-5743b-d."
+658cf93cc4,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at TESS-5743b-e."
+3b106fa102,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Phi Persei-b."
+cb6235e194,The Allied Star Empire,Birth,0,5000.0,0.0,1,"The The Allied Star Empire emerges in the galaxy, establishing its capital at Phi Persei-c."
+6a9427ac16,The Great Consolidated Imperium,Birth,0,5000.0,50930184.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Prometheus-g."
+094756ff65,The Great Unified Imperium,Birth,0,5000.0,27651706.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HIP 246403-c."
+e07661a882,The Aurelari Technocracy,Birth,0,5000.0,0.0,1,"The The Aurelari Technocracy emerges in the galaxy, establishing its capital at HIP 246403-d."
+d340e67e88,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at HR 58037-b."
+78635879d1,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Selene Prime-b."
+71f4e16f01,The Primite Star Empire,Birth,0,5000.0,0.0,1,"The The Primite Star Empire emerges in the galaxy, establishing its capital at Selene Prime-c."
+62149b123f,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Eta Sagittarii-b."
+4c3eb31272,The Iota-sagittariis Technocracy,Birth,0,5000.0,0.0,1,"The The Iota-sagittariis Technocracy emerges in the galaxy, establishing its capital at Iota Sagittarii-b."
+460d2edc1f,The Great Sagittarian Imperium,Birth,0,5000.0,0.0,1,"The The Great Sagittarian Imperium emerges in the galaxy, establishing its capital at Iota Sagittarii-c."
+6c40e5c997,The Orionite Technocracy,Birth,0,5000.0,29749080.0,1,"The The Orionite Technocracy emerges in the galaxy, establishing its capital at Upsilon Orionis-b."
+ce97697488,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Upsilon Orionis-c."
+4df0d9ee3b,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Upsilon Orionis-e."
+5a236efd3f,The Great Beta-bulgis Imperium,Birth,0,5000.0,58973017.0,1,"The The Great Beta-bulgis Imperium emerges in the galaxy, establishing its capital at Beta Bulge-d."
+b8c054770f,The Consolidated Beta-bulgis Systems,Birth,0,5000.0,52846319.0,1,"The The Consolidated Beta-bulgis Systems emerges in the galaxy, establishing its capital at Beta Bulge-g."
+1bc76d1c73,The Consolidated Star Empire,Birth,0,5000.0,45548711.0,1,"The The Consolidated Star Empire emerges in the galaxy, establishing its capital at TESS-3963d-b."
+1c4722b997,The Great Unified Imperium,Birth,0,5000.0,32040734.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Nu Orionis-b."
+0e67dd57aa,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at HR 120160-b."
+88977397af,The Zylarex AI Hegemony,Birth,0,5000.0,0.0,1,"The The Zylarex AI Hegemony emerges in the galaxy, establishing its capital at HR 120160-c."
+84a3d643c9,The Scientific Technocracy,Birth,0,5000.0,28787953.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HR 120160-d."
+19190c022d,The Great Allied Imperium,Birth,0,5000.0,32858077.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Webb-1799-b."
+cadd62d564,The Consolidated Allied Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Allied Systems emerges in the galaxy, establishing its capital at Webb-1799-c."
+d0016e25b4,The Great Meran Imperium,Birth,0,5000.0,25684541.0,1,"The The Great Meran Imperium emerges in the galaxy, establishing its capital at HIP 114085-c."
+724362e429,The Consolidated Zeloid Systems,Birth,0,5000.0,28382390.0,1,"The The Consolidated Zeloid Systems emerges in the galaxy, establishing its capital at HIP 114085-d."
+2b478a564d,The Aurelian Star Empire,Birth,0,5000.0,0.0,1,"The The Aurelian Star Empire emerges in the galaxy, establishing its capital at Aurelia-c."
+999c5041c4,The Scientific Technocracy,Birth,0,5000.0,31971264.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Aurelia-d."
+06f00def5a,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Aurelia-e."
+23582772c8,The Orionite AI Hegemony,Birth,0,5000.0,0.0,1,"The The Orionite AI Hegemony emerges in the galaxy, establishing its capital at Delta Orionis-b."
+61397f1d85,The Solari Technocracy,Birth,0,5000.0,0.0,1,"The The Solari Technocracy emerges in the galaxy, establishing its capital at TESS-973-b."
+ca40b2e629,The Great Scientific Imperium,Birth,0,5000.0,38672840.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-973-d."
+80d9c3cc28,The Vesperian Star Empire,Birth,0,5000.0,0.0,1,"The The Vesperian Star Empire emerges in the galaxy, establishing its capital at TESS-973-e."
+bcfcfb49cf,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HR 104924-b."
+9568bafb15,The Consolidated Chi-bulgis Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Chi-bulgis Systems emerges in the galaxy, establishing its capital at Chi Bulge-b."
+47e406daef,The Bulgian Technocracy,Birth,0,5000.0,0.0,1,"The The Bulgian Technocracy emerges in the galaxy, establishing its capital at Chi Bulge-c."
+ad47c2dda3,The Consolidated Bulgite Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Bulgite Systems emerges in the galaxy, establishing its capital at Chi Bulge-d."
+096fc37df4,The Great Scientific Imperium,Birth,0,5000.0,57688775.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HD 275033-e."
+0b6029ea29,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Webb-5587a-b."
+0ed21e60e5,The Orionan Star Empire,Birth,0,5000.0,48907341.0,1,"The The Orionan Star Empire emerges in the galaxy, establishing its capital at Webb-5587a-c."
+5a9f1f61c7,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Webb-5587a-d."
+02fd90e690,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Webb-5587a-f."
+3557fb1c6f,The Allied Star Empire,Birth,0,5000.0,23098616.0,1,"The The Allied Star Empire emerges in the galaxy, establishing its capital at GDE-845-b."
+61550040fc,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at GDE-845-c."
+f0fcb8f048,The Great Valari Imperium,Birth,0,5000.0,0.0,1,"The The Great Valari Imperium emerges in the galaxy, establishing its capital at GDE-845-e."
+691ec52085,The Zelian AI Hegemony,Birth,0,5000.0,45781079.0,1,"The The Zelian AI Hegemony emerges in the galaxy, establishing its capital at GDE-845-g."
+9a629191f0,The Allied Technocracy,Birth,0,5000.0,0.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at HD 162586-b."
+33e625a829,The Aureloid Star Empire,Birth,0,5000.0,0.0,1,"The The Aureloid Star Empire emerges in the galaxy, establishing its capital at TESS-6387-b."
+b91403ddc4,The Consolidated Technocracy,Birth,0,5000.0,0.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at TESS-6387-c."
+71073d1e77,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at HR 211002-b."
+58a2b00e32,The Consolidated Star Empire,Birth,0,5000.0,0.0,1,"The The Consolidated Star Empire emerges in the galaxy, establishing its capital at Chi Persei-b."
+03fca7f787,The Consolidated Perseian Systems,Birth,0,5000.0,37052041.0,1,"The The Consolidated Perseian Systems emerges in the galaxy, establishing its capital at Chi Persei-c."
+939c53fc68,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Chi Persei-d."
+dc652af4e1,The Cygnan Technocracy,Birth,0,5000.0,40242021.0,1,"The The Cygnan Technocracy emerges in the galaxy, establishing its capital at Sigma Cygni-b."
+98e5a44c50,The Cygnan Technocracy,Birth,0,5000.0,0.0,1,"The The Cygnan Technocracy emerges in the galaxy, establishing its capital at Sigma Cygni-c."
+e1017ed35e,The Great Cygnan Imperium,Birth,0,5000.0,0.0,1,"The The Great Cygnan Imperium emerges in the galaxy, establishing its capital at Sigma Cygni-d."
+ee6f8a466e,The Cygnian Technocracy,Birth,0,5000.0,0.0,1,"The The Cygnian Technocracy emerges in the galaxy, establishing its capital at Sigma Cygni-f."
+bc259c8444,The Scientific AI Hegemony,Birth,0,5000.0,33162342.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at HIP 121095-b."
+fc41667c54,The Kaeluman AI Hegemony,Birth,0,5000.0,0.0,1,"The The Kaeluman AI Hegemony emerges in the galaxy, establishing its capital at HIP 121095-c."
+b4e38b5ba0,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Epsilon Bulge-b."
+ed8eb43829,The Omega-bulgis AI Hegemony,Birth,0,5000.0,0.0,1,"The The Omega-bulgis AI Hegemony emerges in the galaxy, establishing its capital at Omega Bulge-c."
+2d7a6c7193,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Omega Bulge-d."
+c4d87c45ee,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Omega Bulge-e."
+62a7129a59,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Omega Bulge-f."
+1e3994853e,The Consolidated Star Empire,Birth,0,5000.0,0.0,1,"The The Consolidated Star Empire emerges in the galaxy, establishing its capital at HD 50077-c."
+b28f9ec7d4,The Scientific Technocracy,Birth,0,5000.0,39115347.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HD 50077-f."
+634ad45f7e,The Great Scientific Imperium,Birth,0,5000.0,23402427.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HD 50077-g."
+75912c8e4c,The Great Kaelumari Imperium,Birth,0,5000.0,0.0,1,"The The Great Kaelumari Imperium emerges in the galaxy, establishing its capital at HD 50077-h."
+d07bc4ae63,The Great Scientific Imperium,Birth,0,5000.0,43733359.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HR 233687-b."
+9696ce2491,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HIP 217328-b."
+7036dbff3e,The Great Scientific Imperium,Birth,0,5000.0,30743056.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Zeta Orionis-c."
+c98968025a,The Consolidated Orionan Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Orionan Systems emerges in the galaxy, establishing its capital at Zeta Orionis-d."
+9d449a31b9,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Omega Cygni-e."
+12f8de3472,The Thranari Technocracy,Birth,0,5000.0,25947933.0,1,"The The Thranari Technocracy emerges in the galaxy, establishing its capital at HD 36797-c."
+afc6771a1e,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-3991-b."
+55c2a4dc5e,The Thranari Technocracy,Birth,0,5000.0,0.0,1,"The The Thranari Technocracy emerges in the galaxy, establishing its capital at Webb-3991-c."
+3779c3fe76,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Webb-3991-d."
+cd01ef6fd0,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Webb-3991-e."
+63803c4eb1,The Unified Technocracy,Birth,0,5000.0,63786277.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at PSR 133182-b."
+20dcee6871,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at PSR 133182-e."
+53856bd8ca,The Allied Technocracy,Birth,0,5000.0,49161365.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at Tau Sagittarii-f."
+da38a63176,The Great Unified Imperium,Birth,0,5000.0,24746049.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-7458-e."
+8196db66b3,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at Webb-7458-f."
+f004cb791e,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Beta Persei-b."
+15955262e1,The Aurelian AI Hegemony,Birth,0,5000.0,51944355.0,1,"The The Aurelian AI Hegemony emerges in the galaxy, establishing its capital at PSR 289778-d."
+c3662e3808,The Unified Technocracy,Birth,0,5000.0,51622422.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Eta Sagittarii-b."
+7dc225fd37,The Consolidated Technocracy,Birth,0,5000.0,0.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at PSR 165223-d."
+373ea01e5c,The Consolidated Technocracy,Birth,0,5000.0,50740550.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at Gliese 787.0-c."
+17fee1a6ac,The Thranite Star Empire,Birth,0,5000.0,28353376.0,1,"The The Thranite Star Empire emerges in the galaxy, establishing its capital at TESS-915-b."
+66d46fcd47,The Consolidated Consolidated Systems,Birth,0,5000.0,72965145.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Nu Orionis-d."
+dffeed89fb,The Consolidated Chi-bulgis Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Chi-bulgis Systems emerges in the galaxy, establishing its capital at Chi Bulge-b."
+cd3cb2af45,The Consolidated Chi-bulgis Systems,Birth,0,5000.0,37341315.0,1,"The The Consolidated Chi-bulgis Systems emerges in the galaxy, establishing its capital at Chi Bulge-d."
+5d262aaec3,The Consolidated AI Hegemony,Birth,0,5000.0,25539319.0,1,"The The Consolidated AI Hegemony emerges in the galaxy, establishing its capital at TESS-7890-b."
+db6da7e17a,The Great Orionis Imperium,Birth,0,5000.0,0.0,1,"The The Great Orionis Imperium emerges in the galaxy, establishing its capital at TESS-7890-c."
+73573955bb,The Orionite Technocracy,Birth,0,5000.0,0.0,1,"The The Orionite Technocracy emerges in the galaxy, establishing its capital at TESS-7890-d."
+f2bbbfc167,The Great Bulgan Imperium,Birth,0,5000.0,20658501.0,1,"The The Great Bulgan Imperium emerges in the galaxy, establishing its capital at Delta Bulge-b."
+f929aa33ac,The Bulgian Star Empire,Birth,0,5000.0,0.0,1,"The The Bulgian Star Empire emerges in the galaxy, establishing its capital at Delta Bulge-c."
+28d83c4b42,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Delta Bulge-d."
+0ddd78edbb,The Consolidated Delta-bulgis Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Delta-bulgis Systems emerges in the galaxy, establishing its capital at Delta Bulge-e."
+d7ec4d3018,The Thranan Technocracy,Birth,0,5000.0,0.0,1,"The The Thranan Technocracy emerges in the galaxy, establishing its capital at HR 175320-d."
+adc1c77061,The Great Unified Imperium,Birth,0,5000.0,21757292.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HR 175320-e."
+931aa9655e,The Orionite Technocracy,Birth,0,5000.0,0.0,1,"The The Orionite Technocracy emerges in the galaxy, establishing its capital at Gliese 257.0-d."
+df2f64c1a1,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Gliese 257.0-e."
+f27ca4fefa,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Gliese 257.0-f."
+a7f6005fd2,The Consolidated Meroid Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Meroid Systems emerges in the galaxy, establishing its capital at Kepler-6776-c."
+4164b650a3,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at HD 14791-b."
+340ef3ab81,The Consolidated Thranari Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Thranari Systems emerges in the galaxy, establishing its capital at HD 14791-c."
+7ba9deb67e,The Great Consolidated Imperium,Birth,0,5000.0,36166170.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Webb-4746d-e."
+785ce4730c,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Kepler-8079d-b."
+7135e43d15,The Consolidated Consolidated Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Kepler-8079d-c."
+dbf06f7273,The Orionite AI Hegemony,Birth,0,5000.0,0.0,1,"The The Orionite AI Hegemony emerges in the galaxy, establishing its capital at Kepler-8079d-d."
+8f64eb0a84,The Great Vesperan Imperium,Birth,0,5000.0,34572110.0,1,"The The Great Vesperan Imperium emerges in the galaxy, establishing its capital at Kepler-8079d-e."
+c87f4b2d09,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at HR 123535-b."
+c59e7444f5,The Meran Technocracy,Birth,0,5000.0,0.0,1,"The The Meran Technocracy emerges in the galaxy, establishing its capital at PSR 272701-c."
+111ab1a74e,The Consolidated Unified Systems,Birth,0,5000.0,24018701.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at PSR 272701-d."
+762d1b3438,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at PSR 272701-e."
+41e5776038,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-8019-b."
+11c4291fc3,The Vesperite AI Hegemony,Birth,0,5000.0,26119842.0,1,"The The Vesperite AI Hegemony emerges in the galaxy, establishing its capital at Webb-8019-d."
+c8c30fa0a1,The Great Orionan Imperium,Birth,0,5000.0,0.0,1,"The The Great Orionan Imperium emerges in the galaxy, establishing its capital at Webb-8019-e."
+41a9345e47,The Aurelian Star Empire,Birth,0,5000.0,25434485.0,1,"The The Aurelian Star Empire emerges in the galaxy, establishing its capital at Webb-8019-g."
+6edc6616b2,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Chi Galacticis-b."
+82b29167c3,The Great Galactican Imperium,Birth,0,5000.0,21116575.0,1,"The The Great Galactican Imperium emerges in the galaxy, establishing its capital at Chi Galacticis-d."
+cbdac2fac3,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Kepler-604-b."
+9891e1dd90,The Great Scientific Imperium,Birth,0,5000.0,49123068.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-8500-b."
+5087e1422a,The Unified Technocracy,Birth,0,5000.0,21714794.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at TESS-8500-d."
+5d94c085f5,The Allied Technocracy,Birth,0,5000.0,64840107.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at HIP 233393-c."
+cc71651dca,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gaia-4401-b."
+b7f420628f,The Great Consolidated Imperium,Birth,0,5000.0,46743519.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Iota Persei-b."
+1a2a63b5eb,The Great Allied Imperium,Birth,0,5000.0,24173763.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Gaia-2648c-e."
+9eeb4737e9,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Gaia-2648c-f."
+8e17c1b492,The Solex Star Empire,Birth,0,5000.0,39406856.0,1,"The The Solex Star Empire emerges in the galaxy, establishing its capital at TESS-7730a-b."
+35e0e185b7,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-7730a-d."
+15c488fdb9,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gaia-4413-b."
+52be76d999,The Great Zelian Imperium,Birth,0,5000.0,0.0,1,"The The Great Zelian Imperium emerges in the galaxy, establishing its capital at Gaia-4413-c."
+2d148d0e47,The Allied Technocracy,Birth,0,5000.0,0.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at Omega Cygni-b."
+a4eac32597,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Omega Cygni-c."
+f94aaeed85,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Omega Cygni-d."
+a9283be55d,The Consolidated Epsilon-perseis Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Epsilon-perseis Systems emerges in the galaxy, establishing its capital at Epsilon Persei-c."
+27d9c8dc46,The Perseian AI Hegemony,Birth,0,5000.0,0.0,1,"The The Perseian AI Hegemony emerges in the galaxy, establishing its capital at Epsilon Persei-d."
+2c89a9e0dc,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Epsilon Persei-e."
+c45231c414,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Epsilon Persei-f."
+7fdb421436,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Tau Cygni-b."
+b323933feb,The Allied Star Empire,Birth,0,5000.0,33036875.0,1,"The The Allied Star Empire emerges in the galaxy, establishing its capital at TESS-6922-c."
+c5f014b287,The Bulgan Technocracy,Birth,0,5000.0,0.0,1,"The The Bulgan Technocracy emerges in the galaxy, establishing its capital at Alpha Bulge-b."
+8d88177d24,The Bulgian Star Empire,Birth,0,5000.0,36124020.0,1,"The The Bulgian Star Empire emerges in the galaxy, establishing its capital at Alpha Bulge-e."
+e1c4b2ed14,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HIP 286034-b."
+a568c633c8,The Aurelari Technocracy,Birth,0,5000.0,37148762.0,1,"The The Aurelari Technocracy emerges in the galaxy, establishing its capital at HIP 14841-b."
+0187c7d64a,The Vesperan Technocracy,Birth,0,5000.0,0.0,1,"The The Vesperan Technocracy emerges in the galaxy, establishing its capital at Webb-694-b."
+189d8d8d1b,The Valite Technocracy,Birth,0,5000.0,0.0,1,"The The Valite Technocracy emerges in the galaxy, establishing its capital at Webb-694-c."
+57f00e3f50,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Webb-694-d."
+d427d38a9f,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-694-e."
+f1337406a3,The Great Thranan Imperium,Birth,0,5000.0,39830322.0,1,"The The Great Thranan Imperium emerges in the galaxy, establishing its capital at GDE-5391-d."
+ecbe2dc98a,The Consolidated Zelari Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Zelari Systems emerges in the galaxy, establishing its capital at GDE-5391-e."
+354b63d6d6,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Gliese 196.0-b."
+fce0550f04,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Gliese 196.0-c."
+f7a8fcf1b2,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Gliese 196.0-d."
+8c80ad65b6,The Orionex AI Hegemony,Birth,0,5000.0,0.0,1,"The The Orionex AI Hegemony emerges in the galaxy, establishing its capital at TESS-7571-e."
+65154f1c30,The Great Scientific Imperium,Birth,0,5000.0,59364155.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-7571-f."
+e6f9f9e411,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gliese 374.0-b."
+24e153416d,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Gliese 159.0-b."
+38ade68c1e,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Gliese 159.0-c."
+eacab5ee97,The Great Thranan Imperium,Birth,0,5000.0,0.0,1,"The The Great Thranan Imperium emerges in the galaxy, establishing its capital at HD 119869-d."
+fadaa4a404,The Great Valian Imperium,Birth,0,5000.0,0.0,1,"The The Great Valian Imperium emerges in the galaxy, establishing its capital at HD 119869-e."
+ebda9e7b67,The Solite Technocracy,Birth,0,5000.0,0.0,1,"The The Solite Technocracy emerges in the galaxy, establishing its capital at HD 119869-f."
+de8a7cab3b,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at HD 119869-g."
+5573af18db,The Great Merian Imperium,Birth,0,5000.0,0.0,1,"The The Great Merian Imperium emerges in the galaxy, establishing its capital at HIP 53021-b."
+e13216033f,The Great Meroid Imperium,Birth,0,5000.0,0.0,1,"The The Great Meroid Imperium emerges in the galaxy, establishing its capital at HIP 53021-c."
+bee1d78260,The Zylarian Technocracy,Birth,0,5000.0,0.0,1,"The The Zylarian Technocracy emerges in the galaxy, establishing its capital at HIP 53021-d."
+2a8b6fc81d,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at GDE-122-b."
+2320636026,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at GDE-122-c."
+e976b29c9d,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at GDE-122-d."
+dc0074adc3,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gaia-1650-c."
+303a3df484,The Unified AI Hegemony,Birth,0,5000.0,23283650.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Gaia-1650-d."
+02b9381952,The Aurelian Technocracy,Birth,0,5000.0,27003919.0,1,"The The Aurelian Technocracy emerges in the galaxy, establishing its capital at Gaia-1650-e."
+08caaac3af,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Tau Orionis-c."
+0ad458611c,The Great Unified Imperium,Birth,0,5000.0,31119047.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Tau Orionis-d."
+c2fe0ab024,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Tau Orionis-e."
+91474e8269,The Vesperian AI Hegemony,Birth,0,5000.0,0.0,1,"The The Vesperian AI Hegemony emerges in the galaxy, establishing its capital at HR 66132-b."
+32d2bbd884,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HR 66132-c."
+f343101fe6,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Kepler-5383-b."
+1cf19da3a9,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Kepler-5383-c."
+fc241018ec,The Kaelumis Technocracy,Birth,0,5000.0,0.0,1,"The The Kaelumis Technocracy emerges in the galaxy, establishing its capital at Kepler-5383-d."
+2c6958242d,The Merian AI Hegemony,Birth,0,5000.0,0.0,1,"The The Merian AI Hegemony emerges in the galaxy, establishing its capital at Kepler-5383-e."
+950050e41a,The Great Zylarite Imperium,Birth,0,5000.0,0.0,1,"The The Great Zylarite Imperium emerges in the galaxy, establishing its capital at GDE-4070-b."
+7ec564c9db,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at GDE-4070-c."
+2e4e7545f5,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at GDE-4070-d."
+f9c2058d1a,The Zylarian AI Hegemony,Birth,0,5000.0,0.0,1,"The The Zylarian AI Hegemony emerges in the galaxy, establishing its capital at GDE-4070-e."
+28100766c8,The Consolidated Bulgite Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Bulgite Systems emerges in the galaxy, establishing its capital at Omega Bulge-b."
+bbf8578e8c,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at HD 242398-d."
+8478dfd6f7,The Consolidated Merari Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Merari Systems emerges in the galaxy, establishing its capital at HD 242398-e."
+6f1e390274,The Kaelumis AI Hegemony,Birth,0,5000.0,0.0,1,"The The Kaelumis AI Hegemony emerges in the galaxy, establishing its capital at HD 242398-f."
+b12b67a0db,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at HD 242398-g."
+28728de334,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Webb-7340-b."
+5d6505f12a,The Great Unified Imperium,Birth,0,5000.0,26243455.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-7340-c."
+2c64149009,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Kepler-3223-b."
+ed45fe3a8d,The Great Vesperari Imperium,Birth,0,5000.0,0.0,1,"The The Great Vesperari Imperium emerges in the galaxy, establishing its capital at Kepler-3223-c."
+b1f20b8a8c,The Aurelan Technocracy,Birth,0,5000.0,0.0,1,"The The Aurelan Technocracy emerges in the galaxy, establishing its capital at Kepler-3223-d."
+43cb04ad80,The Xenoid Technocracy,Birth,0,5000.0,0.0,1,"The The Xenoid Technocracy emerges in the galaxy, establishing its capital at PSR 161837-b."
+3a375c2f6d,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at HR 121153-c."
+0fa7096d5a,The Consolidated Zelis Systems,Birth,0,5000.0,34041742.0,1,"The The Consolidated Zelis Systems emerges in the galaxy, establishing its capital at HR 121153-d."
+3c196b299c,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HR 121153-e."
+1a67be5b7f,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at TESS-945-b."
+862f6cbc45,The Consolidated Unified Systems,Birth,0,5000.0,39544612.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at TESS-945-c."
+9883f23173,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at HD 179598-e."
+22c13af7a1,The Consolidated Unified Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at HD 179598-f."
+ac70f57b73,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at HD 179598-g."
+60a971a839,The Great Cygnan Imperium,Birth,0,5000.0,0.0,1,"The The Great Cygnan Imperium emerges in the galaxy, establishing its capital at Pi Cygni-b."
+e941b86692,The Great Cygnite Imperium,Birth,0,5000.0,0.0,1,"The The Great Cygnite Imperium emerges in the galaxy, establishing its capital at Pi Cygni-c."
+8dcb447d0f,The Cygnian Technocracy,Birth,0,5000.0,0.0,1,"The The Cygnian Technocracy emerges in the galaxy, establishing its capital at Pi Cygni-d."
+0130446f7e,The Scientific AI Hegemony,Birth,0,5000.0,0.0,1,"The The Scientific AI Hegemony emerges in the galaxy, establishing its capital at TESS-1750-b."
+d1ebd8161b,The Unified Technocracy,Birth,0,5000.0,37981167.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at TESS-1750-c."
+d056d7ce4a,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at TESS-1750-e."
+74136dc7b0,The Solari Technocracy,Birth,0,5000.0,0.0,1,"The The Solari Technocracy emerges in the galaxy, establishing its capital at TESS-1750-f."
+61dc46303f,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Gaia-9760c-b."
+8fbf42f886,The Vesperis Star Empire,Birth,0,5000.0,0.0,1,"The The Vesperis Star Empire emerges in the galaxy, establishing its capital at Gaia-9760c-c."
+7388512271,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at Gaia-9760c-d."
+b6ae409cbf,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Gaia-9760c-e."
+622de7102b,The Consolidated Orionite Systems,Birth,0,5000.0,59555028.0,1,"The The Consolidated Orionite Systems emerges in the galaxy, establishing its capital at Kepler-2936-b."
+996190e522,The Orionan Technocracy,Birth,0,5000.0,20794731.0,1,"The The Orionan Technocracy emerges in the galaxy, establishing its capital at Gaia-776-d."
+f7bd18e491,The Thranis Technocracy,Birth,0,5000.0,35680877.0,1,"The The Thranis Technocracy emerges in the galaxy, establishing its capital at Gaia-776-f."
+556d6c2378,The Meroid AI Hegemony,Birth,0,5000.0,26971152.0,1,"The The Meroid AI Hegemony emerges in the galaxy, establishing its capital at HIP 76600-e."
+ff559623e3,The Consolidated Star Empire,Birth,0,5000.0,0.0,1,"The The Consolidated Star Empire emerges in the galaxy, establishing its capital at HIP 76600-f."
+a38e0777cd,The Great Zelex Imperium,Birth,0,5000.0,0.0,1,"The The Great Zelex Imperium emerges in the galaxy, establishing its capital at HIP 76600-g."
+4c2540c708,The Great Unified Imperium,Birth,0,5000.0,31730970.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HIP 244648-b."
+b7069c3852,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at GDE-4485-b."
+81714ff4c3,The Consolidated Star Empire,Birth,0,5000.0,18296591.0,1,"The The Consolidated Star Empire emerges in the galaxy, establishing its capital at GDE-4485-c."
+f3f5dfde4c,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Kepler-2106-b."
+e12feef736,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Kepler-2106-c."
+fba15f0324,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Kepler-2106-d."
+350e107aae,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Kepler-2106-e."
+22091a7056,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at GDE-7889-b."
+03d3903c7c,The Unified AI Hegemony,Birth,0,5000.0,0.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at GDE-7889-c."
+2211d3100d,The Consolidated Kaelumex Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Kaelumex Systems emerges in the galaxy, establishing its capital at TESS-5589-c."
+459f704847,The Thranari Technocracy,Birth,0,5000.0,0.0,1,"The The Thranari Technocracy emerges in the galaxy, establishing its capital at TESS-5589-d."
+575810e85b,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-5589-e."
+182edcdd37,The Aurelan Star Empire,Birth,0,5000.0,0.0,1,"The The Aurelan Star Empire emerges in the galaxy, establishing its capital at GDE-8146-b."
+e47a782635,The Consolidated Xi-sagittariis Systems,Birth,0,5000.0,68751154.0,1,"The The Consolidated Xi-sagittariis Systems emerges in the galaxy, establishing its capital at Xi Sagittarii-d."
+2705d84a32,The Unified AI Hegemony,Birth,0,5000.0,59591302.0,1,"The The Unified AI Hegemony emerges in the galaxy, establishing its capital at Webb-7499-f."
+92810d80b3,The Aurelis Technocracy,Birth,0,5000.0,25133365.0,1,"The The Aurelis Technocracy emerges in the galaxy, establishing its capital at Webb-7499-h."
+7e5521abbb,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Gliese 192.0-b."
+b9ec32251d,The Allied Technocracy,Birth,0,5000.0,0.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at Gliese 192.0-c."
+7c376afd56,The Kaelumis Technocracy,Birth,0,5000.0,37185139.0,1,"The The Kaelumis Technocracy emerges in the galaxy, establishing its capital at TESS-8623-c."
+0cb785b3d6,The Great Kaelumite Imperium,Birth,0,5000.0,0.0,1,"The The Great Kaelumite Imperium emerges in the galaxy, establishing its capital at TESS-8623-e."
+7bf42c3a49,The Sagittariite Technocracy,Birth,0,5000.0,29108535.0,1,"The The Sagittariite Technocracy emerges in the galaxy, establishing its capital at Theta Sagittarii-b."
+c3b1779520,The Aurelis AI Hegemony,Birth,0,5000.0,17631331.0,1,"The The Aurelis AI Hegemony emerges in the galaxy, establishing its capital at TESS-194-d."
+37a4cea3d7,The Consolidated Technocracy,Birth,0,5000.0,36551379.0,1,"The The Consolidated Technocracy emerges in the galaxy, establishing its capital at HIP 262134-b."
+57733c8324,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HIP 262134-c."
+467216187a,The Allied Star Empire,Birth,0,5000.0,0.0,1,"The The Allied Star Empire emerges in the galaxy, establishing its capital at HIP 262134-d."
+e00bc2a5e5,The Thranite Technocracy,Birth,0,5000.0,0.0,1,"The The Thranite Technocracy emerges in the galaxy, establishing its capital at HR 189541-b."
+b2c9872c2d,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Omega Sagittarii-b."
+792f609a6f,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Omega Sagittarii-c."
+b9c3618013,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Omega Sagittarii-d."
+3aa8ce54ee,The Great Allied Imperium,Birth,0,5000.0,0.0,1,"The The Great Allied Imperium emerges in the galaxy, establishing its capital at Omega Sagittarii-f."
+4b4e90bd89,The Meran AI Hegemony,Birth,0,5000.0,33203933.0,1,"The The Meran AI Hegemony emerges in the galaxy, establishing its capital at HR 36296-d."
+764f599826,The Great Unified Imperium,Birth,0,5000.0,31550487.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at HD 173878-d."
+83c39baf65,The Great Zylarite Imperium,Birth,0,5000.0,0.0,1,"The The Great Zylarite Imperium emerges in the galaxy, establishing its capital at HD 173878-e."
+927dbfac0b,The Scientific Technocracy,Birth,0,5000.0,31990749.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HD 14799-e."
+8e65d7f5b1,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at HD 14799-f."
+f0f8b2423b,The Great Xenex Imperium,Birth,0,5000.0,0.0,1,"The The Great Xenex Imperium emerges in the galaxy, establishing its capital at HD 14799-h."
+31aeef2350,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at HR 19907-e."
+83775e646f,The Consolidated Consolidated Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at HR 19907-f."
+2ed96a351c,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at HR 19907-g."
+c1cc584fd5,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at Webb-1869-b."
+11452e96e6,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Webb-1869-c."
+80ce70725d,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Webb-1869-d."
+75447b1ce9,The Great Zylarian Imperium,Birth,0,5000.0,0.0,1,"The The Great Zylarian Imperium emerges in the galaxy, establishing its capital at Webb-1869-f."
+f61290c372,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at HD 193309-c."
+71efb681fc,The Aureloid AI Hegemony,Birth,0,5000.0,24328533.0,1,"The The Aureloid AI Hegemony emerges in the galaxy, establishing its capital at Gliese 325.0-b."
+13b6f1c19c,The Allied Technocracy,Birth,0,5000.0,29004770.0,1,"The The Allied Technocracy emerges in the galaxy, establishing its capital at PSR 104430-e."
+ee9099d9b7,The Vesperan Technocracy,Birth,0,5000.0,68997095.0,1,"The The Vesperan Technocracy emerges in the galaxy, establishing its capital at PSR 104430-h."
+38d523ac80,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at TESS-8080-b."
+4bf29f7756,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at TESS-8080-c."
+8a78a0e229,The Great Unified Imperium,Birth,0,5000.0,0.0,1,"The The Great Unified Imperium emerges in the galaxy, establishing its capital at TESS-8080-d."
+5fec320399,The Unified Technocracy,Birth,0,5000.0,0.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at TESS-2121-c."
+822326926a,The Unified Technocracy,Birth,0,5000.0,32660979.0,1,"The The Unified Technocracy emerges in the galaxy, establishing its capital at TESS-2121-d."
+0a6e8b3547,The Nu-cygnis Star Empire,Birth,0,5000.0,0.0,1,"The The Nu-cygnis Star Empire emerges in the galaxy, establishing its capital at Nu Cygni-c."
+8bc980ecf5,The Unified Star Empire,Birth,0,5000.0,0.0,1,"The The Unified Star Empire emerges in the galaxy, establishing its capital at Webb-9920-b."
+18daa88e4f,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at Rho Persei-b."
+b6d872712f,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Rho Persei-c."
+7c40c9ebf8,The Consolidated Scientific Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Scientific Systems emerges in the galaxy, establishing its capital at Gliese 390.0-b."
+28f3b831a2,The Scientific Technocracy,Birth,0,5000.0,0.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Gliese 390.0-c."
+20af608f42,The Consolidated Consolidated Systems,Birth,0,5000.0,26678442.0,1,"The The Consolidated Consolidated Systems emerges in the galaxy, establishing its capital at Chi Orionis-b."
+f03d90fb8f,The Great Thranite Imperium,Birth,0,5000.0,0.0,1,"The The Great Thranite Imperium emerges in the galaxy, establishing its capital at TESS-7800-b."
+3c04f1e4d3,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-7800-c."
+123f4d1fb7,The Aurelian Technocracy,Birth,0,5000.0,0.0,1,"The The Aurelian Technocracy emerges in the galaxy, establishing its capital at TESS-7800-d."
+15474381ae,The Great Scientific Imperium,Birth,0,5000.0,0.0,1,"The The Great Scientific Imperium emerges in the galaxy, establishing its capital at TESS-7800-e."
+e905d91038,The Consolidated Allied Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Allied Systems emerges in the galaxy, establishing its capital at Webb-2356-b."
+f7ed0ea8ba,The Consolidated Thranari Systems,Birth,0,5000.0,0.0,1,"The The Consolidated Thranari Systems emerges in the galaxy, establishing its capital at Webb-2356-c."
+176da50470,The Consolidated Unified Systems,Birth,0,5000.0,56236120.0,1,"The The Consolidated Unified Systems emerges in the galaxy, establishing its capital at Mu Persei-d."
+f83f785370,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at GDE-4121-e."
+85aec51e58,The Great Consolidated Imperium,Birth,0,5000.0,0.0,1,"The The Great Consolidated Imperium emerges in the galaxy, establishing its capital at Gaia-3148-b."
+4c224c8349,The Vesperari Technocracy,Birth,0,5000.0,37500169.0,1,"The The Vesperari Technocracy emerges in the galaxy, establishing its capital at TESS-5894-e."
+37270686ec,The Scientific Technocracy,Birth,0,5000.0,31558209.0,1,"The The Scientific Technocracy emerges in the galaxy, establishing its capital at Beta Bulge-b."
+b9be6a525a,The Great Bulgite Imperium,Birth,0,5000.0,0.0,1,"The The Great Bulgite Imperium emerges in the galaxy, establishing its capital at Beta Bulge-d."
+2640424e04,The Unified AI Hegemony,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Unified AI Hegemony.
+7664b6b371,The Orionian Technocracy,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Orionian Technocracy.
+739bb87006,The Great Unified Imperium,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Great Unified Imperium.
+dc652af4e1,The Cygnan Technocracy,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Cygnan Technocracy.
+373ea01e5c,The Consolidated Technocracy,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Consolidated Technocracy.
+8e17c1b492,The Solex Star Empire,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Solex Star Empire.
+7c376afd56,The Kaelumis Technocracy,Collapse,200,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Kaelumis Technocracy.
+23979e6a05,The Great Unified Imperium,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Great Unified Imperium.
+14c594f145,The Unified Star Empire,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Unified Star Empire.
+b8c054770f,The Consolidated Beta-bulgis Systems,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Consolidated Beta-bulgis Systems.
+0ed21e60e5,The Orionan Star Empire,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Orionan Star Empire.
+691ec52085,The Zelian AI Hegemony,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Zelian AI Hegemony.
+53856bd8ca,The Allied Technocracy,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Allied Technocracy.
+adc1c77061,The Great Unified Imperium,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Great Unified Imperium.
+5d94c085f5,The Allied Technocracy,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Allied Technocracy.
+822326926a,The Unified Technocracy,Collapse,300,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Unified Technocracy.
+f8a4edc83b,The Consolidated AI Hegemony,Collapse,400,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Consolidated AI Hegemony.
+4c67325ea2,The Unified Technocracy,Collapse,400,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Unified Technocracy.
+8f64eb0a84,The Great Vesperan Imperium,Collapse,400,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Great Vesperan Imperium.
+ee9099d9b7,The Vesperan Technocracy,Collapse,400,5000.0,0.0,1,Internal instability and resource depletion cause the collapse of the central authority of The Vesperan Technocracy.
+15474381ae,The Great Scientific Imperium,Peak,100685,6000.0,0.0,1,The The Great Scientific Imperium achieves a golden age of scientific and economic peak development.
+822326926a,The Unified Technocracy,Peak,100685,6000.0,0.0,1,The The Unified Technocracy achieves a golden age of scientific and economic peak development.
+8f64eb0a84,The Great Vesperan Imperium,Expansion,100937,5000.0,0.0,2,"The The Great Vesperan Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+f2bbbfc167,The Great Bulgan Imperium,Peak,101049,6000.0,0.0,1,The The Great Bulgan Imperium achieves a golden age of scientific and economic peak development.
+4b4e90bd89,The Meran AI Hegemony,Peak,101049,6000.0,0.0,1,The The Meran AI Hegemony achieves a golden age of scientific and economic peak development.
+778b8b68c3,The Scientific Star Empire,Expansion,101133,5000.0,0.0,2,"The The Scientific Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+28100766c8,The Consolidated Bulgite Systems,Expansion,101133,5000.0,0.0,2,"The The Consolidated Bulgite Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+c8c30fa0a1,The Great Orionan Imperium,Peak,101291,6000.0,0.0,1,The The Great Orionan Imperium achieves a golden age of scientific and economic peak development.
+d378f96d17,The Great Kaelumian Imperium,Peak,101291,6000.0,0.0,1,The The Great Kaelumian Imperium achieves a golden age of scientific and economic peak development.
+7c40c9ebf8,The Consolidated Scientific Systems,Expansion,101788,5000.0,0.0,2,"The The Consolidated Scientific Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+724362e429,The Consolidated Zeloid Systems,Expansion,101788,5000.0,0.0,2,"The The Consolidated Zeloid Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+37270686ec,The Scientific Technocracy,Extinction,101879,5000.0,0.0,1,The The Scientific Technocracy is completely annexed or wiped out from the galactic theater.
+8bc980ecf5,The Unified Star Empire,Expansion,102419,5000.0,0.0,2,"The The Unified Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+2705d84a32,The Unified AI Hegemony,Expansion,102474,5000.0,0.0,2,"The The Unified AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+3aa8ce54ee,The Great Allied Imperium,Expansion,102549,5000.0,0.0,2,"The The Great Allied Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+0130446f7e,The Scientific AI Hegemony,Expansion,102549,5000.0,0.0,2,"The The Scientific AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8a78a0e229,The Great Unified Imperium,Expansion,102795,5000.0,0.0,2,"The The Great Unified Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+81714ff4c3,The Consolidated Star Empire,Expansion,103027,5000.0,0.0,2,"The The Consolidated Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+37a4cea3d7,The Consolidated Technocracy,Expansion,103084,5000.0,0.0,2,"The The Consolidated Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8a78a0e229,The Great Unified Imperium,Peak,103161,5000.0,0.0,2,"The The Great Unified Imperium reaches its peak geopolitical influence, asserting military dominance."
+459f704847,The Thranari Technocracy,Expansion,104176,5000.0,0.0,2,"The The Thranari Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+ed8eb43829,The Omega-bulgis AI Hegemony,Expansion,104685,5000.0,0.0,2,"The The Omega-bulgis AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+52be76d999,The Great Zelian Imperium,Expansion,104685,5000.0,0.0,2,"The The Great Zelian Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+47e406daef,The Bulgian Technocracy,Peak,105082,6000.0,0.0,1,The The Bulgian Technocracy achieves a golden age of scientific and economic peak development.
+f03d90fb8f,The Great Thranite Imperium,Expansion,105174,5000.0,0.0,2,"The The Great Thranite Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+82f9ee8fb4,The Great Valoid Imperium,Expansion,105493,5000.0,0.0,2,"The The Great Valoid Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+6957a14d13,The Consolidated Xenian Systems,Expansion,105493,5000.0,0.0,2,"The The Consolidated Xenian Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+ee9099d9b7,The Vesperan Technocracy,Extinction,105896,5000.0,0.0,1,The The Vesperan Technocracy is completely annexed or wiped out from the galactic theater.
+eacab5ee97,The Great Thranan Imperium,Peak,106357,6000.0,0.0,1,The The Great Thranan Imperium achieves a golden age of scientific and economic peak development.
+20af608f42,The Consolidated Consolidated Systems,Peak,106357,6000.0,0.0,1,The The Consolidated Consolidated Systems achieves a golden age of scientific and economic peak development.
+37270686ec,The Scientific Technocracy,Peak,106440,6000.0,0.0,1,The The Scientific Technocracy achieves a golden age of scientific and economic peak development.
+0fa7096d5a,The Consolidated Zelis Systems,Expansion,106504,5000.0,0.0,2,"The The Consolidated Zelis Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+92810d80b3,The Aurelis Technocracy,Peak,106601,6000.0,0.0,1,The The Aurelis Technocracy achieves a golden age of scientific and economic peak development.
+77811a2fa9,The Consolidated Gaeian Systems,Peak,106601,6000.0,0.0,1,The The Consolidated Gaeian Systems achieves a golden age of scientific and economic peak development.
+f0f8b2423b,The Great Xenex Imperium,Expansion,106730,5000.0,0.0,2,"The The Great Xenex Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+98fbfa35fa,The Sigma-orionis Star Empire,Peak,106862,6000.0,0.0,1,The The Sigma-orionis Star Empire achieves a golden age of scientific and economic peak development.
+176da50470,The Consolidated Unified Systems,Peak,106988,6000.0,0.0,1,The The Consolidated Unified Systems achieves a golden age of scientific and economic peak development.
+85aec51e58,The Great Consolidated Imperium,Expansion,107362,5000.0,0.0,2,"The The Great Consolidated Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+1c90d82c80,The Great Cygnian Imperium,Peak,107820,6000.0,0.0,1,The The Great Cygnian Imperium achieves a golden age of scientific and economic peak development.
+7664b6b371,The Orionian Technocracy,Peak,107820,6000.0,0.0,1,The The Orionian Technocracy achieves a golden age of scientific and economic peak development.
+931aa9655e,The Orionite Technocracy,Expansion,108013,5000.0,0.0,2,"The The Orionite Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+e00bc2a5e5,The Thranite Technocracy,Peak,108708,6000.0,0.0,1,The The Thranite Technocracy achieves a golden age of scientific and economic peak development.
+6d2f3e5ed1,The Consolidated Aurelari Systems,Extinction,109194,5000.0,0.0,1,The The Consolidated Aurelari Systems is completely annexed or wiped out from the galactic theater.
+2b4452e77b,The Consolidated Soloid Systems,Peak,109263,6000.0,0.0,1,The The Consolidated Soloid Systems achieves a golden age of scientific and economic peak development.
+71f4e16f01,The Primite Star Empire,Peak,109263,6000.0,0.0,1,The The Primite Star Empire achieves a golden age of scientific and economic peak development.
+faf8d4b64a,The Great Solex Imperium,Expansion,109331,5000.0,0.0,2,"The The Great Solex Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+5d262aaec3,The Consolidated AI Hegemony,Expansion,109873,5000.0,0.0,2,"The The Consolidated AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+41a9345e47,The Aurelian Star Empire,Expansion,111112,5000.0,0.0,2,"The The Aurelian Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+82b29167c3,The Great Galactican Imperium,Expansion,111312,5000.0,0.0,2,"The The Great Galactican Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+c1803ec34d,The Great Aurelari Imperium,Peak,111621,6000.0,0.0,1,The The Great Aurelari Imperium achieves a golden age of scientific and economic peak development.
+0ddd78edbb,The Consolidated Delta-bulgis Systems,Expansion,112683,5000.0,0.0,2,"The The Consolidated Delta-bulgis Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+467216187a,The Allied Star Empire,Expansion,112824,5000.0,0.0,2,"The The Allied Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+6ebb371c3c,The Great Tau-galacticis Imperium,Expansion,112824,5000.0,0.0,2,"The The Great Tau-galacticis Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+c5f014b287,The Bulgan Technocracy,Expansion,113001,5000.0,0.0,2,"The The Bulgan Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+c6e77e6789,The Persean AI Hegemony,Expansion,113001,5000.0,0.0,2,"The The Persean AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+02e103d2b6,The Great Dominion Imperium,Expansion,113271,5000.0,0.0,2,"The The Great Dominion Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a189e2924d,The Consolidated Thranian Systems,Expansion,114063,5000.0,0.0,2,"The The Consolidated Thranian Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a38e0777cd,The Great Zelex Imperium,Peak,114121,6000.0,0.0,1,The The Great Zelex Imperium achieves a golden age of scientific and economic peak development.
+467216187a,The Allied Star Empire,Peak,114217,5000.0,0.0,2,"The The Allied Star Empire reaches its peak geopolitical influence, asserting military dominance."
+5a236efd3f,The Great Beta-bulgis Imperium,Peak,114372,6000.0,0.0,1,The The Great Beta-bulgis Imperium achieves a golden age of scientific and economic peak development.
+13b6f1c19c,The Allied Technocracy,Peak,114516,6000.0,0.0,1,The The Allied Technocracy achieves a golden age of scientific and economic peak development.
+fc41667c54,The Kaeluman AI Hegemony,Peak,115294,6000.0,0.0,1,The The Kaeluman AI Hegemony achieves a golden age of scientific and economic peak development.
+f6221e08e8,The Great Orionian Imperium,Peak,115518,6000.0,0.0,1,The The Great Orionian Imperium achieves a golden age of scientific and economic peak development.
+ea27a17ca6,The Great Meris Imperium,Expansion,115844,5000.0,0.0,2,"The The Great Meris Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+996190e522,The Orionan Technocracy,Peak,115904,6000.0,0.0,1,The The Orionan Technocracy achieves a golden age of scientific and economic peak development.
+123f4d1fb7,The Aurelian Technocracy,Peak,116124,6000.0,0.0,1,The The Aurelian Technocracy achieves a golden age of scientific and economic peak development.
+9aa2eff7c3,The Great Persean Imperium,Peak,116579,6000.0,0.0,1,The The Great Persean Imperium achieves a golden age of scientific and economic peak development.
+db6da7e17a,The Great Orionis Imperium,Peak,117127,6000.0,0.0,1,The The Great Orionis Imperium achieves a golden age of scientific and economic peak development.
+1b37c066da,The Great Valis Imperium,Expansion,117625,5000.0,0.0,2,"The The Great Valis Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+7c376afd56,The Kaelumis Technocracy,Expansion,117777,5000.0,0.0,2,"The The Kaelumis Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+33e625a829,The Aureloid Star Empire,Expansion,118282,5000.0,0.0,2,"The The Aureloid Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+74136dc7b0,The Solari Technocracy,Peak,118437,6000.0,0.0,1,The The Solari Technocracy achieves a golden age of scientific and economic peak development.
+71d820677a,The Zylaran AI Hegemony,Expansion,119175,5000.0,0.0,2,"The The Zylaran AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+0cb785b3d6,The Great Kaelumite Imperium,Expansion,119636,5000.0,0.0,2,"The The Great Kaelumite Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8dcb447d0f,The Cygnian Technocracy,Expansion,120239,5000.0,0.0,2,"The The Cygnian Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+5f5ebcf2f5,The Solari Star Empire,Peak,120740,6000.0,0.0,1,The The Solari Star Empire achieves a golden age of scientific and economic peak development.
+e941b86692,The Great Cygnite Imperium,Expansion,121703,5000.0,0.0,2,"The The Great Cygnite Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+460d2edc1f,The Great Sagittarian Imperium,Expansion,122347,5000.0,0.0,2,"The The Great Sagittarian Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+4e674c46b8,The Aethelgardan AI Hegemony,Peak,122397,6000.0,0.0,1,The The Aethelgardan AI Hegemony achieves a golden age of scientific and economic peak development.
+83c39baf65,The Great Zylarite Imperium,Peak,122525,6000.0,0.0,1,The The Great Zylarite Imperium achieves a golden age of scientific and economic peak development.
+0a6e8b3547,The Nu-cygnis Star Empire,Peak,122525,6000.0,0.0,1,The The Nu-cygnis Star Empire achieves a golden age of scientific and economic peak development.
+d0016e25b4,The Great Meran Imperium,Peak,123478,6000.0,0.0,1,The The Great Meran Imperium achieves a golden age of scientific and economic peak development.
+0130446f7e,The Scientific AI Hegemony,Peak,124049,7200.0,0.0,2,"The The Scientific AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+43cb04ad80,The Xenoid Technocracy,Expansion,125129,5000.0,0.0,2,"The The Xenoid Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+691ec52085,The Zelian AI Hegemony,Expansion,126744,5000.0,0.0,2,"The The Zelian AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+cd650c58ff,The Gamma-sagittariis Technocracy,Expansion,128323,5000.0,0.0,2,"The The Gamma-sagittariis Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+85aec51e58,The Great Consolidated Imperium,Peak,129119,7200.0,0.0,2,"The The Great Consolidated Imperium reaches its peak geopolitical influence, asserting military dominance."
+ecbe2dc98a,The Consolidated Zelari Systems,Expansion,129177,5000.0,0.0,2,"The The Consolidated Zelari Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+e23dc5e375,The Galactician Star Empire,Expansion,129358,5000.0,0.0,2,"The The Galactician Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a500abb373,The Zelari AI Hegemony,Expansion,129504,5000.0,0.0,2,"The The Zelari AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+4c3eb31272,The Iota-sagittariis Technocracy,Peak,129558,6000.0,0.0,1,The The Iota-sagittariis Technocracy achieves a golden age of scientific and economic peak development.
+ac4afd4a27,The Perseite AI Hegemony,Peak,131093,6000.0,0.0,1,The The Perseite AI Hegemony achieves a golden age of scientific and economic peak development.
+15955262e1,The Aurelian AI Hegemony,Peak,131925,6000.0,0.0,1,The The Aurelian AI Hegemony achieves a golden age of scientific and economic peak development.
+b53d4251d2,The Meroid Technocracy,Expansion,133780,5000.0,0.0,2,"The The Meroid Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+3339448f7c,The Xenan Technocracy,Peak,135186,6000.0,0.0,1,The The Xenan Technocracy achieves a golden age of scientific and economic peak development.
+d7ec4d3018,The Thranan Technocracy,Expansion,135708,5000.0,0.0,2,"The The Thranan Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+98e5a44c50,The Cygnan Technocracy,Peak,137348,6000.0,0.0,1,The The Cygnan Technocracy achieves a golden age of scientific and economic peak development.
+e905d91038,The Consolidated Allied Systems,Peak,137348,6000.0,0.0,1,The The Consolidated Allied Systems achieves a golden age of scientific and economic peak development.
+ea27a17ca6,The Great Meris Imperium,Peak,137776,5000.0,0.0,2,"The The Great Meris Imperium reaches its peak geopolitical influence, asserting military dominance."
+fadaa4a404,The Great Valian Imperium,Expansion,138392,5000.0,0.0,2,"The The Great Valian Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a03b53100a,The Great Orionex Imperium,Expansion,138453,5000.0,0.0,2,"The The Great Orionex Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8c80ad65b6,The Orionex AI Hegemony,Peak,138682,6000.0,0.0,1,The The Orionex AI Hegemony achieves a golden age of scientific and economic peak development.
+c64460376e,The Great Gamma-orionis Imperium,Peak,140640,6000.0,0.0,1,The The Great Gamma-orionis Imperium achieves a golden age of scientific and economic peak development.
+3e1c9fe27e,The Cygnian Star Empire,Expansion,142208,5000.0,0.0,2,"The The Cygnian Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+b8c054770f,The Consolidated Beta-bulgis Systems,Expansion,142273,5000.0,0.0,2,"The The Consolidated Beta-bulgis Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+f9c2058d1a,The Zylarian AI Hegemony,Expansion,142412,5000.0,0.0,2,"The The Zylarian AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+cd3cb2af45,The Consolidated Chi-bulgis Systems,Expansion,143992,5000.0,0.0,2,"The The Consolidated Chi-bulgis Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+dbf06f7273,The Orionite AI Hegemony,Expansion,146368,5000.0,0.0,2,"The The Orionite AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8a41c4ac34,The Valis AI Hegemony,Peak,147934,6000.0,0.0,1,The The Valis AI Hegemony achieves a golden age of scientific and economic peak development.
+a9283be55d,The Consolidated Epsilon-perseis Systems,Peak,148845,6000.0,0.0,1,The The Consolidated Epsilon-perseis Systems achieves a golden age of scientific and economic peak development.
+85aec51e58,The Great Consolidated Imperium,Extinction,150435,12441.6,0.0,2,The The Great Consolidated Imperium is completely annexed or wiped out from the galactic theater.
+d2f4557294,The Perseian Technocracy,Peak,150824,6000.0,0.0,1,The The Perseian Technocracy achieves a golden age of scientific and economic peak development.
+b53d4251d2,The Meroid Technocracy,Peak,151386,6000.0,0.0,2,"The The Meroid Technocracy reaches its peak geopolitical influence, asserting military dominance."
+d401178af2,The Great Theta-orionis Imperium,Peak,152211,6000.0,0.0,1,The The Great Theta-orionis Imperium achieves a golden age of scientific and economic peak development.
+c98968025a,The Consolidated Orionan Systems,Peak,152211,6000.0,0.0,1,The The Consolidated Orionan Systems achieves a golden age of scientific and economic peak development.
+bb1351012f,The Zylarian Star Empire,Expansion,152744,5000.0,0.0,2,"The The Zylarian Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8e17c1b492,The Solex Star Empire,Peak,153021,6000.0,0.0,1,The The Solex Star Empire achieves a golden age of scientific and economic peak development.
+75447b1ce9,The Great Zylarian Imperium,Peak,154394,6000.0,0.0,1,The The Great Zylarian Imperium achieves a golden age of scientific and economic peak development.
+cb312b9d86,The Aurelex Star Empire,Peak,154575,6000.0,0.0,1,The The Aurelex Star Empire achieves a golden age of scientific and economic peak development.
+0895acc0af,The Sagittarian Technocracy,Peak,155085,6000.0,0.0,1,The The Sagittarian Technocracy achieves a golden age of scientific and economic peak development.
+b9be6a525a,The Great Bulgite Imperium,Peak,157357,6000.0,0.0,1,The The Great Bulgite Imperium achieves a golden age of scientific and economic peak development.
+5573af18db,The Great Merian Imperium,Peak,158941,6000.0,0.0,1,The The Great Merian Imperium achieves a golden age of scientific and economic peak development.
+415811daec,The Solian Star Empire,Expansion,160025,5000.0,0.0,2,"The The Solian Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+60a971a839,The Great Cygnan Imperium,Expansion,160194,5000.0,0.0,2,"The The Great Cygnan Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+75912c8e4c,The Great Kaelumari Imperium,Peak,160261,6000.0,0.0,1,The The Great Kaelumari Imperium achieves a golden age of scientific and economic peak development.
+85aec51e58,The Great Consolidated Imperium,Peak,160461,14929.92,0.0,2,The The Great Consolidated Imperium achieves a golden age of scientific and economic peak development.
+80d9c3cc28,The Vesperian Star Empire,Expansion,160603,5000.0,0.0,2,"The The Vesperian Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+81714ff4c3,The Consolidated Star Empire,Peak,161357,10368.0,0.0,2,"The The Consolidated Star Empire reaches its peak geopolitical influence, asserting military dominance."
+ebda9e7b67,The Solite Technocracy,Expansion,163022,5000.0,0.0,2,"The The Solite Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+11c4291fc3,The Vesperite AI Hegemony,Expansion,163828,5000.0,0.0,2,"The The Vesperite AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+033668785c,The Great Solis Imperium,Peak,164594,6000.0,0.0,1,The The Great Solis Imperium achieves a golden age of scientific and economic peak development.
+2b100070c5,The Bulgite Technocracy,Extinction,164778,5000.0,0.0,1,The The Bulgite Technocracy is completely annexed or wiped out from the galactic theater.
+35390a1939,The Consolidated Valari Systems,Expansion,165798,5000.0,0.0,2,"The The Consolidated Valari Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+f0cb6b0a91,The Great Xenoid Imperium,Peak,166207,6000.0,0.0,1,The The Great Xenoid Imperium achieves a golden age of scientific and economic peak development.
+182edcdd37,The Aurelan Star Empire,Expansion,166722,5000.0,0.0,2,"The The Aurelan Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+b0eb206a08,The Consolidated Thranis Systems,Expansion,167138,5000.0,0.0,2,"The The Consolidated Thranis Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+f0fcb8f048,The Great Valari Imperium,Peak,168112,6000.0,0.0,1,The The Great Valari Imperium achieves a golden age of scientific and economic peak development.
+dbf06f7273,The Orionite AI Hegemony,Peak,168297,5000.0,0.0,2,"The The Orionite AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+c59e7444f5,The Meran Technocracy,Expansion,170842,5000.0,0.0,2,"The The Meran Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+e13216033f,The Great Meroid Imperium,Peak,172603,6000.0,0.0,1,The The Great Meroid Imperium achieves a golden age of scientific and economic peak development.
+6ebb371c3c,The Great Tau-galacticis Imperium,Peak,175851,5000.0,0.0,2,"The The Great Tau-galacticis Imperium reaches its peak geopolitical influence, asserting military dominance."
+189d8d8d1b,The Valite Technocracy,Peak,175925,6000.0,0.0,1,The The Valite Technocracy achieves a golden age of scientific and economic peak development.
+622de7102b,The Consolidated Orionite Systems,Expansion,176470,5000.0,0.0,2,"The The Consolidated Orionite Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+b1f20b8a8c,The Aurelan Technocracy,Expansion,179120,5000.0,0.0,2,"The The Aurelan Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8478dfd6f7,The Consolidated Merari Systems,Peak,182698,6000.0,0.0,1,The The Consolidated Merari Systems achieves a golden age of scientific and economic peak development.
+88977397af,The Zylarex AI Hegemony,Expansion,182992,5000.0,0.0,2,"The The Zylarex AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+91474e8269,The Vesperian AI Hegemony,Expansion,183216,5000.0,0.0,2,"The The Vesperian AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+bee1d78260,The Zylarian Technocracy,Peak,184656,6000.0,0.0,1,The The Zylarian Technocracy achieves a golden age of scientific and economic peak development.
+7c40c9ebf8,The Consolidated Scientific Systems,Peak,186157,14929.92,0.0,2,"The The Consolidated Scientific Systems reaches its peak geopolitical influence, asserting military dominance."
+6f1e390274,The Kaelumis AI Hegemony,Peak,187240,6000.0,0.0,1,The The Kaelumis AI Hegemony achieves a golden age of scientific and economic peak development.
+63d8758b53,The Consolidated Aurelex Systems,Peak,188503,6000.0,0.0,1,The The Consolidated Aurelex Systems achieves a golden age of scientific and economic peak development.
+82b29167c3,The Great Galactican Imperium,Peak,189077,10368.0,0.0,2,"The The Great Galactican Imperium reaches its peak geopolitical influence, asserting military dominance."
+2211d3100d,The Consolidated Kaelumex Systems,Expansion,190274,5000.0,0.0,2,"The The Consolidated Kaelumex Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+f7ed0ea8ba,The Consolidated Thranari Systems,Expansion,191096,5000.0,0.0,2,"The The Consolidated Thranari Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8d88177d24,The Bulgian Star Empire,Peak,193790,6000.0,0.0,1,The The Bulgian Star Empire achieves a golden age of scientific and economic peak development.
+f4a721a47f,The Gamma-galacticis Technocracy,Peak,194181,6000.0,0.0,1,The The Gamma-galacticis Technocracy achieves a golden age of scientific and economic peak development.
+03fca7f787,The Consolidated Perseian Systems,Peak,194619,6000.0,0.0,1,The The Consolidated Perseian Systems achieves a golden age of scientific and economic peak development.
+07a0027478,The Great Vesperis Imperium,Peak,194975,6000.0,0.0,1,The The Great Vesperis Imperium achieves a golden age of scientific and economic peak development.
+8fbf42f886,The Vesperis Star Empire,Peak,196931,6000.0,0.0,1,The The Vesperis Star Empire achieves a golden age of scientific and economic peak development.
+e99c95009e,The Merex AI Hegemony,Peak,197539,6000.0,0.0,1,The The Merex AI Hegemony achieves a golden age of scientific and economic peak development.
+d8145cd1f0,The Great Aurelite Imperium,Peak,198759,6000.0,0.0,1,The The Great Aurelite Imperium achieves a golden age of scientific and economic peak development.
+d957806d32,The Galactician Technocracy,Expansion,198923,5000.0,0.0,2,"The The Galactician Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+0ed21e60e5,The Orionan Star Empire,Peak,200229,6000.0,0.0,1,The The Orionan Star Empire achieves a golden age of scientific and economic peak development.
+931aa9655e,The Orionite Technocracy,Extinction,201130,8640.0,0.0,2,The The Orionite Technocracy is completely annexed or wiped out from the galactic theater.
+f7bd18e491,The Thranis Technocracy,Expansion,202682,5000.0,0.0,2,"The The Thranis Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a568c633c8,The Aurelari Technocracy,Expansion,203419,5000.0,0.0,2,"The The Aurelari Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+ed45fe3a8d,The Great Vesperari Imperium,Expansion,204708,5000.0,0.0,2,"The The Great Vesperari Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+cb16d2a5bc,The Gamma-cygnis Technocracy,Expansion,205378,5000.0,0.0,2,"The The Gamma-cygnis Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+c7a93adf27,The Thranis Star Empire,Expansion,208566,5000.0,0.0,2,"The The Thranis Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+243eff68e3,The Great Sigma-bulgis Imperium,Expansion,217862,5000.0,0.0,2,"The The Great Sigma-bulgis Imperium enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a7f6005fd2,The Consolidated Meroid Systems,Peak,218319,6000.0,0.0,1,The The Consolidated Meroid Systems achieves a golden age of scientific and economic peak development.
+e47a782635,The Consolidated Xi-sagittariis Systems,Expansion,221657,5000.0,0.0,2,"The The Consolidated Xi-sagittariis Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+7bf42c3a49,The Sagittariite Technocracy,Expansion,226863,5000.0,0.0,2,"The The Sagittariite Technocracy enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+a866d8dcfc,The Zelis AI Hegemony,Peak,229640,6000.0,0.0,1,The The Zelis AI Hegemony achieves a golden age of scientific and economic peak development.
+37b8da7a55,The Great Zylaris Imperium,Peak,229731,6000.0,0.0,1,The The Great Zylaris Imperium achieves a golden age of scientific and economic peak development.
+2b100070c5,The Bulgite Technocracy,Peak,230848,6000.0,0.0,1,The The Bulgite Technocracy achieves a golden age of scientific and economic peak development.
+85aec51e58,The Great Consolidated Imperium,Extinction,234340,92442.13,0.0,2,The The Great Consolidated Imperium is completely annexed or wiped out from the galactic theater.
+85aec51e58,The Great Consolidated Imperium,Peak,235616,110930.56,0.0,2,The The Great Consolidated Imperium achieves a golden age of scientific and economic peak development.
+556d6c2378,The Meroid AI Hegemony,Expansion,236034,5000.0,0.0,2,"The The Meroid AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+4c224c8349,The Vesperari Technocracy,Peak,237711,6000.0,0.0,1,The The Vesperari Technocracy achieves a golden age of scientific and economic peak development.
+467216187a,The Allied Star Empire,Extinction,240020,21499.08,0.0,2,The The Allied Star Empire is completely annexed or wiped out from the galactic theater.
+56cd534bb7,The Consolidated Persean Systems,Peak,240295,6000.0,0.0,1,The The Consolidated Persean Systems achieves a golden age of scientific and economic peak development.
+27d9c8dc46,The Perseian AI Hegemony,Expansion,240909,5000.0,0.0,2,"The The Perseian AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+6d2f3e5ed1,The Consolidated Aurelari Systems,Peak,249272,6000.0,0.0,1,The The Consolidated Aurelari Systems achieves a golden age of scientific and economic peak development.
+3aa8ce54ee,The Great Allied Imperium,Peak,250190,30958.68,0.0,2,"The The Great Allied Imperium reaches its peak geopolitical influence, asserting military dominance."
+931aa9655e,The Orionite Technocracy,Peak,253917,10368.0,0.0,2,The The Orionite Technocracy achieves a golden age of scientific and economic peak development.
+37a4cea3d7,The Consolidated Technocracy,Peak,257938,21499.08,0.0,2,"The The Consolidated Technocracy reaches its peak geopolitical influence, asserting military dominance."
+467216187a,The Allied Star Empire,Peak,258988,25798.9,0.0,2,The The Allied Star Empire achieves a golden age of scientific and economic peak development.
+8a78a0e229,The Great Unified Imperium,Extinction,260363,195651091.5,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Peak,260609,234781309.8,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+15474381ae,The Great Scientific Imperium,Extinction,262515,94353342.74,0.0,1,The The Great Scientific Imperium is completely annexed or wiped out from the galactic theater.
+15474381ae,The Great Scientific Imperium,Peak,264263,113224011.29,0.0,1,The The Great Scientific Imperium achieves a golden age of scientific and economic peak development.
+15474381ae,The Great Scientific Imperium,Extinction,267218,135868813.54,0.0,1,The The Great Scientific Imperium is completely annexed or wiped out from the galactic theater.
+71efb681fc,The Aureloid AI Hegemony,Expansion,272248,5000.0,0.0,2,"The The Aureloid AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+15474381ae,The Great Scientific Imperium,Peak,273357,163042576.25,0.0,1,The The Great Scientific Imperium achieves a golden age of scientific and economic peak development.
+8a78a0e229,The Great Unified Imperium,Extinction,274075,584211028.81,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Peak,274509,701053234.58,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+cd3cb2af45,The Consolidated Chi-bulgis Systems,Peak,274559,6000.0,0.0,2,"The The Consolidated Chi-bulgis Systems reaches its peak geopolitical influence, asserting military dominance."
+28100766c8,The Consolidated Bulgite Systems,Peak,278133,7200.0,0.0,2,"The The Consolidated Bulgite Systems reaches its peak geopolitical influence, asserting military dominance."
+0130446f7e,The Scientific AI Hegemony,Extinction,287301,21499.08,0.0,2,The The Scientific AI Hegemony is completely annexed or wiped out from the galactic theater.
+0130446f7e,The Scientific AI Hegemony,Peak,287514,25798.9,0.0,2,The The Scientific AI Hegemony achieves a golden age of scientific and economic peak development.
+822326926a,The Unified Technocracy,Extinction,288214,2953341.15,0.0,1,The The Unified Technocracy is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Extinction,289000,1744444784.66,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+155f4eead5,The Consolidated Aethelgardan Systems,Expansion,289609,5000.0,0.0,2,"The The Consolidated Aethelgardan Systems enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+822326926a,The Unified Technocracy,Peak,291429,3544009.37,0.0,1,The The Unified Technocracy achieves a golden age of scientific and economic peak development.
+a9283be55d,The Consolidated Epsilon-perseis Systems,Extinction,291659,6000.0,0.0,1,The The Consolidated Epsilon-perseis Systems is completely annexed or wiped out from the galactic theater.
+c3b1779520,The Aurelis AI Hegemony,Expansion,292751,5000.0,0.0,2,"The The Aurelis AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+7bf42c3a49,The Sagittariite Technocracy,Peak,293305,5000.0,0.0,2,"The The Sagittariite Technocracy reaches its peak geopolitical influence, asserting military dominance."
+20af608f42,The Consolidated Consolidated Systems,Extinction,293371,30958.68,0.0,1,The The Consolidated Consolidated Systems is completely annexed or wiped out from the galactic theater.
+82f9ee8fb4,The Great Valoid Imperium,Peak,295649,8640.0,0.0,2,"The The Great Valoid Imperium reaches its peak geopolitical influence, asserting military dominance."
+ebda9e7b67,The Solite Technocracy,Peak,296917,6000.0,0.0,2,"The The Solite Technocracy reaches its peak geopolitical influence, asserting military dominance."
+8a78a0e229,The Great Unified Imperium,Peak,297777,2093333741.59,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+20af608f42,The Consolidated Consolidated Systems,Peak,304415,37150.42,0.0,1,The The Consolidated Consolidated Systems achieves a golden age of scientific and economic peak development.
+13b6f1c19c,The Allied Technocracy,Extinction,304757,53496.6,0.0,1,The The Allied Technocracy is completely annexed or wiped out from the galactic theater.
+13b6f1c19c,The Allied Technocracy,Peak,311738,64195.92,0.0,1,The The Allied Technocracy achieves a golden age of scientific and economic peak development.
+962632e3ac,The Zylarex Star Empire,Expansion,314077,5000.0,0.0,2,"The The Zylarex Star Empire enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+2c6958242d,The Merian AI Hegemony,Expansion,330088,5000.0,0.0,2,"The The Merian AI Hegemony enters an expansionist phase, establishing new colonies and expanding its territorial footprint."
+8c80ad65b6,The Orionex AI Hegemony,Extinction,332121,6000.0,0.0,1,The The Orionex AI Hegemony is completely annexed or wiped out from the galactic theater.
+13b6f1c19c,The Allied Technocracy,Extinction,334344,110930.56,0.0,1,The The Allied Technocracy is completely annexed or wiped out from the galactic theater.
+60a971a839,The Great Cygnan Imperium,Peak,347343,7200.0,0.0,2,"The The Great Cygnan Imperium reaches its peak geopolitical influence, asserting military dominance."
+a9283be55d,The Consolidated Epsilon-perseis Systems,Peak,351124,7200.0,0.0,1,The The Consolidated Epsilon-perseis Systems achieves a golden age of scientific and economic peak development.
+5d262aaec3,The Consolidated AI Hegemony,Peak,354454,8640.0,0.0,2,"The The Consolidated AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+17fee1a6ac,The Thranite Star Empire,Peak,363819,6000.0,0.0,1,The The Thranite Star Empire achieves a golden age of scientific and economic peak development.
+ea27a17ca6,The Great Meris Imperium,Extinction,367194,7200.0,0.0,2,The The Great Meris Imperium is completely annexed or wiped out from the galactic theater.
+778b8b68c3,The Scientific Star Empire,Peak,367633,10368.0,0.0,2,"The The Scientific Star Empire reaches its peak geopolitical influence, asserting military dominance."
+2705d84a32,The Unified AI Hegemony,Peak,372180,686852.76,0.0,2,"The The Unified AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+13b6f1c19c,The Allied Technocracy,Peak,375563,133116.67,0.0,1,The The Allied Technocracy achieves a golden age of scientific and economic peak development.
+822326926a,The Unified Technocracy,Extinction,382456,338085086.12,0.0,1,The The Unified Technocracy is completely annexed or wiped out from the galactic theater.
+8bc980ecf5,The Unified Star Empire,Peak,392294,191688.0,0.0,2,"The The Unified Star Empire reaches its peak geopolitical influence, asserting military dominance."
+91474e8269,The Vesperian AI Hegemony,Extinction,394188,5000.0,0.0,2,The The Vesperian AI Hegemony is completely annexed or wiped out from the galactic theater.
+faf8d4b64a,The Great Solex Imperium,Peak,394748,7200.0,0.0,2,"The The Great Solex Imperium reaches its peak geopolitical influence, asserting military dominance."
+ee9099d9b7,The Vesperan Technocracy,Peak,396079,6000.0,0.0,1,The The Vesperan Technocracy achieves a golden age of scientific and economic peak development.
+8c80ad65b6,The Orionex AI Hegemony,Peak,397063,7200.0,0.0,1,The The Orionex AI Hegemony achieves a golden age of scientific and economic peak development.
+822326926a,The Unified Technocracy,Peak,399525,405702103.34,0.0,1,The The Unified Technocracy achieves a golden age of scientific and economic peak development.
+2211d3100d,The Consolidated Kaelumex Systems,Extinction,407629,5000.0,0.0,2,The The Consolidated Kaelumex Systems is completely annexed or wiped out from the galactic theater.
+f0fcb8f048,The Great Valari Imperium,Extinction,408146,7200.0,0.0,1,The The Great Valari Imperium is completely annexed or wiped out from the galactic theater.
+0cb785b3d6,The Great Kaelumite Imperium,Peak,415405,7200.0,0.0,2,"The The Great Kaelumite Imperium reaches its peak geopolitical influence, asserting military dominance."
+182edcdd37,The Aurelan Star Empire,Peak,416838,5000.0,0.0,2,"The The Aurelan Star Empire reaches its peak geopolitical influence, asserting military dominance."
+2211d3100d,The Consolidated Kaelumex Systems,Peak,427392,6000.0,0.0,2,The The Consolidated Kaelumex Systems achieves a golden age of scientific and economic peak development.
+37270686ec,The Scientific Technocracy,Extinction,432521,55731521870.56,0.0,1,The The Scientific Technocracy is completely annexed or wiped out from the galactic theater.
+2705d84a32,The Unified AI Hegemony,Extinction,434495,2461117.62,0.0,2,The The Unified AI Hegemony is completely annexed or wiped out from the galactic theater.
+37270686ec,The Scientific Technocracy,Peak,435031,66877826244.67,0.0,1,The The Scientific Technocracy achieves a golden age of scientific and economic peak development.
+a9283be55d,The Consolidated Epsilon-perseis Systems,Extinction,438752,7200.0,0.0,1,The The Consolidated Epsilon-perseis Systems is completely annexed or wiped out from the galactic theater.
+e47a782635,The Consolidated Xi-sagittariis Systems,Peak,444241,6000.0,0.0,2,"The The Consolidated Xi-sagittariis Systems reaches its peak geopolitical influence, asserting military dominance."
+15474381ae,The Great Scientific Imperium,Extinction,451143,287562411534.77,0.0,1,The The Great Scientific Imperium is completely annexed or wiped out from the galactic theater.
+15474381ae,The Great Scientific Imperium,Peak,452319,345074893841.73,0.0,1,The The Great Scientific Imperium achieves a golden age of scientific and economic peak development.
+691ec52085,The Zelian AI Hegemony,Peak,457780,7200.0,0.0,2,"The The Zelian AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+460d2edc1f,The Great Sagittarian Imperium,Peak,459030,5000.0,0.0,2,"The The Great Sagittarian Imperium reaches its peak geopolitical influence, asserting military dominance."
+91474e8269,The Vesperian AI Hegemony,Peak,473716,6000.0,0.0,2,The The Vesperian AI Hegemony achieves a golden age of scientific and economic peak development.
+2705d84a32,The Unified AI Hegemony,Peak,476342,2953341.15,0.0,2,The The Unified AI Hegemony achieves a golden age of scientific and economic peak development.
+0130446f7e,The Scientific AI Hegemony,Extinction,478313,572377.3,0.0,2,The The Scientific AI Hegemony is completely annexed or wiped out from the galactic theater.
+a9283be55d,The Consolidated Epsilon-perseis Systems,Peak,480138,8640.0,0.0,1,The The Consolidated Epsilon-perseis Systems achieves a golden age of scientific and economic peak development.
+2b100070c5,The Bulgite Technocracy,Extinction,480415,17915.9,0.0,1,The The Bulgite Technocracy is completely annexed or wiped out from the galactic theater.
+ea27a17ca6,The Great Meris Imperium,Peak,482891,8640.0,0.0,2,The The Great Meris Imperium achieves a golden age of scientific and economic peak development.
+37270686ec,The Scientific Technocracy,Extinction,483587,1236465734175.71,0.0,1,The The Scientific Technocracy is completely annexed or wiped out from the galactic theater.
+0130446f7e,The Scientific AI Hegemony,Peak,484361,686852.76,0.0,2,The The Scientific AI Hegemony achieves a golden age of scientific and economic peak development.
+37270686ec,The Scientific Technocracy,Peak,487390,1483758881010.85,0.0,1,The The Scientific Technocracy achieves a golden age of scientific and economic peak development.
+6f1e390274,The Kaelumis AI Hegemony,Extinction,492147,14929.92,0.0,1,The The Kaelumis AI Hegemony is completely annexed or wiped out from the galactic theater.
+b8c054770f,The Consolidated Beta-bulgis Systems,Peak,508903,5000.0,0.0,2,"The The Consolidated Beta-bulgis Systems reaches its peak geopolitical influence, asserting military dominance."
+6f1e390274,The Kaelumis AI Hegemony,Peak,520980,17915.9,0.0,1,The The Kaelumis AI Hegemony achieves a golden age of scientific and economic peak development.
+d7ec4d3018,The Thranan Technocracy,Peak,522078,7200.0,0.0,2,"The The Thranan Technocracy reaches its peak geopolitical influence, asserting military dominance."
+f0fcb8f048,The Great Valari Imperium,Peak,522407,8640.0,0.0,1,The The Great Valari Imperium achieves a golden age of scientific and economic peak development.
+15474381ae,The Great Scientific Imperium,Extinction,525170,3692066898796.93,0.0,1,The The Great Scientific Imperium is completely annexed or wiped out from the galactic theater.
+15474381ae,The Great Scientific Imperium,Peak,525557,4430480278556.31,0.0,1,The The Great Scientific Imperium achieves a golden age of scientific and economic peak development.
+8f64eb0a84,The Great Vesperan Imperium,Peak,525809,7200.0,0.0,2,"The The Great Vesperan Imperium reaches its peak geopolitical influence, asserting military dominance."
+f7bd18e491,The Thranis Technocracy,Peak,542246,8640.0,0.0,2,"The The Thranis Technocracy reaches its peak geopolitical influence, asserting military dominance."
+71f4e16f01,The Primite Star Empire,Extinction,563008,17915.9,0.0,1,The The Primite Star Empire is completely annexed or wiped out from the galactic theater.
+ac4afd4a27,The Perseite AI Hegemony,Extinction,565244,12441.6,0.0,1,The The Perseite AI Hegemony is completely annexed or wiped out from the galactic theater.
+778b8b68c3,The Scientific Star Empire,Extinction,585091,17915.9,0.0,2,The The Scientific Star Empire is completely annexed or wiped out from the galactic theater.
+a189e2924d,The Consolidated Thranian Systems,Peak,592984,6000.0,0.0,2,"The The Consolidated Thranian Systems reaches its peak geopolitical influence, asserting military dominance."
+2b4452e77b,The Consolidated Soloid Systems,Extinction,600297,7200.0,0.0,1,The The Consolidated Soloid Systems is completely annexed or wiped out from the galactic theater.
+b8c054770f,The Consolidated Beta-bulgis Systems,Extinction,613240,6000.0,0.0,2,The The Consolidated Beta-bulgis Systems is completely annexed or wiped out from the galactic theater.
+0130446f7e,The Scientific AI Hegemony,Extinction,624371,2953341.15,0.0,2,The The Scientific AI Hegemony is completely annexed or wiped out from the galactic theater.
+ed8eb43829,The Omega-bulgis AI Hegemony,Peak,629781,8640.0,0.0,2,"The The Omega-bulgis AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+0130446f7e,The Scientific AI Hegemony,Peak,637617,3544009.37,0.0,2,The The Scientific AI Hegemony achieves a golden age of scientific and economic peak development.
+2b4452e77b,The Consolidated Soloid Systems,Peak,642323,8640.0,0.0,1,The The Consolidated Soloid Systems achieves a golden age of scientific and economic peak development.
+a03b53100a,The Great Orionex Imperium,Extinction,643498,7200.0,0.0,2,The The Great Orionex Imperium is completely annexed or wiped out from the galactic theater.
+931aa9655e,The Orionite Technocracy,Extinction,649788,30958.68,0.0,2,The The Orionite Technocracy is completely annexed or wiped out from the galactic theater.
+931aa9655e,The Orionite Technocracy,Peak,655043,37150.42,0.0,2,The The Orionite Technocracy achieves a golden age of scientific and economic peak development.
+2b100070c5,The Bulgite Technocracy,Peak,667810,21499.08,0.0,1,The The Bulgite Technocracy achieves a golden age of scientific and economic peak development.
+8a78a0e229,The Great Unified Imperium,Extinction,685967,7.111221365993596e+19,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Peak,692795,8.533465639192314e+19,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+459f704847,The Thranari Technocracy,Extinction,703052,25798.9,0.0,2,The The Thranari Technocracy is completely annexed or wiped out from the galactic theater.
+8a41c4ac34,The Valis AI Hegemony,Extinction,706581,12441.6,0.0,1,The The Valis AI Hegemony is completely annexed or wiped out from the galactic theater.
+ed45fe3a8d,The Great Vesperari Imperium,Peak,709206,8640.0,0.0,2,"The The Great Vesperari Imperium reaches its peak geopolitical influence, asserting military dominance."
+415811daec,The Solian Star Empire,Peak,711839,8640.0,0.0,2,"The The Solian Star Empire reaches its peak geopolitical influence, asserting military dominance."
+459f704847,The Thranari Technocracy,Peak,719025,30958.68,0.0,2,The The Thranari Technocracy achieves a golden age of scientific and economic peak development.
+a03b53100a,The Great Orionex Imperium,Peak,720909,8640.0,0.0,2,The The Great Orionex Imperium achieves a golden age of scientific and economic peak development.
+f0f8b2423b,The Great Xenex Imperium,Peak,722990,10368.0,0.0,2,"The The Great Xenex Imperium reaches its peak geopolitical influence, asserting military dominance."
+43cb04ad80,The Xenoid Technocracy,Peak,740542,8640.0,0.0,2,"The The Xenoid Technocracy reaches its peak geopolitical influence, asserting military dominance."
+6d2f3e5ed1,The Consolidated Aurelari Systems,Extinction,752499,12441.6,0.0,1,The The Consolidated Aurelari Systems is completely annexed or wiped out from the galactic theater.
+d378f96d17,The Great Kaelumian Imperium,Extinction,762716,53496.6,0.0,1,The The Great Kaelumian Imperium is completely annexed or wiped out from the galactic theater.
+77811a2fa9,The Consolidated Gaeian Systems,Extinction,773959,10368.0,0.0,1,The The Consolidated Gaeian Systems is completely annexed or wiped out from the galactic theater.
+e905d91038,The Consolidated Allied Systems,Extinction,778705,230025.6,0.0,1,The The Consolidated Allied Systems is completely annexed or wiped out from the galactic theater.
+6d2f3e5ed1,The Consolidated Aurelari Systems,Peak,791543,14929.92,0.0,1,The The Consolidated Aurelari Systems achieves a golden age of scientific and economic peak development.
+7c376afd56,The Kaelumis Technocracy,Peak,795091,25798.9,0.0,2,"The The Kaelumis Technocracy reaches its peak geopolitical influence, asserting military dominance."
+176da50470,The Consolidated Unified Systems,Extinction,795328,80253391493.61,0.0,1,The The Consolidated Unified Systems is completely annexed or wiped out from the galactic theater.
+8bc980ecf5,The Unified Star Empire,Extinction,797846,12698826.35,0.0,2,The The Unified Star Empire is completely annexed or wiped out from the galactic theater.
+35390a1939,The Consolidated Valari Systems,Peak,799589,12441.6,0.0,2,"The The Consolidated Valari Systems reaches its peak geopolitical influence, asserting military dominance."
+8bc980ecf5,The Unified Star Empire,Peak,805766,15238591.62,0.0,2,The The Unified Star Empire achieves a golden age of scientific and economic peak development.
+176da50470,The Consolidated Unified Systems,Peak,807966,96304069792.33,0.0,1,The The Consolidated Unified Systems achieves a golden age of scientific and economic peak development.
+e905d91038,The Consolidated Allied Systems,Peak,812786,276030.72,0.0,1,The The Consolidated Allied Systems achieves a golden age of scientific and economic peak development.
+778b8b68c3,The Scientific Star Empire,Peak,813842,21499.08,0.0,2,The The Scientific Star Empire achieves a golden age of scientific and economic peak development.
+37270686ec,The Scientific Technocracy,Extinction,839900,1.984611372664644e+19,0.0,1,The The Scientific Technocracy is completely annexed or wiped out from the galactic theater.
+37270686ec,The Scientific Technocracy,Peak,840099,2.3815336471975727e+19,0.0,1,The The Scientific Technocracy achieves a golden age of scientific and economic peak development.
+556d6c2378,The Meroid AI Hegemony,Peak,859065,14929.92,0.0,2,"The The Meroid AI Hegemony reaches its peak geopolitical influence, asserting military dominance."
+75447b1ce9,The Great Zylarian Imperium,Extinction,869752,10368.0,0.0,1,The The Great Zylarian Imperium is completely annexed or wiped out from the galactic theater.
+467216187a,The Allied Star Empire,Extinction,872659,1709109.46,0.0,2,The The Allied Star Empire is completely annexed or wiped out from the galactic theater.
+77811a2fa9,The Consolidated Gaeian Systems,Peak,881072,12441.6,0.0,1,The The Consolidated Gaeian Systems achieves a golden age of scientific and economic peak development.
+28100766c8,The Consolidated Bulgite Systems,Extinction,885336,21499.08,0.0,2,The The Consolidated Bulgite Systems is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Extinction,894106,1.341935013680146e+24,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+91474e8269,The Vesperian AI Hegemony,Extinction,894858,17915.9,0.0,2,The The Vesperian AI Hegemony is completely annexed or wiped out from the galactic theater.
+a568c633c8,The Aurelari Technocracy,Peak,896630,12441.6,0.0,2,"The The Aurelari Technocracy reaches its peak geopolitical influence, asserting military dominance."
+8a78a0e229,The Great Unified Imperium,Peak,897002,1.6103220164161753e+24,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+ecbe2dc98a,The Consolidated Zelari Systems,Extinction,906035,17915.9,0.0,2,The The Consolidated Zelari Systems is completely annexed or wiped out from the galactic theater.
+b8c054770f,The Consolidated Beta-bulgis Systems,Peak,915512,7200.0,0.0,2,The The Consolidated Beta-bulgis Systems achieves a golden age of scientific and economic peak development.
+467216187a,The Allied Star Empire,Peak,921573,2050931.35,0.0,2,The The Allied Star Empire achieves a golden age of scientific and economic peak development.
+ecbe2dc98a,The Consolidated Zelari Systems,Peak,922653,21499.08,0.0,2,The The Consolidated Zelari Systems achieves a golden age of scientific and economic peak development.
+33e625a829,The Aureloid Star Empire,Peak,926439,25798.9,0.0,2,"The The Aureloid Star Empire reaches its peak geopolitical influence, asserting military dominance."
+8a78a0e229,The Great Unified Imperium,Extinction,931770,9.97068948083664e+24,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+a38e0777cd,The Great Zelex Imperium,Extinction,932450,110930.56,0.0,1,The The Great Zelex Imperium is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Peak,933327,1.1964827377003968e+25,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+ac4afd4a27,The Perseite AI Hegemony,Peak,950497,14929.92,0.0,1,The The Perseite AI Hegemony achieves a golden age of scientific and economic peak development.
+cb16d2a5bc,The Gamma-cygnis Technocracy,Peak,954457,10368.0,0.0,2,"The The Gamma-cygnis Technocracy reaches its peak geopolitical influence, asserting military dominance."
+6f1e390274,The Kaelumis AI Hegemony,Extinction,955749,53496.6,0.0,1,The The Kaelumis AI Hegemony is completely annexed or wiped out from the galactic theater.
+5573af18db,The Great Merian Imperium,Extinction,957768,17915.9,0.0,1,The The Great Merian Imperium is completely annexed or wiped out from the galactic theater.
+15474381ae,The Great Scientific Imperium,Extinction,958339,9.130228417293568e+20,0.0,1,The The Great Scientific Imperium is completely annexed or wiped out from the galactic theater.
+15474381ae,The Great Scientific Imperium,Peak,962555,1.095627410075228e+21,0.0,1,The The Great Scientific Imperium achieves a golden age of scientific and economic peak development.
+3e1c9fe27e,The Cygnian Star Empire,Peak,973557,10368.0,0.0,2,"The The Cygnian Star Empire reaches its peak geopolitical influence, asserting military dominance."
+c5f014b287,The Bulgan Technocracy,Peak,976931,21499.08,0.0,2,"The The Bulgan Technocracy reaches its peak geopolitical influence, asserting military dominance."
+5573af18db,The Great Merian Imperium,Peak,986670,21499.08,0.0,1,The The Great Merian Imperium achieves a golden age of scientific and economic peak development.
+1b37c066da,The Great Valis Imperium,Peak,988094,17915.9,0.0,2,"The The Great Valis Imperium reaches its peak geopolitical influence, asserting military dominance."
+dbf06f7273,The Orionite AI Hegemony,Extinction,989964,53496.6,0.0,2,The The Orionite AI Hegemony is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Extinction,990940,3.822523042874837e+26,0.0,2,The The Great Unified Imperium is completely annexed or wiped out from the galactic theater.
+8a78a0e229,The Great Unified Imperium,Peak,993169,4.587027651449805e+26,0.0,2,The The Great Unified Imperium achieves a golden age of scientific and economic peak development.
+02e103d2b6,The Great Dominion Imperium,Extinction,999623,14929.92,0.0,2,The The Great Dominion Imperium is completely annexed or wiped out from the galactic theater.
+f7ed0ea8ba,The Consolidated Thranari Systems,Extinction,999954,25798.9,0.0,2,The The Consolidated Thranari Systems is completely annexed or wiped out from the galactic theater.

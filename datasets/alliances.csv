@@ -1,0 +1,336 @@
+alliance_id,alliance_name,alliance_type,member_empires,combined_gdp,combined_population,combined_fleet_power
+ALL-0001,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"f8c1278b86,4836a15586",10000.0,0.0,11428.92
+ALL-0002,Great-Great Defense Pact,Defense Pact,"9594053f90,22b55b78e2",10000.0,0.0,11488.88
+ALL-0003,Orionian-Great Defense Pact,Defense Pact,"c4f121b6c1,7036dbff3e",10000.0,30743056.0,1788.48
+ALL-0004,Orionian-Consolidated Defense Pact,Defense Pact,"c4f121b6c1,c98968025a",10000.0,0.0,2811.85
+ALL-0005,The Scientific-Valis Scientific Alliance,Research Alliance,"26b5626b6c,8a41c4ac34",10000.0,0.0,16082.25
+ALL-0006,The Scientific-Great Scientific Alliance,Research Alliance,"26b5626b6c,15286fa1f5",10000.0,32908665.0,19858.4
+ALL-0007,The Valis-Great Scientific Alliance,Research Alliance,"8a41c4ac34,15286fa1f5",10000.0,32908665.0,9853.56
+ALL-0008,Scientific-Consolidated Defense Pact,Defense Pact,"2f0954acad,c7c9fca9a1",10000.0,0.0,8123.52
+ALL-0009,Scientific-Great Defense Pact,Defense Pact,"2f0954acad,9cad00795f",10000.0,0.0,10173.53
+ALL-0010,The Scientific-Great Scientific Alliance,Research Alliance,"2f0954acad,35b25d7eaf",10000.0,0.0,20268.86
+ALL-0011,Consolidated-Great Defense Pact,Defense Pact,"c7c9fca9a1,9cad00795f",10000.0,0.0,2887.62
+ALL-0012,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"c7c9fca9a1,155f4eead5",10000.0,0.0,1552.36
+ALL-0013,The Consolidated-Great Scientific Alliance,Research Alliance,"95cba99a70,73cb158d41",10000.0,0.0,5460.33
+ALL-0014,The Consolidated-Unified Scientific Alliance,Research Alliance,"95cba99a70,7419a59432",10000.0,0.0,3415.35
+ALL-0015,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"95cba99a70,3be9d94e07",10000.0,0.0,5828.65
+ALL-0016,Great-Unified Defense Pact,Defense Pact,"73cb158d41,7419a59432",10000.0,0.0,5666.01
+ALL-0017,Great-Zylarian Defense Pact,Defense Pact,"73cb158d41,bb1351012f",10000.0,0.0,7047.76
+ALL-0018,The Great-Consolidated Scientific Alliance,Research Alliance,"73cb158d41,3be9d94e07",10000.0,0.0,8079.31
+ALL-0019,Unified-Consolidated Defense Pact,Defense Pact,"7419a59432,3be9d94e07",10000.0,0.0,6034.33
+ALL-0020,The Great-Consolidated Scientific Alliance,Research Alliance,"033668785c,f8a4edc83b",10000.0,38457802.0,17256.78
+ALL-0021,The Great-Great Scientific Alliance,Research Alliance,"033668785c,d2748466c9",10000.0,0.0,9023.51
+ALL-0022,The Consolidated-Great Scientific Alliance,Research Alliance,"f8a4edc83b,d2748466c9",10000.0,38457802.0,19145.28
+ALL-0023,Great-Consolidated Defense Pact,Defense Pact,"23979e6a05,b6e89e8b4d",10000.0,47187386.0,5896.48
+ALL-0024,The Great-Consolidated Scientific Alliance,Research Alliance,"23979e6a05,03fca7f787",10000.0,84239427.0,15103.4
+ALL-0025,Great-Scientific Defense Pact,Defense Pact,"23979e6a05,939c53fc68",10000.0,47187386.0,10826.45
+ALL-0026,Consolidated-Consolidated Defense Pact,Defense Pact,"b6e89e8b4d,58a2b00e32",10000.0,0.0,7215.17
+ALL-0027,The Great-Great Scientific Alliance,Research Alliance,"5db2756626,37df7ce9be",10000.0,0.0,23269.78
+ALL-0028,Great-Unified Defense Pact,Defense Pact,"5db2756626,52d6d92e6b",10000.0,0.0,26953.08
+ALL-0029,The Great-Great Scientific Alliance,Research Alliance,"5db2756626,ea27a17ca6",10000.0,0.0,17393.77
+ALL-0030,The Great-Great Scientific Alliance,Research Alliance,"37df7ce9be,63fff6610a",10000.0,0.0,18204.08
+ALL-0031,Great-Unified Defense Pact,Defense Pact,"37df7ce9be,52d6d92e6b",10000.0,0.0,23781.04
+ALL-0032,Great-Great Defense Pact,Defense Pact,"37df7ce9be,ea27a17ca6",10000.0,0.0,14221.73
+ALL-0033,The Great-Unified Scientific Alliance,Research Alliance,"63fff6610a,52d6d92e6b",10000.0,0.0,21887.37
+ALL-0034,The Great-Great Scientific Alliance,Research Alliance,"63fff6610a,ea27a17ca6",10000.0,0.0,12328.07
+ALL-0035,Zylarex-Great Defense Pact,Defense Pact,"962632e3ac,0bfb7074dd",10000.0,0.0,14226.44
+ALL-0036,Zylarex-Scientific Defense Pact,Defense Pact,"962632e3ac,626215ebea",10000.0,0.0,21064.37
+ALL-0037,The Zylarex-Great Scientific Alliance,Research Alliance,"962632e3ac,d8145cd1f0",10000.0,0.0,9139.61
+ALL-0038,Great-Scientific Defense Pact,Defense Pact,"0bfb7074dd,626215ebea",10000.0,0.0,19803.45
+ALL-0039,The Scientific-Great Scientific Alliance,Research Alliance,"626215ebea,d8145cd1f0",10000.0,0.0,14716.61
+ALL-0040,Great-Consolidated Defense Pact,Defense Pact,"7315025cfd,d853839dba",10000.0,0.0,11341.25
+ALL-0041,The Great-Great Scientific Alliance,Research Alliance,"c56a0b9792,2173a01d64",10000.0,26602010.0,3587.15
+ALL-0042,Consolidated-Consolidated Defense Pact,Defense Pact,"35390a1939,6d4e0abb77",10000.0,49801436.0,7250.92
+ALL-0043,The Unified-Great Scientific Alliance,Research Alliance,"494354518b,a425d5c923",10000.0,0.0,12610.21
+ALL-0044,Great-Consolidated Defense Pact,Defense Pact,"9cad00795f,155f4eead5",10000.0,0.0,3602.37
+ALL-0045,The Great-Aethelgardan Scientific Alliance,Research Alliance,"9cad00795f,4e674c46b8",10000.0,0.0,10697.35
+ALL-0046,Consolidated-Great Defense Pact,Defense Pact,"155f4eead5,35b25d7eaf",10000.0,0.0,13697.69
+ALL-0047,Consolidated-Aethelgardan Defense Pact,Defense Pact,"155f4eead5,4e674c46b8",10000.0,0.0,9362.08
+ALL-0048,Consolidated-Kaelumis Defense Pact,Defense Pact,"e4a60e62b6,80be4440e8",10000.0,0.0,4443.41
+ALL-0049,Consolidated-Thranis Defense Pact,Defense Pact,"e4a60e62b6,c7a93adf27",10000.0,0.0,2086.19
+ALL-0050,Great-Xenan Defense Pact,Defense Pact,"24423298c0,95985a8620",10000.0,0.0,10598.69
+ALL-0051,Great-Kaelumis Defense Pact,Defense Pact,"24423298c0,80be4440e8",10000.0,0.0,5930.36
+ALL-0052,The Great-Thranis Scientific Alliance,Research Alliance,"24423298c0,c7a93adf27",10000.0,0.0,3573.15
+ALL-0053,The Xenan-Kaelumis Scientific Alliance,Research Alliance,"95985a8620,80be4440e8",10000.0,0.0,10262.65
+ALL-0054,The Xenan-Thranis Scientific Alliance,Research Alliance,"95985a8620,c7a93adf27",10000.0,0.0,7905.43
+ALL-0055,The Kaelumis-Allied Scientific Alliance,Research Alliance,"80be4440e8,df2217070a",10000.0,0.0,6486.93
+ALL-0056,The Thranis-Allied Scientific Alliance,Research Alliance,"c7a93adf27,df2217070a",10000.0,0.0,4129.72
+ALL-0057,The Great-Great Scientific Alliance,Research Alliance,"c64460376e,53e4b98264",10000.0,0.0,7089.29
+ALL-0058,Great-Unified Defense Pact,Defense Pact,"53e4b98264,14c594f145",10000.0,25227062.0,14678.16
+ALL-0059,The Consolidated-Great Scientific Alliance,Research Alliance,"abb26e55dc,d401178af2",10000.0,0.0,14231.14
+ALL-0060,The Great-Great Scientific Alliance,Research Alliance,"075b3fb3b1,d401178af2",10000.0,31365285.0,18053.84
+ALL-0061,Great-Consolidated Defense Pact,Defense Pact,"3c983bfdab,db90f4ff25",10000.0,0.0,18887.87
+ALL-0062,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"db90f4ff25,cfec2df928",10000.0,0.0,7803.83
+ALL-0063,Scientific-Consolidated Defense Pact,Defense Pact,"30e300e760,65ea513ebb",10000.0,0.0,10031.05
+ALL-0064,The Consolidated-Sagittariite Scientific Alliance,Research Alliance,"65ea513ebb,7bf42c3a49",10000.0,29108535.0,6492.94
+ALL-0065,Great-Unified Defense Pact,Defense Pact,"6fbfc2a11d,81601b2e5e",10000.0,0.0,9033.01
+ALL-0066,Great-Sigma-orionis Defense Pact,Defense Pact,"6fbfc2a11d,72196fa906",10000.0,0.0,4163.41
+ALL-0067,The Unified-Sigma-orionis Scientific Alliance,Research Alliance,"bceea7e00e,72196fa906",10000.0,0.0,4475.48
+ALL-0068,The Unified-Sigma-orionis Scientific Alliance,Research Alliance,"bceea7e00e,98fbfa35fa",10000.0,0.0,4591.54
+ALL-0069,Great-Unified Defense Pact,Defense Pact,"9875fc03a4,81601b2e5e",10000.0,0.0,6879.55
+ALL-0070,Great-Sigma-orionis Defense Pact,Defense Pact,"9875fc03a4,72196fa906",10000.0,0.0,2009.95
+ALL-0071,Great-Sigma-orionis Defense Pact,Defense Pact,"9875fc03a4,98fbfa35fa",10000.0,0.0,2126.01
+ALL-0072,Unified-Sigma-orionis Defense Pact,Defense Pact,"81601b2e5e,72196fa906",10000.0,0.0,6856.98
+ALL-0073,The Unified-Sigma-orionis Scientific Alliance,Research Alliance,"81601b2e5e,98fbfa35fa",10000.0,0.0,6973.04
+ALL-0074,Sigma-orionis-Sigma-orionis Defense Pact,Defense Pact,"72196fa906,98fbfa35fa",10000.0,0.0,2103.44
+ALL-0075,The Great-Great Scientific Alliance,Research Alliance,"e3ba98a843,50f9748c73",10000.0,0.0,1690.18
+ALL-0076,The Cygnian-Gamma-cygnis Scientific Alliance,Research Alliance,"3e1c9fe27e,cb16d2a5bc",10000.0,0.0,21697.67
+ALL-0077,Cygnian-Great Defense Pact,Defense Pact,"3e1c9fe27e,340e3912e2",10000.0,0.0,16912.91
+ALL-0078,Gamma-cygnis-Great Defense Pact,Defense Pact,"cb16d2a5bc,340e3912e2",10000.0,0.0,13092.44
+ALL-0079,The Solian-Scientific Scientific Alliance,Research Alliance,"415811daec,53dc64803e",10000.0,0.0,8754.05
+ALL-0080,The Allied-Great Scientific Alliance,Research Alliance,"947f74a852,7df05aba52",10000.0,22531543.0,5589.51
+ALL-0081,The Galactician-Great Scientific Alliance,Research Alliance,"e23dc5e375,6edc6616b2",10000.0,0.0,7632.25
+ALL-0082,The Galactician-Great Scientific Alliance,Research Alliance,"e23dc5e375,82b29167c3",10000.0,21116575.0,8407.45
+ALL-0083,Consolidated-Great Defense Pact,Defense Pact,"77811a2fa9,a067552faf",10000.0,0.0,9021.21
+ALL-0084,Consolidated-Scientific Defense Pact,Defense Pact,"77811a2fa9,c6642b2284",10000.0,39356120.0,17236.36
+ALL-0085,Scientific-Consolidated Defense Pact,Defense Pact,"4a9574c523,6957a14d13",10000.0,0.0,13053.15
+ALL-0086,Merex-Consolidated Defense Pact,Defense Pact,"e99c95009e,6957a14d13",10000.0,0.0,10466.59
+ALL-0087,The Great-Perseian Scientific Alliance,Research Alliance,"2a34070c99,d2f4557294",10000.0,0.0,11872.23
+ALL-0088,Great-Unified Defense Pact,Defense Pact,"2a34070c99,3b106fa102",10000.0,0.0,13912.18
+ALL-0089,Great-Allied Defense Pact,Defense Pact,"2a34070c99,cb6235e194",10000.0,0.0,12924.27
+ALL-0090,Unified-Scientific Defense Pact,Defense Pact,"4c67325ea2,8eadd942b0",10000.0,46193899.0,7746.47
+ALL-0091,Unified-Perseian Defense Pact,Defense Pact,"4c67325ea2,d2f4557294",10000.0,46193899.0,9158.24
+ALL-0092,Unified-Unified Defense Pact,Defense Pact,"4c67325ea2,3b106fa102",10000.0,46193899.0,11198.19
+ALL-0093,Unified-Allied Defense Pact,Defense Pact,"4c67325ea2,cb6235e194",10000.0,46193899.0,10210.28
+ALL-0094,Scientific-Allied Defense Pact,Defense Pact,"8eadd942b0,cb6235e194",10000.0,0.0,4005.14
+ALL-0095,The Perseian-Unified Scientific Alliance,Research Alliance,"d2f4557294,3b106fa102",10000.0,0.0,6404.82
+ALL-0096,The Perseian-Allied Scientific Alliance,Research Alliance,"d2f4557294,cb6235e194",10000.0,0.0,5416.91
+ALL-0097,The Solari-Unified Scientific Alliance,Research Alliance,"5f5ebcf2f5,5578b4053f",10000.0,27939626.0,15736.21
+ALL-0098,Great-Unified Defense Pact,Defense Pact,"095464621d,22e010a52d",10000.0,42986524.0,13504.53
+ALL-0099,The Great-Sagittarian Scientific Alliance,Research Alliance,"cf1fb521d7,0895acc0af",10000.0,27454458.0,6664.32
+ALL-0100,Great-Gamma-sagittariis Defense Pact,Defense Pact,"cf1fb521d7,cd650c58ff",10000.0,0.0,9943.06
+ALL-0101,Great-Scientific Defense Pact,Defense Pact,"cf1fb521d7,208f64f5f9",10000.0,0.0,6540.73
+ALL-0102,The Sagittarian-Scientific Scientific Alliance,Research Alliance,"0895acc0af,208f64f5f9",10000.0,27454458.0,8818.84
+ALL-0103,Gamma-sagittariis-Scientific Defense Pact,Defense Pact,"cd650c58ff,208f64f5f9",10000.0,0.0,12097.57
+ALL-0104,Great-Consolidated Defense Pact,Defense Pact,"ad899b1ed9,2b4452e77b",10000.0,0.0,10767.21
+ALL-0105,The Meroid-Consolidated Scientific Alliance,Research Alliance,"b53d4251d2,2b4452e77b",10000.0,0.0,10831.86
+ALL-0106,The Unified-Bulgite Scientific Alliance,Research Alliance,"7994a1ada7,2b100070c5",10000.0,30921388.0,9251.14
+ALL-0107,The Great-Great Scientific Alliance,Research Alliance,"a222a74ae8,c235dc422c",10000.0,22207708.0,16308.77
+ALL-0108,The Great-Great Scientific Alliance,Research Alliance,"a222a74ae8,9dbca7c528",10000.0,0.0,15268.37
+ALL-0109,Great-Great Defense Pact,Defense Pact,"c235dc422c,9dbca7c528",10000.0,22207708.0,4573.5
+ALL-0110,Great-Scientific Defense Pact,Defense Pact,"f0cb6b0a91,609e70586f",10000.0,27251148.0,9907.34
+ALL-0111,Great-Zelis Defense Pact,Defense Pact,"f0cb6b0a91,a866d8dcfc",10000.0,0.0,2120.54
+ALL-0112,Scientific-Zelis Defense Pact,Defense Pact,"609e70586f,a866d8dcfc",10000.0,27251148.0,9950.0
+ALL-0113,Scientific-Great Defense Pact,Defense Pact,"609e70586f,26a6b7dcc3",10000.0,27251148.0,18991.26
+ALL-0114,The Great-Unified Scientific Alliance,Research Alliance,"7be35390be,87f864fe83",10000.0,0.0,13792.62
+ALL-0115,Great-Great Defense Pact,Defense Pact,"7be35390be,3ba7df6ae1",10000.0,0.0,8727.27
+ALL-0116,Great-Great Defense Pact,Defense Pact,"7be35390be,edb45b6eec",10000.0,0.0,4858.18
+ALL-0117,Unified-Great Defense Pact,Defense Pact,"87f864fe83,edb45b6eec",10000.0,0.0,16657.25
+ALL-0118,Great-Great Defense Pact,Defense Pact,"3ba7df6ae1,edb45b6eec",10000.0,0.0,11591.9
+ALL-0119,The Consolidated-Great Scientific Alliance,Research Alliance,"fe5ce1f2b8,a31575c86a",10000.0,0.0,5958.92
+ALL-0120,The Consolidated-Scientific Scientific Alliance,Research Alliance,"f0ada7121c,6eb9b1daf2",10000.0,47831498.0,17587.6
+ALL-0121,The Consolidated-Great Scientific Alliance,Research Alliance,"f0ada7121c,07a0027478",10000.0,47831498.0,9298.83
+ALL-0122,Scientific-Great Defense Pact,Defense Pact,"6eb9b1daf2,07a0027478",10000.0,0.0,9799.64
+ALL-0123,Unified-Allied Defense Pact,Defense Pact,"8bd71d17f7,7f4ec7825c",10000.0,0.0,11439.21
+ALL-0124,Allied-Great Defense Pact,Defense Pact,"7f4ec7825c,a1d0ea467a",10000.0,0.0,17141.95
+ALL-0125,The Zylaran-Xenan Scientific Alliance,Research Alliance,"71d820677a,3339448f7c",10000.0,26863604.0,4704.58
+ALL-0126,Consolidated-Xenan Defense Pact,Defense Pact,"6d2f3e5ed1,3339448f7c",10000.0,0.0,4388.64
+ALL-0127,Unified Federation of Scientific and Consolidated,Galactic Federation,"be3191b575,63f01adf18",10000.0,51209398.0,8828.81
+ALL-0128,The Great-Consolidated Scientific Alliance,Research Alliance,"b75dce1421,9568bafb15",10000.0,0.0,4140.47
+ALL-0129,The Great-Bulgian Scientific Alliance,Research Alliance,"b75dce1421,47e406daef",10000.0,0.0,4388.14
+ALL-0130,Great-Consolidated Defense Pact,Defense Pact,"b75dce1421,ad47c2dda3",10000.0,0.0,2805.2
+ALL-0131,The Great-Consolidated Scientific Alliance,Research Alliance,"b75dce1421,dffeed89fb",10000.0,0.0,1551.27
+ALL-0132,Great-Consolidated Defense Pact,Defense Pact,"b75dce1421,cd3cb2af45",10000.0,37341315.0,13848.65
+ALL-0133,Great-Consolidated Defense Pact,Defense Pact,"4c8e6a8540,9568bafb15",10000.0,25300150.0,3749.98
+ALL-0134,The Great-Bulgian Scientific Alliance,Research Alliance,"4c8e6a8540,47e406daef",10000.0,25300150.0,3997.66
+ALL-0135,Scientific-Great Defense Pact,Defense Pact,"517cb43ce0,d378f96d17",10000.0,0.0,9883.81
+ALL-0136,Great-Orionian Defense Pact,Defense Pact,"d378f96d17,7664b6b371",10000.0,0.0,7322.88
+ALL-0137,The Orionian-Great Scientific Alliance,Research Alliance,"7664b6b371,739bb87006",10000.0,0.0,5188.4
+ALL-0138,Great-Consolidated Defense Pact,Defense Pact,"bda6417e80,56cd534bb7",10000.0,0.0,10021.44
+ALL-0139,The Great-Persean Scientific Alliance,Research Alliance,"bda6417e80,c6e77e6789",10000.0,0.0,11569.32
+ALL-0140,The Consolidated-Persean Scientific Alliance,Research Alliance,"56cd534bb7,c6e77e6789",10000.0,0.0,12758.56
+ALL-0141,The Consolidated-Perseite Scientific Alliance,Research Alliance,"56cd534bb7,ac4afd4a27",10000.0,0.0,7351.86
+ALL-0142,Persean-Perseite Defense Pact,Defense Pact,"c6e77e6789,ac4afd4a27",10000.0,0.0,8899.74
+ALL-0143,Scientific-Great Defense Pact,Defense Pact,"778b8b68c3,c5213edcba",10000.0,0.0,11016.06
+ALL-0144,The Galactician-Great Scientific Alliance,Research Alliance,"d957806d32,fcda05fc4e",10000.0,0.0,12050.98
+ALL-0145,The Galactician-Great Scientific Alliance,Research Alliance,"d957806d32,2320e9a617",10000.0,0.0,6283.0
+ALL-0146,Galactician-Great Defense Pact,Defense Pact,"d957806d32,75a58165a0",10000.0,28858661.0,3023.52
+ALL-0147,Great-Great Defense Pact,Defense Pact,"fcda05fc4e,75a58165a0",10000.0,28858661.0,11623.35
+ALL-0148,The Great-Great Scientific Alliance,Research Alliance,"2320e9a617,75a58165a0",10000.0,28858661.0,5855.38
+ALL-0149,The Consolidated-Unified Scientific Alliance,Research Alliance,"d5f12251b2,b4221d6e15",10000.0,0.0,17878.27
+ALL-0150,Consolidated-Unified Defense Pact,Defense Pact,"d5f12251b2,b3ddaf54de",10000.0,0.0,26109.79
+ALL-0151,Consolidated-Great Defense Pact,Defense Pact,"d5f12251b2,02e103d2b6",10000.0,0.0,20698.9
+ALL-0152,The Unified-Great Scientific Alliance,Research Alliance,"b4221d6e15,02e103d2b6",10000.0,0.0,11917.13
+ALL-0153,Unified-Unified Defense Pact,Defense Pact,"b3ddaf54de,fa8159dac5",10000.0,0.0,25996.13
+ALL-0154,Unified-Great Defense Pact,Defense Pact,"b3ddaf54de,02e103d2b6",10000.0,0.0,20148.66
+ALL-0155,The Consolidated-Great Scientific Alliance,Research Alliance,"b0eb206a08,529174abfd",10000.0,0.0,6632.14
+ALL-0156,Great-Unified Defense Pact,Defense Pact,"529174abfd,658cf93cc4",10000.0,0.0,10496.21
+ALL-0157,The Great-Aurelari Scientific Alliance,Research Alliance,"094756ff65,e07661a882",10000.0,27651706.0,10327.41
+ALL-0158,Orionite-Scientific Defense Pact,Defense Pact,"6c40e5c997,4df0d9ee3b",10000.0,29749080.0,9013.84
+ALL-0159,Great-Scientific Defense Pact,Defense Pact,"ce97697488,4df0d9ee3b",10000.0,0.0,11587.43
+ALL-0160,Consolidated-Scientific Defense Pact,Defense Pact,"b8c054770f,37270686ec",10000.0,84404528.0,7921.44
+ALL-0161,The Consolidated-Great Scientific Alliance,Research Alliance,"b8c054770f,b9be6a525a",10000.0,52846319.0,8743.79
+ALL-0162,Unified-Zylarex Defense Pact,Defense Pact,"0e67dd57aa,88977397af",10000.0,0.0,10079.01
+ALL-0163,The Zylarex-Scientific Scientific Alliance,Research Alliance,"88977397af,84a3d643c9",10000.0,28787953.0,14569.99
+ALL-0164,The Great-Consolidated Scientific Alliance,Research Alliance,"19190c022d,cadd62d564",10000.0,32858077.0,5601.8
+ALL-0165,The Aurelian-Scientific Scientific Alliance,Research Alliance,"2b478a564d,999c5041c4",10000.0,31971264.0,4856.23
+ALL-0166,Aurelian-Consolidated Defense Pact,Defense Pact,"2b478a564d,06f00def5a",10000.0,0.0,5920.3
+ALL-0167,Scientific-Consolidated Defense Pact,Defense Pact,"999c5041c4,06f00def5a",10000.0,31971264.0,7832.8
+ALL-0168,The Solari-Great Scientific Alliance,Research Alliance,"61397f1d85,ca40b2e629",10000.0,38672840.0,10491.59
+ALL-0169,Great-Vesperian Defense Pact,Defense Pact,"ca40b2e629,80d9c3cc28",10000.0,38672840.0,5240.45
+ALL-0170,The Consolidated-Bulgian Scientific Alliance,Research Alliance,"9568bafb15,47e406daef",10000.0,0.0,6929.04
+ALL-0171,Consolidated-Consolidated Defense Pact,Defense Pact,"9568bafb15,ad47c2dda3",10000.0,0.0,5346.1
+ALL-0172,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"9568bafb15,dffeed89fb",10000.0,0.0,4092.17
+ALL-0173,Consolidated-Consolidated Defense Pact,Defense Pact,"9568bafb15,cd3cb2af45",10000.0,37341315.0,16389.56
+ALL-0174,The Bulgian-Consolidated Scientific Alliance,Research Alliance,"47e406daef,dffeed89fb",10000.0,0.0,4339.85
+ALL-0175,Bulgian-Consolidated Defense Pact,Defense Pact,"47e406daef,cd3cb2af45",10000.0,37341315.0,16637.23
+ALL-0176,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"ad47c2dda3,dffeed89fb",10000.0,0.0,2756.9
+ALL-0177,The Scientific-Scientific Scientific Alliance,Research Alliance,"0b6029ea29,5a9f1f61c7",10000.0,0.0,10525.56
+ALL-0178,The Orionan-Scientific Scientific Alliance,Research Alliance,"0ed21e60e5,5a9f1f61c7",10000.0,48907341.0,11371.23
+ALL-0179,Orionan-Great Defense Pact,Defense Pact,"0ed21e60e5,02fd90e690",10000.0,48907341.0,5609.9
+ALL-0180,The Allied-Consolidated Scientific Alliance,Research Alliance,"3557fb1c6f,61550040fc",10000.0,23098616.0,21263.9
+ALL-0181,Allied-Great Defense Pact,Defense Pact,"3557fb1c6f,f0fcb8f048",10000.0,23098616.0,20775.59
+ALL-0182,Allied-Zelian Defense Pact,Defense Pact,"3557fb1c6f,691ec52085",10000.0,68879695.0,15424.12
+ALL-0183,The Consolidated-Great Scientific Alliance,Research Alliance,"61550040fc,f0fcb8f048",10000.0,0.0,26791.73
+ALL-0184,The Aureloid-Consolidated Scientific Alliance,Research Alliance,"33e625a829,b91403ddc4",10000.0,0.0,10036.12
+ALL-0185,Consolidated-Consolidated Defense Pact,Defense Pact,"58a2b00e32,03fca7f787",10000.0,37052041.0,16422.09
+ALL-0186,Consolidated-Scientific Defense Pact,Defense Pact,"58a2b00e32,939c53fc68",10000.0,0.0,12145.15
+ALL-0187,Consolidated-Scientific Defense Pact,Defense Pact,"03fca7f787,939c53fc68",10000.0,37052041.0,21622.58
+ALL-0188,The Cygnan-Cygnan Scientific Alliance,Research Alliance,"dc652af4e1,98e5a44c50",10000.0,40242021.0,6884.91
+ALL-0189,The Cygnan-Great Scientific Alliance,Research Alliance,"dc652af4e1,e1017ed35e",10000.0,40242021.0,13704.98
+ALL-0190,Cygnan-Cygnian Defense Pact,Defense Pact,"dc652af4e1,ee6f8a466e",10000.0,40242021.0,11895.15
+ALL-0191,Cygnan-Great Defense Pact,Defense Pact,"98e5a44c50,e1017ed35e",10000.0,0.0,8987.88
+ALL-0192,Cygnan-Cygnian Defense Pact,Defense Pact,"98e5a44c50,ee6f8a466e",10000.0,0.0,7178.05
+ALL-0193,Omega-bulgis-Unified Defense Pact,Defense Pact,"ed8eb43829,2d7a6c7193",10000.0,0.0,10826.4
+ALL-0194,Omega-bulgis-Great Defense Pact,Defense Pact,"ed8eb43829,c4d87c45ee",10000.0,0.0,4206.44
+ALL-0195,The Omega-bulgis-Unified Scientific Alliance,Research Alliance,"ed8eb43829,62a7129a59",10000.0,0.0,8485.7
+ALL-0196,The Omega-bulgis-Consolidated Scientific Alliance,Research Alliance,"ed8eb43829,28100766c8",10000.0,0.0,8483.25
+ALL-0197,Unified-Great Defense Pact,Defense Pact,"2d7a6c7193,c4d87c45ee",10000.0,0.0,10821.75
+ALL-0198,Unified-Unified Defense Pact,Defense Pact,"2d7a6c7193,62a7129a59",10000.0,0.0,15101.01
+ALL-0199,The Unified-Consolidated Scientific Alliance,Research Alliance,"2d7a6c7193,28100766c8",10000.0,0.0,15098.56
+ALL-0200,The Consolidated-Scientific Scientific Alliance,Research Alliance,"1e3994853e,b28f9ec7d4",10000.0,39115347.0,10144.6
+ALL-0201,Consolidated-Great Defense Pact,Defense Pact,"1e3994853e,75912c8e4c",10000.0,0.0,21459.42
+ALL-0202,The Scientific-Great Scientific Alliance,Research Alliance,"b28f9ec7d4,634ad45f7e",10000.0,62517774.0,3912.18
+ALL-0203,The Great-Great Scientific Alliance,Research Alliance,"634ad45f7e,75912c8e4c",10000.0,23402427.0,15227.0
+ALL-0204,Great-Scientific Defense Pact,Defense Pact,"9d449a31b9,a4eac32597",10000.0,0.0,4577.56
+ALL-0205,Unified Federation of Great and Great,Galactic Federation,"9d449a31b9,f94aaeed85",10000.0,0.0,4484.38
+ALL-0206,Great-Thranari Defense Pact,Defense Pact,"afc6771a1e,55c2a4dc5e",10000.0,0.0,12254.68
+ALL-0207,The Great-Unified Scientific Alliance,Research Alliance,"afc6771a1e,3779c3fe76",10000.0,0.0,6644.94
+ALL-0208,The Thranari-Unified Scientific Alliance,Research Alliance,"55c2a4dc5e,3779c3fe76",10000.0,0.0,9984.62
+ALL-0209,Thranari-Scientific Defense Pact,Defense Pact,"55c2a4dc5e,cd01ef6fd0",10000.0,0.0,21022.24
+ALL-0210,Unified-Scientific Defense Pact,Defense Pact,"3779c3fe76,cd01ef6fd0",10000.0,0.0,15412.51
+ALL-0211,Unified-Unified Defense Pact,Defense Pact,"63803c4eb1,20dcee6871",10000.0,63786277.0,11283.4
+ALL-0212,Great-Scientific Defense Pact,Defense Pact,"da38a63176,8196db66b3",10000.0,24746049.0,15362.5
+ALL-0213,Great-Orionite Defense Pact,Defense Pact,"db6da7e17a,73573955bb",10000.0,0.0,15557.29
+ALL-0214,Unified Federation of Great and Bulgian,Galactic Federation,"f2bbbfc167,f929aa33ac",10000.0,20658501.0,4261.56
+ALL-0215,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"28d83c4b42,0ddd78edbb",10000.0,0.0,4766.64
+ALL-0216,The Thranan-Great Scientific Alliance,Research Alliance,"d7ec4d3018,adc1c77061",10000.0,21757292.0,13934.09
+ALL-0217,The Orionite-Consolidated Scientific Alliance,Research Alliance,"931aa9655e,df2f64c1a1",10000.0,0.0,18361.66
+ALL-0218,Orionite-Great Defense Pact,Defense Pact,"931aa9655e,f27ca4fefa",10000.0,0.0,10334.47
+ALL-0219,The Consolidated-Great Scientific Alliance,Research Alliance,"df2f64c1a1,f27ca4fefa",10000.0,0.0,19712.46
+ALL-0220,Consolidated-Consolidated Defense Pact,Defense Pact,"4164b650a3,340ef3ab81",10000.0,0.0,12208.46
+ALL-0221,Consolidated-Consolidated Defense Pact,Defense Pact,"785ce4730c,7135e43d15",10000.0,0.0,13217.87
+ALL-0222,Consolidated-Orionite Defense Pact,Defense Pact,"7135e43d15,dbf06f7273",10000.0,0.0,12270.3
+ALL-0223,Consolidated-Great Defense Pact,Defense Pact,"7135e43d15,8f64eb0a84",10000.0,34572110.0,10379.24
+ALL-0224,Orionite-Great Defense Pact,Defense Pact,"dbf06f7273,8f64eb0a84",10000.0,34572110.0,5758.04
+ALL-0225,Consolidated-Consolidated Defense Pact,Defense Pact,"111ab1a74e,762d1b3438",10000.0,24018701.0,3972.87
+ALL-0226,The Great-Vesperite Scientific Alliance,Research Alliance,"41e5776038,11c4291fc3",10000.0,26119842.0,11949.91
+ALL-0227,Great-Great Defense Pact,Defense Pact,"41e5776038,c8c30fa0a1",10000.0,0.0,11527.57
+ALL-0228,The Great-Aurelian Scientific Alliance,Research Alliance,"41e5776038,41a9345e47",10000.0,25434485.0,16009.99
+ALL-0229,The Vesperite-Great Scientific Alliance,Research Alliance,"11c4291fc3,c8c30fa0a1",10000.0,26119842.0,8317.01
+ALL-0230,Great-Great Defense Pact,Defense Pact,"6edc6616b2,82b29167c3",10000.0,21116575.0,6232.04
+ALL-0231,The Great-Unified Scientific Alliance,Research Alliance,"1a2a63b5eb,9eeb4737e9",10000.0,24173763.0,10547.35
+ALL-0232,Solex-Great Defense Pact,Defense Pact,"8e17c1b492,35e0e185b7",10000.0,39406856.0,5600.87
+ALL-0233,Great-Great Defense Pact,Defense Pact,"15c488fdb9,52be76d999",10000.0,0.0,16563.29
+ALL-0234,The Allied-Scientific Scientific Alliance,Research Alliance,"2d148d0e47,a4eac32597",10000.0,0.0,10816.57
+ALL-0235,The Consolidated-Perseian Scientific Alliance,Research Alliance,"a9283be55d,27d9c8dc46",10000.0,0.0,5176.73
+ALL-0236,Consolidated-Great Defense Pact,Defense Pact,"a9283be55d,2c89a9e0dc",10000.0,0.0,10050.53
+ALL-0237,Perseian-Great Defense Pact,Defense Pact,"27d9c8dc46,2c89a9e0dc",10000.0,0.0,11816.48
+ALL-0238,Great-Scientific Defense Pact,Defense Pact,"2c89a9e0dc,c45231c414",10000.0,0.0,12807.68
+ALL-0239,Bulgan-Bulgian Defense Pact,Defense Pact,"c5f014b287,8d88177d24",10000.0,36124020.0,7379.47
+ALL-0240,The Vesperan-Valite Scientific Alliance,Research Alliance,"0187c7d64a,189d8d8d1b",10000.0,0.0,4401.67
+ALL-0241,The Vesperan-Great Scientific Alliance,Research Alliance,"0187c7d64a,d427d38a9f",10000.0,0.0,8355.67
+ALL-0242,Great-Consolidated Defense Pact,Defense Pact,"f1337406a3,ecbe2dc98a",10000.0,39830322.0,9863.34
+ALL-0243,The Orionex-Great Scientific Alliance,Research Alliance,"8c80ad65b6,65154f1c30",10000.0,59364155.0,3582.78
+ALL-0244,The Unified-Great Scientific Alliance,Research Alliance,"24e153416d,38ade68c1e",10000.0,0.0,6842.74
+ALL-0245,Great-Solite Defense Pact,Defense Pact,"eacab5ee97,ebda9e7b67",10000.0,0.0,7619.85
+ALL-0246,Solite-Unified Defense Pact,Defense Pact,"ebda9e7b67,de8a7cab3b",10000.0,0.0,14783.16
+ALL-0247,Great-Great Defense Pact,Defense Pact,"5573af18db,e13216033f",10000.0,0.0,9009.23
+ALL-0248,Great-Zylarian Defense Pact,Defense Pact,"5573af18db,bee1d78260",10000.0,0.0,5596.81
+ALL-0249,The Unified-Unified Scientific Alliance,Research Alliance,"2a8b6fc81d,2320636026",10000.0,0.0,7178.64
+ALL-0250,Unified-Scientific Defense Pact,Defense Pact,"2a8b6fc81d,e976b29c9d",10000.0,0.0,6454.98
+ALL-0251,Great-Unified Defense Pact,Defense Pact,"dc0074adc3,303a3df484",10000.0,23283650.0,11098.35
+ALL-0252,The Great-Aurelian Scientific Alliance,Research Alliance,"dc0074adc3,02b9381952",10000.0,27003919.0,22855.71
+ALL-0253,Unified-Aurelian Defense Pact,Defense Pact,"303a3df484,02b9381952",10000.0,50287569.0,15517.88
+ALL-0254,Unified-Great Defense Pact,Defense Pact,"08caaac3af,0ad458611c",10000.0,31119047.0,7315.96
+ALL-0255,Unified-Unified Defense Pact,Defense Pact,"08caaac3af,c2fe0ab024",10000.0,0.0,6266.35
+ALL-0256,Vesperian-Great Defense Pact,Defense Pact,"91474e8269,32d2bbd884",10000.0,0.0,9686.35
+ALL-0257,Unified-Consolidated Defense Pact,Defense Pact,"f343101fe6,1cf19da3a9",10000.0,0.0,11618.97
+ALL-0258,The Unified-Kaelumis Scientific Alliance,Research Alliance,"f343101fe6,fc241018ec",10000.0,0.0,17534.91
+ALL-0259,The Unified-Merian Scientific Alliance,Research Alliance,"f343101fe6,2c6958242d",10000.0,0.0,11554.35
+ALL-0260,Consolidated-Merian Defense Pact,Defense Pact,"1cf19da3a9,2c6958242d",10000.0,0.0,14944.36
+ALL-0261,Kaelumis-Merian Defense Pact,Defense Pact,"fc241018ec,2c6958242d",10000.0,0.0,20860.3
+ALL-0262,Great-Scientific Defense Pact,Defense Pact,"950050e41a,7ec564c9db",10000.0,0.0,13329.06
+ALL-0263,Great-Zylarian Defense Pact,Defense Pact,"950050e41a,f9c2058d1a",10000.0,0.0,7160.62
+ALL-0264,Scientific-Zylarian Defense Pact,Defense Pact,"7ec564c9db,f9c2058d1a",10000.0,0.0,8212.84
+ALL-0265,Great-Zylarian Defense Pact,Defense Pact,"2e4e7545f5,f9c2058d1a",10000.0,0.0,11273.86
+ALL-0266,Consolidated-Consolidated Defense Pact,Defense Pact,"bbf8578e8c,8478dfd6f7",10000.0,0.0,11846.99
+ALL-0267,Consolidated-Kaelumis Defense Pact,Defense Pact,"bbf8578e8c,6f1e390274",10000.0,0.0,7510.47
+ALL-0268,Consolidated-Kaelumis Defense Pact,Defense Pact,"8478dfd6f7,6f1e390274",10000.0,0.0,11177.6
+ALL-0269,Kaelumis-Unified Defense Pact,Defense Pact,"6f1e390274,b12b67a0db",10000.0,0.0,7715.87
+ALL-0270,Scientific-Great Defense Pact,Defense Pact,"28728de334,5d6505f12a",10000.0,26243455.0,9536.06
+ALL-0271,The Unified-Great Scientific Alliance,Research Alliance,"2c64149009,ed45fe3a8d",10000.0,0.0,7617.05
+ALL-0272,The Unified-Aurelan Scientific Alliance,Research Alliance,"2c64149009,b1f20b8a8c",10000.0,0.0,11355.55
+ALL-0273,The Great-Aurelan Scientific Alliance,Research Alliance,"ed45fe3a8d,b1f20b8a8c",10000.0,0.0,10908.67
+ALL-0274,Scientific-Consolidated Defense Pact,Defense Pact,"3a375c2f6d,0fa7096d5a",10000.0,34041742.0,10696.85
+ALL-0275,The Scientific-Consolidated Scientific Alliance,Research Alliance,"1a67be5b7f,862f6cbc45",10000.0,39544612.0,12766.49
+ALL-0276,Great-Consolidated Defense Pact,Defense Pact,"9883f23173,22c13af7a1",10000.0,0.0,21824.68
+ALL-0277,Great-Unified Defense Pact,Defense Pact,"9883f23173,ac70f57b73",10000.0,0.0,20619.8
+ALL-0278,The Consolidated-Unified Scientific Alliance,Research Alliance,"22c13af7a1,ac70f57b73",10000.0,0.0,15449.34
+ALL-0279,Unified Federation of Great and Great,Galactic Federation,"60a971a839,e941b86692",10000.0,0.0,10505.28
+ALL-0280,The Great-Cygnian Scientific Alliance,Research Alliance,"60a971a839,8dcb447d0f",10000.0,0.0,15924.81
+ALL-0281,Scientific-Unified Defense Pact,Defense Pact,"0130446f7e,d1ebd8161b",10000.0,37981167.0,13461.67
+ALL-0282,The Scientific-Scientific Scientific Alliance,Research Alliance,"0130446f7e,d056d7ce4a",10000.0,0.0,16828.24
+ALL-0283,The Unified-Scientific Scientific Alliance,Research Alliance,"d1ebd8161b,d056d7ce4a",10000.0,37981167.0,23161.39
+ALL-0284,Scientific-Solari Defense Pact,Defense Pact,"d056d7ce4a,74136dc7b0",10000.0,0.0,15809.03
+ALL-0285,Great-Vesperis Defense Pact,Defense Pact,"61dc46303f,8fbf42f886",10000.0,0.0,3414.85
+ALL-0286,The Great-Great Scientific Alliance,Research Alliance,"61dc46303f,b6ae409cbf",10000.0,0.0,3196.99
+ALL-0287,Vesperis-Unified Defense Pact,Defense Pact,"8fbf42f886,7388512271",10000.0,0.0,2328.25
+ALL-0288,The Vesperis-Great Scientific Alliance,Research Alliance,"8fbf42f886,b6ae409cbf",10000.0,0.0,3022.78
+ALL-0289,The Unified-Great Scientific Alliance,Research Alliance,"7388512271,b6ae409cbf",10000.0,0.0,2110.39
+ALL-0290,Orionan-Thranis Defense Pact,Defense Pact,"996190e522,f7bd18e491",10000.0,56475608.0,12966.01
+ALL-0291,Meroid-Great Defense Pact,Defense Pact,"556d6c2378,a38e0777cd",10000.0,26971152.0,11645.5
+ALL-0292,Great-Scientific Defense Pact,Defense Pact,"f3f5dfde4c,e12feef736",10000.0,0.0,14975.36
+ALL-0293,Great-Great Defense Pact,Defense Pact,"f3f5dfde4c,fba15f0324",10000.0,0.0,8189.46
+ALL-0294,Great-Great Defense Pact,Defense Pact,"f3f5dfde4c,350e107aae",10000.0,0.0,18846.98
+ALL-0295,Scientific-Great Defense Pact,Defense Pact,"e12feef736,fba15f0324",10000.0,0.0,12348.41
+ALL-0296,The Scientific-Great Scientific Alliance,Research Alliance,"e12feef736,350e107aae",10000.0,0.0,23005.93
+ALL-0297,Great-Great Defense Pact,Defense Pact,"fba15f0324,350e107aae",10000.0,0.0,16220.04
+ALL-0298,The Consolidated-Thranari Scientific Alliance,Research Alliance,"2211d3100d,459f704847",10000.0,0.0,7394.92
+ALL-0299,Thranari-Great Defense Pact,Defense Pact,"459f704847,575810e85b",10000.0,0.0,8925.02
+ALL-0300,The Unified-Aurelis Scientific Alliance,Research Alliance,"2705d84a32,92810d80b3",10000.0,84724667.0,3901.23
+ALL-0301,The Scientific-Allied Scientific Alliance,Research Alliance,"7e5521abbb,b9ec32251d",10000.0,0.0,21372.48
+ALL-0302,Kaelumis-Great Defense Pact,Defense Pact,"7c376afd56,0cb785b3d6",10000.0,37185139.0,5824.67
+ALL-0303,Consolidated-Allied Defense Pact,Defense Pact,"37a4cea3d7,467216187a",10000.0,36551379.0,6932.07
+ALL-0304,Scientific-Allied Defense Pact,Defense Pact,"57733c8324,467216187a",10000.0,0.0,13432.37
+ALL-0305,Great-Great Defense Pact,Defense Pact,"b2c9872c2d,792f609a6f",10000.0,0.0,22477.19
+ALL-0306,The Great-Great Scientific Alliance,Research Alliance,"b2c9872c2d,b9c3618013",10000.0,0.0,13418.84
+ALL-0307,The Great-Great Scientific Alliance,Research Alliance,"b2c9872c2d,3aa8ce54ee",10000.0,0.0,11582.95
+ALL-0308,The Great-Great Scientific Alliance,Research Alliance,"792f609a6f,b9c3618013",10000.0,0.0,16122.71
+ALL-0309,Great-Great Defense Pact,Defense Pact,"792f609a6f,3aa8ce54ee",10000.0,0.0,14286.83
+ALL-0310,Great-Great Defense Pact,Defense Pact,"764f599826,83c39baf65",10000.0,31550487.0,8892.17
+ALL-0311,Scientific-Consolidated Defense Pact,Defense Pact,"31aeef2350,83775e646f",10000.0,0.0,5606.16
+ALL-0312,The Scientific-Unified Scientific Alliance,Research Alliance,"31aeef2350,2ed96a351c",10000.0,0.0,7656.41
+ALL-0313,Great-Great Defense Pact,Defense Pact,"c1cc584fd5,75447b1ce9",10000.0,0.0,8342.94
+ALL-0314,Great-Great Defense Pact,Defense Pact,"11452e96e6,75447b1ce9",10000.0,0.0,15926.65
+ALL-0315,Scientific-Great Defense Pact,Defense Pact,"80ce70725d,75447b1ce9",10000.0,0.0,11661.32
+ALL-0316,Allied-Vesperan Defense Pact,Defense Pact,"13b6f1c19c,ee9099d9b7",10000.0,98001865.0,14125.38
+ALL-0317,Consolidated-Great Defense Pact,Defense Pact,"38d523ac80,8a78a0e229",10000.0,0.0,12094.69
+ALL-0318,The Unified-Unified Scientific Alliance,Research Alliance,"5fec320399,822326926a",10000.0,32660979.0,16296.42
+ALL-0319,The Great-Scientific Scientific Alliance,Research Alliance,"18daa88e4f,b6d872712f",10000.0,0.0,5127.45
+ALL-0320,Great-Aurelian Defense Pact,Defense Pact,"f03d90fb8f,123f4d1fb7",10000.0,0.0,11884.5
+ALL-0321,The Great-Aurelian Scientific Alliance,Research Alliance,"3c04f1e4d3,123f4d1fb7",10000.0,0.0,8993.87
+ALL-0322,The Great-Great Scientific Alliance,Research Alliance,"3c04f1e4d3,15474381ae",10000.0,0.0,7425.21
+ALL-0323,The Consolidated-Consolidated Scientific Alliance,Research Alliance,"e905d91038,f7ed0ea8ba",10000.0,0.0,5044.29
+ALL-0324,The Scientific-Great Scientific Alliance,Research Alliance,"37270686ec,b9be6a525a",10000.0,31558209.0,7705.34
+ALL-0325,Great-Great Defense Pact,Defense Pact,"f0cb6b0a91,26a6b7dcc3",10000.0,0.0,11161.8
+ALL-0326,Unified-Allied Defense Pact,Defense Pact,"3b106fa102,cb6235e194",10000.0,0.0,7456.86
+ALL-0327,Great-Scientific Defense Pact,Defense Pact,"5a236efd3f,37270686ec",10000.0,90531226.0,4514.62
+ALL-0328,The Great-Unified Scientific Alliance,Research Alliance,"fadaa4a404,de8a7cab3b",10000.0,0.0,19171.19
+ALL-0329,Consolidated-Unified Defense Pact,Defense Pact,"bbf8578e8c,b12b67a0db",10000.0,0.0,8385.26
+ALL-0330,Meroid-Consolidated Defense Pact,Defense Pact,"556d6c2378,ff559623e3",10000.0,26971152.0,22079.92
+ALL-0331,The Scientific-Unified Scientific Alliance,Research Alliance,"22091a7056,03d3903c7c",10000.0,0.0,13896.32
+ALL-0332,Great-Scientific Defense Pact,Defense Pact,"11452e96e6,80ce70725d",10000.0,0.0,12923.21
+ALL-0333,The Consolidated-Allied Scientific Alliance,Research Alliance,"e4a60e62b6,df2217070a",10000.0,0.0,5336.02
+ALL-0334,Great-Consolidated Defense Pact,Defense Pact,"d0016e25b4,724362e429",10000.0,54066931.0,5120.51
+ALL-0335,The Consolidated-Kaelumis Scientific Alliance,Research Alliance,"1cf19da3a9,fc241018ec",10000.0,0.0,20924.92
