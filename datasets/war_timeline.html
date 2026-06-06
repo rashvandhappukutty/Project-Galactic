@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Galactic Political & Conflict Timeline</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0B0B1E;
+            color: #E0E0FF;
+            margin: 0;
+            padding: 40px;
+        }
+        h1 {
+            color: #00D2FF;
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 5px;
+        }
+        .tagline {
+            text-align: center;
+            color: #A0A0C0;
+            font-size: 1.1em;
+            margin-bottom: 40px;
+        }
+        .timeline {
+            position: relative;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px 0;
+        }
+        .timeline::before {
+            content: '';
+            position: absolute;
+            width: 2px;
+            background-color: #1E1E38;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            margin-left: -1px;
+        }
+        .container {
+            padding: 15px 30px;
+            position: relative;
+            background-color: inherit;
+            width: 42%;
+        }
+        .container::after {
+            content: '';
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            right: -6px;
+            background-color: #0B0B1E;
+            border: 3px solid #00D2FF;
+            top: 25px;
+            border-radius: 50%;
+            z-index: 1;
+        }
+        .left {
+            left: 0;
+        }
+        .right {
+            left: 50%;
+        }
+        .right::after {
+            left: -6px;
+        }
+        .content {
+            padding: 20px;
+            background-color: #11112C;
+            position: relative;
+            border-radius: 8px;
+            border: 1px solid #1E1E38;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            font-size: 0.8em;
+            font-weight: 600;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        .danger { background-color: #FF3366; color: white; }
+        .warning { background-color: #FFA500; color: black; }
+        .info { background-color: #00D2FF; color: black; }
+        .year {
+            font-size: 1.2em;
+            font-weight: 700;
+            color: #00D2FF;
+            margin-bottom: 5px;
+        }
+        .title {
+            font-size: 1.1em;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #FFFFFF;
+        }
+        .desc {
+            font-size: 0.9em;
+            color: #A0A0C0;
+            line-height: 1.4;
+        }
+        @media screen and (max-width: 600px) {
+            .timeline::before { left: 31px; }
+            .container { width: 100%; padding-left: 70px; padding-right: 25px; }
+            .container::after { left: 15px; }
+            .left { left: 0; }
+            .right { left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <h1>Galactic Conflict & Politics Timeline</h1>
+    <div class="tagline">Interactive Log of Wars, Battles, and Espionage Discoveries</div>
+    <div class="timeline">
+
+    </div>
+</body>
+</html>
